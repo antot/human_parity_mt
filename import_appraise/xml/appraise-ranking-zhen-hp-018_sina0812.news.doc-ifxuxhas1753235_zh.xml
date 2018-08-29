@@ -1,0 +1,37 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="018_sina0812.news.doc-ifxuxhas1753235_zh.sl">
+    <source>原标题：江苏一养殖场2000只鸡被法院查扣场主擅自变卖获刑</source>
+    <reference>NA</reference>
+    <translation system="018_sina0812.news.doc-ifxuxhas1753235_zh.ht">Original title: A poultry farm with 2,000 chickens in Jiangsu seized by the legal court - farm owner given a penalty for unlicensed sales</translation>
+    <translation system="018_sina0812.news.doc-ifxuxhas1753235_zh.gg">Original title: Jiangsu One farm 2000 chickens were confiscated by the court to sell the criminal</translation>
+    <translation system="018_sina0812.news.doc-ifxuxhas1753235_zh.c6">Originally titled: 2000 chickens from a farm in Jiangsu were seized by the court and sold without permission</translation>
+  </seg>
+  <seg id="2" doc-id="018_sina0812.news.doc-ifxuxhas1753235_zh.sl">
+    <source>判决生效后，因李某没有自动履行判决确定的义务，王某向沭阳法院申请强制执行。</source>
+    <reference>NA</reference>
+    <translation system="018_sina0812.news.doc-ifxuxhas1753235_zh.ht">Once the verdict enters into force, since Li is not obliged to verify the actions that he must perform according to law, Wang asked the court of Shuyang County to enforce the implementation of said actions.</translation>
+    <translation system="018_sina0812.news.doc-ifxuxhas1753235_zh.gg">After the verdict came into force, Mr. Wang had applied to the Shuyang court for enforcement because Lee did not automatically fulfill his obligations.</translation>
+    <translation system="018_sina0812.news.doc-ifxuxhas1753235_zh.c6">After the judgment came into effect, because Li did not automatically fulfill the obligations determined in the judgment, Wang applied to Shuyang court for enforcement.</translation>
+  </seg>
+  <seg id="3" doc-id="018_sina0812.news.doc-ifxuxhas1753235_zh.sl">
+    <source>2014年10月16日，沭阳法院作出民事裁定，裁定对李某所有养殖场内蛋鸡2000只予以扣押，未经允许不得转移、变卖。</source>
+    <reference>NA</reference>
+    <translation system="018_sina0812.news.doc-ifxuxhas1753235_zh.ht">In October 16, 2014, the court of Shuyang gave a civil verdict, and ruled to seize the 2,000 egg-laying hens in Li’s poultry farm. The chickens may not be transferred or sold without permission.</translation>
+    <translation system="018_sina0812.news.doc-ifxuxhas1753235_zh.gg">October 16, 2014, the Shuyang court made a civil ruling, the decision on the lee of all the farms in the 2000 to be detained, not allowed to transfer, sell.</translation>
+    <translation system="018_sina0812.news.doc-ifxuxhas1753235_zh.c6">On 16 October 2014, the Shuyang Court issued a civil ruling ordering the seizure of 2,000 laying hens from all of Li's farms and that they should not be transferred or sold without permission.</translation>
+  </seg>
+  <seg id="4" doc-id="018_sina0812.news.doc-ifxuxhas1753235_zh.sl">
+    <source>李某在收到扣押裁定后，在未经沭阳法院许可的情况下，私自将该养殖场内被扣押的部分蛋鸡卖掉。</source>
+    <reference>NA</reference>
+    <translation system="018_sina0812.news.doc-ifxuxhas1753235_zh.ht">Upon receiving the verdict from the court, Li privately sold, without permission from the court of Shuyang, a number of egg hens from the poultry farm in question that formed part of the seized property.</translation>
+    <translation system="018_sina0812.news.doc-ifxuxhas1753235_zh.gg">After receiving the seizure, Lee sold some of the layers in the farm without the permission of the Shuyang court.</translation>
+    <translation system="018_sina0812.news.doc-ifxuxhas1753235_zh.c6">After receiving the seizure ruling, Li sold part of the hens seized in the farm without the permission of the Shuyang court.</translation>
+  </seg>
+  <seg id="5" doc-id="018_sina0812.news.doc-ifxuxhas1753235_zh.sl">
+    <source>至2015年3月8日沭阳县公安局勘查时，养殖场内只剩蛋鸡142只。</source>
+    <reference>NA</reference>
+    <translation system="018_sina0812.news.doc-ifxuxhas1753235_zh.ht">During an inspection carried out by the Shuyang County Public Security Bureau on March 8, 2015, there were only 142 egg-laying hens in the chicken farm.</translation>
+    <translation system="018_sina0812.news.doc-ifxuxhas1753235_zh.gg">Until March 8, 2015, when the Shuyang County Public Security Bureau was surveyed, only 142 hens were left in the farm.</translation>
+    <translation system="018_sina0812.news.doc-ifxuxhas1753235_zh.c6">By the time the Yuanyang County Public Security Bureau surveyed on March 8, 2015, there were only 142 eggs left in the farm.</translation>
+  </seg>
+</set>

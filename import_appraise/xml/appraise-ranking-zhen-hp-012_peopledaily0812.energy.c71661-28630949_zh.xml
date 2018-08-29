@@ -1,0 +1,114 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="012_peopledaily0812.energy.c71661-28630949_zh.sl">
+    <source>可惜，OPEC最新月报显示出7月原油产量继续增加，沙特产量更创下新高。</source>
+    <reference>NA</reference>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.ht">Unfortunately, the latest monthly report of OPEC indicated continuous increase in crude oil production volume in July. Saudi Arabia even reached in a record height in terms of production volume.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.gg">Unfortunately, OPEC's latest monthly report shows that crude oil production continued to rise in July and Saudi Arabia's output hit a record high.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.c6">Unfortunately, OPEC's latest monthly report showed crude oil production continued to increase in July, with Saudi production hitting a new high.</translation>
+  </seg>
+  <seg id="2" doc-id="012_peopledaily0812.energy.c71661-28630949_zh.sl">
+    <source>这份报告不禁令市场对OPEC的信誉产生怀疑，油价复苏的道路恐怕仍然布满荆棘。</source>
+    <reference>NA</reference>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.ht">This report couldn’t help but trigger market suspicion over OPEC’s credibility. The path toward recovery in oil prices is still difficult.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.gg">The report raises doubts about the credibility of OPEC, and the road to recovery is still fraught with thorns.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.c6">The report does not prevent markets from casting doubt on OPEC's credibility, and the road to recovery in oil prices is likely to remain thorny.</translation>
+  </seg>
+  <seg id="3" doc-id="012_peopledaily0812.energy.c71661-28630949_zh.sl">
+    <source>本周一，OPEC轮值主席兼卡塔尔能源大臣萨达表示，OPEC将在9月26-28日的国际能源论坛期间举行非正式会议。</source>
+    <reference>NA</reference>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.ht">On Monday, Qatar's Energy Minister Mohammed Bin Saleh Al-Sada who holds OPEC’s rotating presidency said that OPEC will hold an unofficial meeting during the International Energy Foundation conference which will be held between September 26 and 28.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.gg">In Monday, OPEC's rotating chairman and Qatar Energy Minister Sadah said OPEC would hold an informal meeting during the International Energy Forum in September and 26-28th.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.c6">On Monday, Saada, OPEC's rotating president and Qatar's energy minister, said the group would hold an informal meeting on the sidelines of the international energy forum on September 26-28.</translation>
+  </seg>
+  <seg id="4" doc-id="012_peopledaily0812.energy.c71661-28630949_zh.sl">
+    <source>OPEC周三公布的月报显示，包括加蓬在内的整个OPEC组织7月产量上升4.6万桶/日，至3311万桶/日。</source>
+    <reference>NA</reference>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.ht">OPEC’s monthly report published on Wednesday showed that OPEC’s total output (including Gabon) in July rose by 46,000 barrels/day to 33.11 million barrels/day.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.gg">OPEC's Wednesday monthly report showed that OPEC, including Gabon, rose by 46,000 barrels/day to 33.11 million barrels per day in July.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.c6">OPEC's monthly report, released on Wednesday, showed production across the Organization of Petroleum Exporting Countries, including Gabon, rose 46,000 bpd to 33.11 million bpd in July.</translation>
+  </seg>
+  <seg id="5" doc-id="012_peopledaily0812.energy.c71661-28630949_zh.sl">
+    <source>OPEC还在月报中表示，原油价格低廉已促使全球炼油商生产更多精炼油品，从而加重了市场供应过剩的程度。</source>
+    <reference>NA</reference>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.ht">OPEC expressed in its monthly report that the low price of crude oil has encouraged more refineries around the world to produce more refined oil products, worsening the issue of excessive supply in the market.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.gg">OPEC also said in its monthly report that low crude prices have prompted global refiners to produce more refined oil, exacerbating the extent of oversupply.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.c6">OPEC also said in its monthly report that the low price of crude oil has prompted refiners around the world to produce more refined oil, adding to the oversupply in the market.</translation>
+  </seg>
+  <seg id="6" doc-id="012_peopledaily0812.energy.c71661-28630949_zh.sl">
+    <source>受此消息影响，再加上美国上调原油产量预期和原油库存意外增加，国际油价连续两日收跌。</source>
+    <reference>NA</reference>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.ht">This news, coupled with the US raising its crude oil production forecast and unexpected increase in crude oil stockpiles has caused global oil prices to fall for two consecutive days.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.gg">The news, coupled with a US increase in crude oil production expectations and an unexpectedly increased oil inventories, have been falling for two consecutive days.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.c6">International oil prices closed lower for the second day in a row on the news, along with higher crude oil production expectations in the United States and an unexpected increase in crude oil inventories.</translation>
+  </seg>
+  <seg id="7" doc-id="012_peopledaily0812.energy.c71661-28630949_zh.sl">
+    <source>截至周三收盘，纽约商品交易所9月交货的轻质原油期货价格下跌2.48%，10月交货的伦敦布伦特原油期货价格下跌2.07%。</source>
+    <reference>NA</reference>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.ht">The price of light crude oil futures for delivery in September closed 2.48% lower on the New York Mercantile Exchange as of Wednesday, while the price of Brent crude oil futures for delivery in October fell 2.07%.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.gg">As of Wednesday, the price of light crude oil futures from the New York Mercantile Exchange fell by 2.48% in September, and the price of London Brent crude, which was delivered in October, fell 2.07%.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.c6">Up to Wednesday's close, light crude for September delivery on the New York Mercantile Exchange was down 2.48 per cent, while Brent crude for October delivery was down 2.07 per cent.</translation>
+  </seg>
+  <seg id="8" doc-id="012_peopledaily0812.energy.c71661-28630949_zh.sl">
+    <source>路透社认为，提议召开的产油国会议不太可能令供应明显收紧，美国能源信息署公布的数据也打压市场人气。</source>
+    <reference>NA</reference>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.ht">Reuters believe that the proposed conference of the petroleum producing countries is unlikely to order significant reduction in production. Data published by the US Energy Information Administration also cooled the market.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.gg">Reuters said the proposed oil-producing meeting is unlikely to make the supply significantly tighter, and the data released by the US Energy Information agency also depress sentiment.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.c6">Reuters believes the proposed meeting of oil-producing nations is unlikely to lead to a significant tightening of supply, and data released by the U.S. Energy Information Administration has weighed on sentiment.</translation>
+  </seg>
+  <seg id="9" doc-id="012_peopledaily0812.energy.c71661-28630949_zh.sl">
+    <source>伊朗官方通讯社Fars周三援引伊朗石油部长赞加内的发言称，伊朗的日原油产量最高为385万桶，这是2008年以来的最高水平。</source>
+    <reference>NA</reference>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.ht">Fars, the official media company of Iran, quoted Iranian Minister of Petroleum Zanganeh who said that the maximum crude oil production of Iran will be 3.85 million barrels per day, the highest volume since 2008.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.gg">Iran's official news agency, Fars, quoted Iran's oil minister in Wednesday as saying that Iran's crude oil production was up to 3.85 million barrels a day, the highest level since 2008.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.c6">Iran is producing up to 3.85 million barrels of crude oil a day, the highest level since 2008, the country's state-run news agency Fars said Wednesday, citing a statement from Iran's oil minister, Tsangane.</translation>
+  </seg>
+  <seg id="10" doc-id="012_peopledaily0812.energy.c71661-28630949_zh.sl">
+    <source>召开会议的消息刚出，俄罗斯能源部长诺瓦克就表示，当前油价下没有进行新一轮冻产谈判的必要。</source>
+    <reference>NA</reference>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.ht">Once information for the meeting has been released, Novak, the Russian Minister of Energy, expressed that under current oil prices, there is no need to initiate a new round of negotiations regarding frozen assets.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.gg">News of the meeting came just after Russia's energy minister, Novak Nowak, said there was no need for a new round of frozen production under the current oil price.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.c6">Immediately after news of the meeting, Russian Energy Minister Novak said there was no need for a new round of frozen production talks under current oil prices.</translation>
+  </seg>
+  <seg id="11" doc-id="012_peopledaily0812.energy.c71661-28630949_zh.sl">
+    <source>上次产油国召开会议已经是4月份的事情，OPEC成员国未能就任何措施达成协议。</source>
+    <reference>NA</reference>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.ht">The last time oil producing naitons convened a meeting was in April. OPEC members failed to reach an agreement on any measure.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.gg">The last time a meeting of oil-producing countries was April, OPEC members failed to reach an agreement on any measure.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.c6">The last meeting of oil-producing countries was in April, and OPEC members failed to agree on any measures.</translation>
+  </seg>
+  <seg id="12" doc-id="012_peopledaily0812.energy.c71661-28630949_zh.sl">
+    <source>BMIResearch石油与天然气分析师理查兹（Emma Richards）表示，市场和媒体可能对OPEC将召开的会议反应过度。</source>
+    <reference>NA</reference>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.ht">BMI Research Oil and Gas Analyst Emma Richards said that the market and the media may have over-reacted to the meeting OPEC is about to convene.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.gg">Emma Richards, Bmiresearch Oil and gas analyst, said markets and media could overreact to OPEC meetings.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.c6">Emma Richards, oil and gas analyst at BMI Research, said markets and the media may have overreacted to the OPEC meeting.</translation>
+  </seg>
+  <seg id="13" doc-id="012_peopledaily0812.energy.c71661-28630949_zh.sl">
+    <source>加拿大皇家银行大宗商品策略主管克罗夫特（Helima Croft）表示，OPEC通过释放他们将促成协议的信号来改变市场的情绪。</source>
+    <reference>NA</reference>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.ht">Helima Croft, Top Commodities Strategist of Royal Bank of Canada, expressed that OPEC has released signals that they would be reaching an agreement to transform the mood of the market.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.gg">Helima Croft, head of commodity strategy at Royal Bank of Canada, said OPEC would change sentiment by releasing signals that they would facilitate the deal.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.c6">Helima Croft, head of commodities strategy at Royal Bank of Canada, said OPEC had changed sentiment by sending signals that they would facilitate a deal.</translation>
+  </seg>
+  <seg id="14" doc-id="012_peopledaily0812.energy.c71661-28630949_zh.sl">
+    <source>这个手段就像是引开人视线的烟雾与镜子（故意给人错误印象）。</source>
+    <reference>NA</reference>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.ht">This method was like smoke and mirrors to divert people's attention (deliberately giving people the wrong impression).</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.gg">This approach is like the smoke and mirrors that draw a person's eye (intentionally giving the wrong impression).</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.c6">This technique is like smoke and mirrors (deliberately giving the wrong impression) to distract people from their vision.</translation>
+  </seg>
+  <seg id="15" doc-id="012_peopledaily0812.energy.c71661-28630949_zh.sl">
+    <source>德国商业银行大宗商品研究主管温伯格（Eugen Weinberg）称，人们认为OPEC试图通过9月会议稳定市场的可能性很低。</source>
+    <reference>NA</reference>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.ht">Eugen Weinberg, Head of Commodity Research at Commerzbank AG, said that people believe that there is a low possibility for OPEC to use the September meeting to stabilize the market.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.gg">Eugen Weinberg, head of commodity research at Commerzbank, said there was a low likelihood that OPEC would try to stabilize the market through the September meeting.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.c6">According to Eugen Weinberg, head of commodities research at Commerzbank, the chances of OPEC trying to stabilise the market through the September meeting are thought to be low.</translation>
+  </seg>
+  <seg id="16" doc-id="012_peopledaily0812.energy.c71661-28630949_zh.sl">
+    <source>这很可能进一步破坏市场对OPEC的信心，毕竟这个组织上演过一次“狼来了”。</source>
+    <reference>NA</reference>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.ht">This might further disrupt market confidence for OPEC as this organization has “cried wolf” before.</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.gg">This is likely to further undermine the market's confidence in OPEC, after all, the organization has staged a "wolf."</translation>
+    <translation system="012_peopledaily0812.energy.c71661-28630949_zh.c6">This is likely to further undermine confidence in OPEC, after all, the group staged a "wolf."</translation>
+  </seg>
+</set>

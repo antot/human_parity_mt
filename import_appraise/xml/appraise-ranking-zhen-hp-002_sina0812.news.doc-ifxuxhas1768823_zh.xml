@@ -1,0 +1,16 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="002_sina0812.news.doc-ifxuxhas1768823_zh.sl">
+    <source>记者8月12日获悉，北京2022年冬奥会和冬残奥会组织委员会发布公告表明，北京冬奥组委继承北京冬奥申委会徽、标志等知识产权。</source>
+    <reference>NA</reference>
+    <translation system="002_sina0812.news.doc-ifxuxhas1768823_zh.ht">Reporters learned on August 12 that the Beijing Organising Committee for the 2022 Olympic and Paralympic Winter Games announced that the Beijing Olympic Organising Committee will inherit the emblem, logo and other intellectual property rights of the Beijing Winter Olympic Games Bid Commitee.</translation>
+    <translation system="002_sina0812.news.doc-ifxuxhas1768823_zh.gg">Reporter August 12 learned that Beijing 2022 Winter Olympics and the organizing committee of the Winter Paralympic Games issued a notice that the Beijing Winter Olympic Committee inherits the Beijing winter bid emblem, logo and other intellectual property rights.</translation>
+    <translation system="002_sina0812.news.doc-ifxuxhas1768823_zh.c6">Reporter on August 12 was informed that the Beijing 2022 Winter Olympic Games and Paralympic Winter Games Organizing Committee issued a public announcement that the Beijing Winter Olympic Organizing Committee to inherit the Beijing Winter Olympic bid emblem, logo and other intellectual property rights.</translation>
+  </seg>
+  <seg id="2" doc-id="002_sina0812.news.doc-ifxuxhas1768823_zh.sl">
+    <source>未经北京冬奥组委许可，任何人不得将北京冬奥申委会徽、标志用于商业目的。</source>
+    <reference>NA</reference>
+    <translation system="002_sina0812.news.doc-ifxuxhas1768823_zh.ht">Unless authorized by the Beijing Winter Olympics organizing committee, no one is allowed to use the logo or mark of the Beijing Winter Olympics application committee for any commercial purposes.</translation>
+    <translation system="002_sina0812.news.doc-ifxuxhas1768823_zh.gg">Without the permission of BOCOG, no person shall use the emblem and logo of Beijing winter bid for commercial purposes.</translation>
+    <translation system="002_sina0812.news.doc-ifxuxhas1768823_zh.c6">No one may use the emblem and logo of the Beijing Winter Olympics Bidding Committee for commercial purposes without the permission of the Beijing Winter Olympics Organizing Committee.</translation>
+  </seg>
+</set>

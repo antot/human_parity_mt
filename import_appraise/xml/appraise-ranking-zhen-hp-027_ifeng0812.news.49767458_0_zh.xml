@@ -1,0 +1,51 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="027_ifeng0812.news.49767458_0_zh.sl">
+    <source>央行对支付宝等27家非银行机构支付业务许可证续展5年</source>
+    <reference>NA</reference>
+    <translation system="027_ifeng0812.news.49767458_0_zh.ht">Central Bank grants five-year extension to payment business license of 27 non-bank institutions including Alipay</translation>
+    <translation system="027_ifeng0812.news.49767458_0_zh.gg">5-year renewal of the central bank's payment of business permits to 27 non-banking institutions, such as Alipay</translation>
+    <translation system="027_ifeng0812.news.49767458_0_zh.c6">Central bank extends five-year license for payment business to 27 non-bank institutions, including PayPal</translation>
+  </seg>
+  <seg id="2" doc-id="027_ifeng0812.news.49767458_0_zh.sl">
+    <source>为整合业务资源，发挥规模效应，提高监管效率，本次续展对拟合并《支付业务许可证》的支付机构，相应调整其业务范围。</source>
+    <reference>NA</reference>
+    <translation system="027_ifeng0812.news.49767458_0_zh.ht">For the purpose of consolidating business resources, giving play to the economies of scale, and raising regulatory efficiency, the extension of the proposed merger of “payment business license” payment institutions, corresponding adjustments to the scope of its business were made.</translation>
+    <translation system="027_ifeng0812.news.49767458_0_zh.gg">In order to integrate the business resources, exert the scale effect and improve the efficiency of supervision, this renewal is to adjust its business scope accordingly to the payment institution which intends to merge the payment business license.</translation>
+    <translation system="027_ifeng0812.news.49767458_0_zh.c6">In order to consolidate business resources, bring into play economies of scale and improve the efficiency of supervision, this renewal will adjust the business scope of the payment institutions that are planning to consolidate the Payment Business License.</translation>
+  </seg>
+  <seg id="3" doc-id="027_ifeng0812.news.49767458_0_zh.sl">
+    <source>被合并支付机构应于公告之日起6个月内完成支付业务承接工作。</source>
+    <reference>NA</reference>
+    <translation system="027_ifeng0812.news.49767458_0_zh.ht">The merged payment agency shall complete the transfer of all payment related activities within 6 months after receiving notification.</translation>
+    <translation system="027_ifeng0812.news.49767458_0_zh.gg">The merged payment agency shall complete the payment business within 6 months from the date of the announcement.</translation>
+    <translation system="027_ifeng0812.news.49767458_0_zh.c6">The consolidated payment institution shall complete the payment business undertaking within 6 months from the date of the announcement.</translation>
+  </seg>
+  <seg id="4" doc-id="027_ifeng0812.news.49767458_0_zh.sl">
+    <source>中国人民银行将在业务承接工作完成后，办理相关《支付业务许可证》的注销、换发事宜。</source>
+    <reference>NA</reference>
+    <translation system="027_ifeng0812.news.49767458_0_zh.ht">After completing service transfer, the People’s Bank of China shall implement cancellation and replacement of documents relevant to the Payment Business License.</translation>
+    <translation system="027_ifeng0812.news.49767458_0_zh.gg">The People's Bank of China will handle the cancellation and renewal of the relevant "Payment business license" after the completion of the business undertaking.</translation>
+    <translation system="027_ifeng0812.news.49767458_0_zh.c6">The People's Bank of China will handle the cancellation and replacement of the relevant Payment Business License after the completion of the business undertaking work.</translation>
+  </seg>
+  <seg id="5" doc-id="027_ifeng0812.news.49767458_0_zh.sl">
+    <source>因部分支付机构存在业务严重违规、业务停滞萎缩或主动申请终止业务类型等情形，本次续展调减其业务范围。</source>
+    <reference>NA</reference>
+    <translation system="027_ifeng0812.news.49767458_0_zh.ht">As a number of payment institutions have committed major service violations, suspended or reduced the scale of services, or actively applied for terminating their services, this session shall continue to reduce the scope of services of these institutions.</translation>
+    <translation system="027_ifeng0812.news.49767458_0_zh.gg">This renewal is to reduce the scope of business due to serious breaches of business, stagnation in business, or termination of business by the voluntary application.</translation>
+    <translation system="027_ifeng0812.news.49767458_0_zh.c6">Due to serious business irregularities, business stagnation and shrinkage of some payment institutions or active application for termination of business types, the current renewal and adjustment of its business scope.</translation>
+  </seg>
+  <seg id="6" doc-id="027_ifeng0812.news.49767458_0_zh.sl">
+    <source>相关机构应于公告之日起6个月内按要求有序停止开展相关支付业务。</source>
+    <reference>NA</reference>
+    <translation system="027_ifeng0812.news.49767458_0_zh.ht">Relevant institutions shall, within six months of the date of notification, cease, in an orderly manner, to carry out relevant payment services as requested.</translation>
+    <translation system="027_ifeng0812.news.49767458_0_zh.gg">Relevant agencies shall, within 6 months from the date of announcement, suspend the relevant payment business as required.</translation>
+    <translation system="027_ifeng0812.news.49767458_0_zh.c6">The relevant institutions shall, within 6 months from the date of the announcement, stop carrying out the relevant payment business in an orderly manner according to the requirements.</translation>
+  </seg>
+  <seg id="7" doc-id="027_ifeng0812.news.49767458_0_zh.sl">
+    <source>中国人民银行将继续依法、审慎开展《支付业务许可证》续展工作。</source>
+    <reference>NA</reference>
+    <translation system="027_ifeng0812.news.49767458_0_zh.ht">Bank of China will continue to prudently carry out work concerned with the renewal of the License for Payment Services according to the law.</translation>
+    <translation system="027_ifeng0812.news.49767458_0_zh.gg">The People's Bank of China will continue to carry out the "Payment business license" in accordance with law and prudence.</translation>
+    <translation system="027_ifeng0812.news.49767458_0_zh.c6">The People's Bank of China will continue to carry out the renewal of the Payment Business License in accordance with the law and prudently.</translation>
+  </seg>
+</set>

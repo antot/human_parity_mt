@@ -1,0 +1,44 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="032_ifeng0812.news.49766488_0_zh.sl">
+    <source>2016年扬子晚报利群阳光助学行动自5月26日启动，经过两个月的报名，申请助学金的贫困学子总人数达800多人。</source>
+    <reference>NA</reference>
+    <translation system="032_ifeng0812.news.49766488_0_zh.ht">The 2016 Yangtse Evening Post Liqun Sunshine Scholarship Program was activated on May 26. After 2 months of registration, more than 800 needy students have applied for the scholarship.</translation>
+    <translation system="032_ifeng0812.news.49766488_0_zh.gg">2016 Yangzi Evening News Group of Sunshine Student action since May 26 started, after two months of registration, the total number of needy students applying for grants amounted to more than 800 people.</translation>
+    <translation system="032_ifeng0812.news.49766488_0_zh.c6">The 2016 Yangzi Evening News Liqun Sunshine Aid campaign, launched on May 26, brings the total number of poor students applying for grants to more than 800 after two months of registration.</translation>
+  </seg>
+  <seg id="2" doc-id="032_ifeng0812.news.49766488_0_zh.sl">
+    <source>助学过程中，已收到社会捐款超过120万元(已分五批公示)，至少可以帮助240位寒门学子圆梦大学。</source>
+    <reference>NA</reference>
+    <translation system="032_ifeng0812.news.49766488_0_zh.ht">During the school financial aid process, donations from the public have exceeded RMB1.2 million (five separate announcements have been made) which will help 240 poor students achieve their dream of studying in a university.</translation>
+    <translation system="032_ifeng0812.news.49766488_0_zh.gg">In the course of the education, has received social donations over 1.2 million yuan (has been divided into five batches of public notice), at least can help 240 was students dream of university.</translation>
+    <translation system="032_ifeng0812.news.49766488_0_zh.c6">In the process, more than 1.2 million yuan has been donated by the community (which has been announced in five batches) to help at least 240 students from poor families realize their dream of studying at the University.</translation>
+  </seg>
+  <seg id="3" doc-id="032_ifeng0812.news.49766488_0_zh.sl">
+    <source>目前，捐款仍在继续，本报吁请社会继续伸出援手，让更多家庭困难的孩子能够得到资助，得到社会的关怀。</source>
+    <reference>NA</reference>
+    <translation system="032_ifeng0812.news.49766488_0_zh.ht">Donations are still ongoing. We encourage the general public to extend their hand in support so that more children from families in need could receive aid and social care.</translation>
+    <translation system="032_ifeng0812.news.49766488_0_zh.gg">At present, the donation is still continuing, the newspaper called on the community to continue to lend a helping hand, so that more families with difficult children can receive financial support and social care.</translation>
+    <translation system="032_ifeng0812.news.49766488_0_zh.c6">At present, donations are continuing, and this newspaper calls on the community to continue to lend a helping hand so that more children from disadvantaged families can receive financial support and care from the community.</translation>
+  </seg>
+  <seg id="4" doc-id="032_ifeng0812.news.49766488_0_zh.sl">
+    <source>为确保助学行动公正、公开、透明，本报今日起分批公示学子基本信息，今天公示第1—100名，接受读者监督。</source>
+    <reference>NA</reference>
+    <translation system="032_ifeng0812.news.49766488_0_zh.ht">To ensure that student aid is fair, open and transparent, we will publicly disclose basic information of students in batches in our newspaper from today onward. Information on the first to the 100th student is disclosed publicly today to be inspected and supervised by readers.</translation>
+    <translation system="032_ifeng0812.news.49766488_0_zh.gg">In order to ensure that student action is fair, open, transparent, this newspaper in batches to publicize the basic information of students today, public 第1-100名, to accept the reader's supervision.</translation>
+    <translation system="032_ifeng0812.news.49766488_0_zh.c6">To ensure fairness, openness and transparency in student aid operations, this newspaper today published basic information on students in batches, and today published the first 1-100, subject to the supervision of readers.</translation>
+  </seg>
+  <seg id="5" doc-id="032_ifeng0812.news.49766488_0_zh.sl">
+    <source>利群阳光助学行动，是中国著名慈善品牌，扬子晚报利群阳光助学行动2003年起在江苏开展，资助贫困学子累计超过4000名。</source>
+    <reference>NA</reference>
+    <translation system="032_ifeng0812.news.49766488_0_zh.ht">The Liqun Sunshine Scholarship Program is a famous charity brand in China. The Yangtse Evening Post Liqun Sunshine Scholarship Program was initiated in 2003 at Jiangsu and helped a total of 4,000 students from needy backgrounds.</translation>
+    <translation system="032_ifeng0812.news.49766488_0_zh.gg">Li Group Sunshine Student Action, is a famous Chinese charity brand, Yang son evening News Group of Sunshine student action in Jiangsu province since 2003, funded poor students accumulated more than 4,000.</translation>
+    <translation system="032_ifeng0812.news.49766488_0_zh.c6">The Liqun Sunshine Student Aid Initiative, a famous Chinese charity brand, has been launched in Jiangsu since 2003, supporting a total of more than 4,000 impoverished students.</translation>
+  </seg>
+  <seg id="6" doc-id="032_ifeng0812.news.49766488_0_zh.sl">
+    <source>该活动资助范围是高考本科录取新生,不含免学费专业；品学兼优，家庭贫困。</source>
+    <reference>NA</reference>
+    <translation system="032_ifeng0812.news.49766488_0_zh.ht">The scope of this activity’s subsidy is to enroll new students for the college entrance exam, and excludes tuition-free specialization. Candidates should have good moral character and academic results, and come from poor families.</translation>
+    <translation system="032_ifeng0812.news.49766488_0_zh.gg">The scope of this activity is to enroll freshmen in college entrance examination, not to include tuition-free majors;</translation>
+    <translation system="032_ifeng0812.news.49766488_0_zh.c6">The scope of funding for this activity is the university entrance examination for undergraduate students, not including tuition free professional; excellent character, family poverty.</translation>
+  </seg>
+</set>

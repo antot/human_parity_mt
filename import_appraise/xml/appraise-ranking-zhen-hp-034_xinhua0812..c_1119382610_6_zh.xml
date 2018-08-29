@@ -1,0 +1,23 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="034_xinhua0812..c_1119382610_6_zh.sl">
+    <source>对于番薯在何时由何人引进这一问题，学界的说法仍纷繁不一。</source>
+    <reference>NA</reference>
+    <translation system="034_xinhua0812..c_1119382610_6_zh.ht">The academia has many theories regarding the time when the sweet potato was first introduced and the person responsible.</translation>
+    <translation system="034_xinhua0812..c_1119382610_6_zh.gg">There are still a myriad of academic arguments as to when the sweet potato will be introduced by whom.</translation>
+    <translation system="034_xinhua0812..c_1119382610_6_zh.c6">As for the question of when and by whom the sweet potato was introduced, the academic community's argument is still complicated.</translation>
+  </seg>
+  <seg id="2" doc-id="034_xinhua0812..c_1119382610_6_zh.sl">
+    <source>在目前较为主流的观点中，番薯的引进主要有三条线路。</source>
+    <reference>NA</reference>
+    <translation system="034_xinhua0812..c_1119382610_6_zh.ht">Currently more mainstream perspectives point to three channels for the introduction of sweet potatoes.</translation>
+    <translation system="034_xinhua0812..c_1119382610_6_zh.gg">In the current mainstream view, the introduction of sweet potatoes is mainly three lines.</translation>
+    <translation system="034_xinhua0812..c_1119382610_6_zh.c6">In the current more mainstream point of view, the introduction of sweet potato has three main lines.</translation>
+  </seg>
+  <seg id="3" doc-id="034_xinhua0812..c_1119382610_6_zh.sl">
+    <source>番薯引入的三条线路中影响最大、传播最广的，就是陈振龙由菲律宾引入福州。</source>
+    <reference>NA</reference>
+    <translation system="034_xinhua0812..c_1119382610_6_zh.ht">Of the three routes concerned with introducing sweet potato into China, that which had the biggest impact and that was most widespread was Chen Zhenlong bringing it into Fujian from the Philippines.</translation>
+    <translation system="034_xinhua0812..c_1119382610_6_zh.gg">The most influential and widely spread of the three lines introduced by Yams is the introduction of Chen Zhenlong from the Philippines to Fuzhou.</translation>
+    <translation system="034_xinhua0812..c_1119382610_6_zh.c6">The most influential and widespread of the three lines introduced by sweet potato is that Chen Zhenlong was introduced to Fuzhou by the Philippines.</translation>
+  </seg>
+</set>

@@ -1,0 +1,16 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="005_peopledaily0812.health.c398004-28631465_zh.sl">
+    <source>各地要将违规发布医疗广告、投诉举报集中、既往被多次处罚的医疗机构作为抽查重点。</source>
+    <reference>NA</reference>
+    <translation system="005_peopledaily0812.health.c398004-28631465_zh.ht">Various areas shall focus random inspection efforts on healthcare institutions that have posted illegal medical advertisements, received a large number of complaints, or subject to multiple penalties in the past.</translation>
+    <translation system="005_peopledaily0812.health.c398004-28631465_zh.gg">All localities to the violation of the issue of medical advertisements, complaints centralized, the past has been repeatedly punished by the medical institutions as a spot check point.</translation>
+    <translation system="005_peopledaily0812.health.c398004-28631465_zh.c6">All localities should focus on medical institutions that publish medical advertisements in violation of regulations, have concentrated on reporting complaints and have been punished several times in the past.</translation>
+  </seg>
+  <seg id="2" doc-id="005_peopledaily0812.health.c398004-28631465_zh.sl">
+    <source>国家卫生计生委、国家中医药管理局将适时组织对部分省份专项监督检查工作开展情况进行督查。</source>
+    <reference>NA</reference>
+    <translation system="005_peopledaily0812.health.c398004-28631465_zh.ht">The National Health and Family Planning Commission and State Administration of Traditional Chinese Medicine shall supervise, when required, the implementation of project monitoring and inspection for a number of provinces.</translation>
+    <translation system="005_peopledaily0812.health.c398004-28631465_zh.gg">National Health Commission, the State Administration of Traditional Chinese medicine will be timely organization of some provinces special supervision and inspection work carried out supervision.</translation>
+    <translation system="005_peopledaily0812.health.c398004-28631465_zh.c6">The National Health and Family Planning Commission and the State Administration of Traditional Chinese Medicine will organize supervision of the development of special supervision and inspection in some provinces in due course.</translation>
+  </seg>
+</set>

@@ -1,0 +1,16 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="013_ifeng0812.news.49764493_0_zh.sl">
+    <source>本报讯10日，南通市政府在上海国际会议中心举办沪通产业合作恳谈活动，180多家上海企业受邀参加，20个亿元以上沪通产业对接项目现场签约。</source>
+    <reference>NA</reference>
+    <translation system="013_ifeng0812.news.49764493_0_zh.ht">According to our correspondents, on the 10th day, the Nantong city government held a Shanghai-Nantong Business Partnership Bidding at the Shanghai International Convention Center. Over 180 Shanghai businesses were invited to the event and signed, at the site, projects worth over 2 billion RMB for Shanghai-Nantong business projects.</translation>
+    <translation system="013_ifeng0812.news.49764493_0_zh.gg">10th, Nantong Government in Shanghai International Conference Center to hold the Shanghai Tong Industrial cooperation, more than 180 Shanghai Enterprises invited to participate, more than 2 billion yuan Shanghai Tong Industrial docking Project signing.</translation>
+    <translation system="013_ifeng0812.news.49764493_0_zh.c6">10, Nantong municipal government in Shanghai International Conference Center held Shanghai-Shanghai industrial cooperation activities, more than 180 Shanghai enterprises were invited to participate in, more than 20 billion Shanghai-Shanghai industrial docking project site contract.</translation>
+  </seg>
+  <seg id="2" doc-id="013_ifeng0812.news.49764493_0_zh.sl">
+    <source>集中签约的20个项目总投资80.63亿元，涉及新能源、新材料、现代服务业等多个行业。</source>
+    <reference>NA</reference>
+    <translation system="013_ifeng0812.news.49764493_0_zh.ht">Total investments for 20 projects of the centralized agreement amounted to 8.063 billion RMB, and involves multiple sectors such as new energy, new materials, and modern services.</translation>
+    <translation system="013_ifeng0812.news.49764493_0_zh.gg">The total investment of the 20 projects signed by the company is 8.063 billion yuan, involving many industries such as new energy, materials and modern service industries.</translation>
+    <translation system="013_ifeng0812.news.49764493_0_zh.c6">The 20 centrally contracted projects, with a total investment of 8.063 billion yuan, involve a number of industries such as new energy, new materials and modern service industries.</translation>
+  </seg>
+</set>

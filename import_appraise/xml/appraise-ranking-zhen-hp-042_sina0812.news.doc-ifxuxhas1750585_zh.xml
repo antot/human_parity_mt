@@ -1,0 +1,37 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="042_sina0812.news.doc-ifxuxhas1750585_zh.sl">
+    <source>Uber进入台湾市场4年，对当地传统出租车行业产生了不小的冲击。</source>
+    <reference>NA</reference>
+    <translation system="042_sina0812.news.doc-ifxuxhas1750585_zh.ht">Uber has operated in Taiwan for 4 years, significantly impacting the traditional taxi industry in the region.</translation>
+    <translation system="042_sina0812.news.doc-ifxuxhas1750585_zh.gg">Bestäuber into the Taiwan market for 4 years, the local traditional taxi industry has produced a small impact.</translation>
+    <translation system="042_sina0812.news.doc-ifxuxhas1750585_zh.c6">Uber's entry into the Taiwan market for four years has had a big impact on the region's traditional taxi industry.</translation>
+  </seg>
+  <seg id="2" doc-id="042_sina0812.news.doc-ifxuxhas1750585_zh.sl">
+    <source>台湾《联合报》8月12日消息称，12日上午逾百辆出租车绕行台湾“行政院”以示抗议，导致周边出现严重交通瘫痪现象。</source>
+    <reference>NA</reference>
+    <translation system="042_sina0812.news.doc-ifxuxhas1750585_zh.ht">Taiwan’s United Daily News reported on August 12 that on the morning of the 12th, more than 100 taxis circled Taiwan's “Executive Yuan” as drivers staged a protest, severely paralyzing traffic in the surrounding area.</translation>
+    <translation system="042_sina0812.news.doc-ifxuxhas1750585_zh.gg">Taiwan's "United Daily News" August 12, said that 12th in the morning more than hundreds taxis around Taiwan's "executive Yuan" in protest, resulting in serious traffic paralysis surrounding the phenomenon.</translation>
+    <translation system="042_sina0812.news.doc-ifxuxhas1750585_zh.c6">Taiwan's United Daily News reported on August 12 that more than 100 taxis took a detour around Taiwan's "Executive Yuan" in protest, causing severe traffic paralysis in the surrounding area.</translation>
+  </seg>
+  <seg id="3" doc-id="042_sina0812.news.doc-ifxuxhas1750585_zh.sl">
+    <source>台北市司机工会理事长郑力嘉却表示，Uber来台4年，台当局这月底才召开会议，司机们已无法再等。</source>
+    <reference>NA</reference>
+    <translation system="042_sina0812.news.doc-ifxuxhas1750585_zh.ht">Taipei City Professional Drivers' Union President Cheng Li-chia said however that Uber has been in Taiwan for four years, but the Taiwanese authorities will only convene a meeting at the end of the month. Taxi drivers refuse to wait any longer.</translation>
+    <translation system="042_sina0812.news.doc-ifxuxhas1750585_zh.gg">Taipei Driver Trade union chairman Zheng said that the Bestäuber to Taiwan 4 years, Taiwan authorities this month to convene a meeting, drivers can no longer wait.</translation>
+    <translation system="042_sina0812.news.doc-ifxuxhas1750585_zh.c6">Zheng Lijia, chairman of the Taipei Drivers' Union, said Uber had been in Taiwan for four years and that the Taiwan authorities had only held a meeting at the end of this month and drivers were no longer able to wait.</translation>
+  </seg>
+  <seg id="4" doc-id="042_sina0812.news.doc-ifxuxhas1750585_zh.sl">
+    <source>然而政府言而无信，一拖再拖。</source>
+    <reference>NA</reference>
+    <translation system="042_sina0812.news.doc-ifxuxhas1750585_zh.ht">However, the government failed to keep its promise, and delayed time and again.</translation>
+    <translation system="042_sina0812.news.doc-ifxuxhas1750585_zh.gg">The Government, however, has no word and drags on.</translation>
+    <translation system="042_sina0812.news.doc-ifxuxhas1750585_zh.c6">Yet the government has failed to live up to its word, dragging its feet.</translation>
+  </seg>
+  <seg id="5" doc-id="042_sina0812.news.doc-ifxuxhas1750585_zh.sl">
+    <source>属于底层劳工的守法出租车司机，却要与违法却不受限制的Uber竞争，感到被当局欺骗。</source>
+    <reference>NA</reference>
+    <translation system="042_sina0812.news.doc-ifxuxhas1750585_zh.ht">Law-abiding taxi drivers are considered lower class workers, but they feel deceived by the government now that they have to compete with illegal and unrestricted Uber drivers.</translation>
+    <translation system="042_sina0812.news.doc-ifxuxhas1750585_zh.gg">The law-abiding taxi drivers belonging to the lower-level workers have to compete with the illegal but unrestricted bestäuber and feel cheated by the authorities.</translation>
+    <translation system="042_sina0812.news.doc-ifxuxhas1750585_zh.c6">Law-abiding taxi drivers, who belong to the bottom labour force, have to compete with Uber, which is illegal but not restricted, and feel cheated by the authorities.</translation>
+  </seg>
+</set>

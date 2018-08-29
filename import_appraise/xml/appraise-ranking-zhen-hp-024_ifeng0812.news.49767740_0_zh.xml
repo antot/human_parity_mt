@@ -1,0 +1,51 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="024_ifeng0812.news.49767740_0_zh.sl">
+    <source>群发诈骗短信达到一定数量，即使未诈骗得手，也可以诈骗罪论处。</source>
+    <reference>NA</reference>
+    <translation system="024_ifeng0812.news.49767740_0_zh.ht">When mass SMS fraud reaches a certain number, even if the fraud was unsuccessful, one may be found guilty of committing fraud.</translation>
+    <translation system="024_ifeng0812.news.49767740_0_zh.gg">Mass fraud message reached a certain number, even if the fraud is not successful, can also be criminalized fraud.</translation>
+    <translation system="024_ifeng0812.news.49767740_0_zh.c6">Mass fraud message reached a certain number, even if the fraud did not succeed, can also be punished for fraud.</translation>
+  </seg>
+  <seg id="2" doc-id="024_ifeng0812.news.49767740_0_zh.sl">
+    <source>河南省南阳市卧龙区人民法院审理查明，２０１５年９月３０日至１０月４日，被告人李会旺先后在桐柏县、南阳城区利用伪基站设备发送诈骗信息。</source>
+    <reference>NA</reference>
+    <translation system="024_ifeng0812.news.49767740_0_zh.ht">Proceedings by the People’s Court of Wolong District in Nanyang City of Henan Province found that the accused, Li Huiwang, used a fake base station device to send fraudulent messages at Tongbo County and Nanyang City areas from September 30 to October 4, 2015.</translation>
+    <translation system="024_ifeng0812.news.49767740_0_zh.gg">Henan province Nanyang Wolong District People's Court, September 30, 2015 to October 4, the defendant Li Huaiwang successively in Tongbai County, Nanyang City area using pseudo base station equipment to send fraudulent information.</translation>
+    <translation system="024_ifeng0812.news.49767740_0_zh.c6">The Wolong District People's Court of Nanyang City, Henan Province, heard and ascertained that from September 30 to October 4, 2015, the defendant, Li Huiwang, had sent fraudulent information using pseudo-base station equipment in Tongbai County and Nanyang City District, respectively.</translation>
+  </seg>
+  <seg id="3" doc-id="024_ifeng0812.news.49767740_0_zh.sl">
+    <source>同年，１０月５日１０时许，被告人再次来到南阳市卧龙区某宾馆房间内利用伪基站群发诈骗短信时，被公安民警抓获。</source>
+    <reference>NA</reference>
+    <translation system="024_ifeng0812.news.49767740_0_zh.ht">In the same year, at around 10 on October 5, the defendant checked into a room in a hotel at Wolong district, Nanyang City, and used a fake base station to commit mass SMS fraud. He was arrested by Public Security officers.</translation>
+    <translation system="024_ifeng0812.news.49767740_0_zh.gg">In the same year, October 5 10 o'clock Xu, the accused again came to Nanyang Wolong District a hotel room with a group of fraudulent text messages, was captured by public Security police.</translation>
+    <translation system="024_ifeng0812.news.49767740_0_zh.c6">In the same year, at about 10: 00 on October 5, the defendant was again caught by the public security police when he came to a hotel room in Wolong District, Nanyang City, using a pseudo-base station to send a group of fraudulent text messages.</translation>
+  </seg>
+  <seg id="4" doc-id="024_ifeng0812.news.49767740_0_zh.sl">
+    <source>经评估，该伪基站设备在２０１５年１０月４日发送短信６２２２８条，造成６２２２８个手机用户人均通讯中断８秒以上至１０分钟以下。</source>
+    <reference>NA</reference>
+    <translation system="024_ifeng0812.news.49767740_0_zh.ht">According to assessments, the fake base station sent a total of 62,228 message notifications on October 4, 2015, interrupting communications for 62,228 cellphone users for a period ranging from 8 seconds to 10 minutes.</translation>
+    <translation system="024_ifeng0812.news.49767740_0_zh.gg">After evaluation, the pseudo base station equipment sent 62,228 text message on October 4, 2015, resulting in 62,228 mobile phone users per capita communication interruption of 8 seconds to 10 minutes or less.</translation>
+    <translation system="024_ifeng0812.news.49767740_0_zh.c6">The pseudo-base station device was assessed to have sent 622,228 text messages on October 4, 2015, causing 62,228 mobile phone users to have their communications interrupted for more than eight seconds to less than 10 minutes per person.</translation>
+  </seg>
+  <seg id="5" doc-id="024_ifeng0812.news.49767740_0_zh.sl">
+    <source>法院经审理认为，被告人李会旺利用伪基站对不特定多数人发送诈骗短信共计６２２２８条，其行为已构成诈骗罪。</source>
+    <reference>NA</reference>
+    <translation system="024_ifeng0812.news.49767740_0_zh.ht">After reviewing the case, the court believes that the defendant Li Huiwang used a fake base station to send a total of 62,228 fraudulent messages to an unspecified but large number of people, an act that has established the criminal act of fraud.</translation>
+    <translation system="024_ifeng0812.news.49767740_0_zh.gg">The Court considered that the defendant Li Huaiwang to use the false base station to send fraudulent messages to the majority of the people in 62,228, its behavior has constituted a crime of fraud.</translation>
+    <translation system="024_ifeng0812.news.49767740_0_zh.c6">The court heard that the defendant, Li Huiwang, had used a fake base station to send a total of 62,228 fraudulent text messages to an unspecified majority, and that his actions had constituted a crime of fraud.</translation>
+  </seg>
+  <seg id="6" doc-id="024_ifeng0812.news.49767740_0_zh.sl">
+    <source>对于辩护人提出的被告人被抓时系未遂犯、未造成后果，认罪态度较好，建议对其从轻处罚的意见予以采纳。</source>
+    <reference>NA</reference>
+    <translation system="024_ifeng0812.news.49767740_0_zh.ht">As the defense attorney said that the defendant did not attempt the crime or caused the crime to occur, and exhibited a positive attitude when pleading guilty, the attorney recommended adopting a lighter punishment.</translation>
+    <translation system="024_ifeng0812.news.49767740_0_zh.gg">When the defendant was arrested, the accused was not guilty, and the guilty attitude was better, and the suggestion was adopted.</translation>
+    <translation system="024_ifeng0812.news.49767740_0_zh.c6">As for the defense's suggestion that the defendant committed an attempted crime when he was caught and did not cause any consequences, he has a better attitude of confessing his crime, and it is suggested that his suggestion of a lighter punishment should be adopted.</translation>
+  </seg>
+  <seg id="7" doc-id="024_ifeng0812.news.49767740_0_zh.sl">
+    <source>综合被告人犯罪性质、认罪态度等情节，以诈骗罪判处其有期徒刑４年零６个月，并处罚金１万元。</source>
+    <reference>NA</reference>
+    <translation system="024_ifeng0812.news.49767740_0_zh.ht">Taking into consideration the criminal nature of the defendant, his attitude toward admission of guilt and other circumstances, he was sentenced to four years and six months in prison and fined 10,000 yuan for committing fraud.</translation>
+    <translation system="024_ifeng0812.news.49767740_0_zh.gg">Combined with the nature of the defendant's crime, guilty plea and other circumstances, the crime of fraud was sentenced to 4 years 6 months, and a fine of 10,000 yuan.</translation>
+    <translation system="024_ifeng0812.news.49767740_0_zh.c6">The defendant was sentenced to four years and six months' imprisonment and a fine of $10,000 for the crime of fraud, taking into account the nature of the crime and his attitude toward the admission of guilt.</translation>
+  </seg>
+</set>

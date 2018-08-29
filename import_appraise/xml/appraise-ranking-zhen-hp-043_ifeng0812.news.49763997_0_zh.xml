@@ -1,0 +1,30 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="043_ifeng0812.news.49763997_0_zh.sl">
+    <source>据新华社消息澳大利亚新南威尔士州政府11日宣布，将斥资2亿澳元（约合1.54亿美元）对著名的悉尼歌剧院进行建成以来最大规模的修缮。</source>
+    <reference>NA</reference>
+    <translation system="043_ifeng0812.news.49763997_0_zh.ht">According to news from Xinhuanet, the New South Wales state government of Australia will be spending 200 million Australian Dollars (approximately equivalent to 154 million USD) for the largest renovation project for the Sydney Opera House since the construction of the building.</translation>
+    <translation system="043_ifeng0812.news.49763997_0_zh.gg">The Australian New South Wales, State Of Government announced 11th that it would spend a $200 million ($ 154 million) on the largest renovation since the famous Sydney Opera House was built, Xinhua news agency said.</translation>
+    <translation system="043_ifeng0812.news.49763997_0_zh.c6">The New South Wales state government will spend 200 million Australian dollars (154 million U.S. dollars) on the biggest renovation of the famous Sydney Opera House since it was built, Xinhua reported Wednesday.</translation>
+  </seg>
+  <seg id="2" doc-id="043_ifeng0812.news.49763997_0_zh.sl">
+    <source>新南威尔士州政府表示，此次修缮不会改变歌剧院贝壳状的外形。</source>
+    <reference>NA</reference>
+    <translation system="043_ifeng0812.news.49763997_0_zh.ht">The restoration will not change the shell shape of the theater, said the NSW government.</translation>
+    <translation system="043_ifeng0812.news.49763997_0_zh.gg">The New South Wales, State Of Government said the repairs would not alter the shell shape of the opera house.</translation>
+    <translation system="043_ifeng0812.news.49763997_0_zh.c6">The NSW government said the renovation would not change the opera house's shell-like appearance.</translation>
+  </seg>
+  <seg id="3" doc-id="043_ifeng0812.news.49763997_0_zh.sl">
+    <source>悉尼歌剧院是悉尼的地标性建筑之一，由丹麦建筑师约恩·乌特松设计，1973年建成，每年接待约800万参观者。</source>
+    <reference>NA</reference>
+    <translation system="043_ifeng0812.news.49763997_0_zh.ht">The Sydney Opera House designed by Danish architect Jørn Utzon was completed in 1973, receiving around 8 million visitors  annually as a urban landmark.</translation>
+    <translation system="043_ifeng0812.news.49763997_0_zh.gg">The Sydney Opera House is one of Sydney's landmark buildings, designed by Danish architect 约恩·乌特松, completed in 1973 and receives about 8 million visitors each year.</translation>
+    <translation system="043_ifeng0812.news.49763997_0_zh.c6">The Sydney Opera House, one of Sydney's iconic buildings, was designed by Danish architect Jon Utzon and was completed in 1973, hosting about eight million visitors a year.</translation>
+  </seg>
+  <seg id="4" doc-id="043_ifeng0812.news.49763997_0_zh.sl">
+    <source>悉尼交响乐团总经理罗里·杰夫斯认为，悉尼歌剧院将借这次改造打个“翻身仗”，成为“世界上音响效果最好的音乐厅之一”。</source>
+    <reference>NA</reference>
+    <translation system="043_ifeng0812.news.49763997_0_zh.ht">​Sydney Symphony Orchestra Managing Director Rory Jeffes believed that the Sydney Opera House would use this renovation to “turnaround” and become “a concert hall with the greatest acoustics in the world.”</translation>
+    <translation system="043_ifeng0812.news.49763997_0_zh.gg">Sydney Symphony Orchestra general manager 罗里·杰夫斯 believes that the Sydney Opera House will use this transformation to play a "turnaround", become "the world's best acoustics one of the concert hall."</translation>
+    <translation system="043_ifeng0812.news.49763997_0_zh.c6">Rory Jeffs, general manager of the Sydney Symphony Orchestra, believes the Sydney Opera House will use the revamp to make a "turnaround" and become "one of the best acoustics concert halls in the world."</translation>
+  </seg>
+</set>

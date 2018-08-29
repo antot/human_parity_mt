@@ -1,0 +1,51 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="044_ifeng0812.news.49767006_0_zh.sl">
+    <source>“排名下降的原因是外资对于中期内巴西GDP发展的预期恶化。”</source>
+    <reference>NA</reference>
+    <translation system="044_ifeng0812.news.49767006_0_zh.ht">“The fall in ranking was because foreign investors have downgraded Brazil’s medium- to long-term GDP growth forecast.”</translation>
+    <translation system="044_ifeng0812.news.49767006_0_zh.gg">"The decline was due to a worsening of foreign investment expectations for Brazil's GDP growth in the medium term." ”</translation>
+    <translation system="044_ifeng0812.news.49767006_0_zh.c6">"The decline is due to a deterioration in foreign investment expectations for Brazil's GDP growth over the medium term," he said.</translation>
+  </seg>
+  <seg id="2" doc-id="044_ifeng0812.news.49767006_0_zh.sl">
+    <source>2015年，巴西在全球直接投资中的参与度为3.7%，低于2014年的5.7%。</source>
+    <reference>NA</reference>
+    <translation system="044_ifeng0812.news.49767006_0_zh.ht">In 2015, Brazil’s participation rate in global fixed investment was 3.7%, lower than the 5.7% in 2014.</translation>
+    <translation system="044_ifeng0812.news.49767006_0_zh.gg">Brazil's participation in global direct investment was 3.7% in 2015, below 2014 's 5.7%.</translation>
+    <translation system="044_ifeng0812.news.49767006_0_zh.c6">Brazil's participation in global direct investment was 3.7 per cent in 2015, down from 5.7 per cent in 2014.</translation>
+  </seg>
+  <seg id="3" doc-id="044_ifeng0812.news.49767006_0_zh.sl">
+    <source>瑞信银行国际投资吸引力指数包括4个分项指数：基础设施、经济前景、商业环境和直接投资量。</source>
+    <reference>NA</reference>
+    <translation system="044_ifeng0812.news.49767006_0_zh.ht">Credit Suisse’s international investment attractiveness index includes four sub-indices: infrastructure, economic outlook, business environment and volume of direct investment.</translation>
+    <translation system="044_ifeng0812.news.49767006_0_zh.gg">Credit Suisse's international Investment Attractiveness index includes 4 sub-index: infrastructure, economic outlook, business environment and direct investment.</translation>
+    <translation system="044_ifeng0812.news.49767006_0_zh.c6">Credit Suisse's International Investment Attraction Index consists of four sub-indices: infrastructure, economic outlook, business environment and volume of direct investment.</translation>
+  </seg>
+  <seg id="4" doc-id="044_ifeng0812.news.49767006_0_zh.sl">
+    <source>2015年，巴西的国际直接投资为646亿美元，低于2014年的731亿美元。</source>
+    <reference>NA</reference>
+    <translation system="044_ifeng0812.news.49767006_0_zh.ht">In 2015, Brazil’s foreign direct investment amounted to US$64.6 billion, lower than the US$73.1 billion in 2014.</translation>
+    <translation system="044_ifeng0812.news.49767006_0_zh.gg">In 2015, Brazil's international direct investment was $64.6 billion, below 2014 's $73.1 billion.</translation>
+    <translation system="044_ifeng0812.news.49767006_0_zh.c6">Brazil's international direct investment was $64.6 billion in 2015, down from $73.1 billion in 2014.</translation>
+  </seg>
+  <seg id="5" doc-id="044_ifeng0812.news.49767006_0_zh.sl">
+    <source>去年，在巴西的“绿地投资”(到国外投资设厂的投资模式)为179亿美元，同比减少了2.1%。</source>
+    <reference>NA</reference>
+    <translation system="044_ifeng0812.news.49767006_0_zh.ht">Last year, Brazil’s “Green Field Investment” (scale of investment in overseas facilities) amounted to 17.9 billion USD, which was a 2.1% reduction compared to the same period last year.</translation>
+    <translation system="044_ifeng0812.news.49767006_0_zh.gg">Last year, the "greenfield investment" in Brazil (the investment model for foreign investment to set up a factory) was $17.9 billion, down 2.1% per cent year-on-year.</translation>
+    <translation system="044_ifeng0812.news.49767006_0_zh.c6">Last year, "greenfield investment" in Brazil (the investment model for investing in plants abroad) was $17.9 billion, a decrease of 2.1 per cent year-on-year.</translation>
+  </seg>
+  <seg id="6" doc-id="044_ifeng0812.news.49767006_0_zh.sl">
+    <source>“在巴西共有288个‘绿地投资’项目，而2003年至2014年的年平均量为314个”。</source>
+    <reference>NA</reference>
+    <translation system="044_ifeng0812.news.49767006_0_zh.ht">“There is a total of 288 “Green Field Investment” projects in Brazil. From 2003 to 2014, the annual average was 314 such projects.”</translation>
+    <translation system="044_ifeng0812.news.49767006_0_zh.gg">"There are 288 greenfield investment projects in Brazil, with an annual average of 314 from 2003 to 2014."</translation>
+    <translation system="044_ifeng0812.news.49767006_0_zh.c6">"There are 288 'greenfield investment' projects in Brazil, compared with an annual average of 314 between 2003 and 2014," he said.</translation>
+  </seg>
+  <seg id="7" doc-id="044_ifeng0812.news.49767006_0_zh.sl">
+    <source>不过，2016年上半年，在巴西的国际直接投资已达到338亿美元，和去年同期相比几乎增加了10%。</source>
+    <reference>NA</reference>
+    <translation system="044_ifeng0812.news.49767006_0_zh.ht">However, in the first half of 2016, foreign direct investments in Brazil reached 33.8 billion USD, an increase of nearly 10% compared to the same period last year.</translation>
+    <translation system="044_ifeng0812.news.49767006_0_zh.gg">However, in the first half of 2016, international direct investment in Brazil reached $33.8 billion, up almost 10% from the same period last year.</translation>
+    <translation system="044_ifeng0812.news.49767006_0_zh.c6">However, international direct investment in Brazil has reached $33.8 billion in the first half of 2016, an increase of almost 10 percent compared to the same period last year.</translation>
+  </seg>
+</set>

@@ -1,0 +1,44 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="026_ifeng0812.news.49766790_0_zh.sl">
+    <source>在有些夜晚，电离层充满自由电子，这意味着，无线电信号可以走得更远。</source>
+    <reference>NA</reference>
+    <translation system="026_ifeng0812.news.49766790_0_zh.ht">The ionosphere is filled with free electrons on some nights, which implies that radio signals can travel further.</translation>
+    <translation system="026_ifeng0812.news.49766790_0_zh.gg">On some nights, the ionosphere is full of free electrons, which means that radio signals can go farther.</translation>
+    <translation system="026_ifeng0812.news.49766790_0_zh.c6">On some nights, the ionosphere is filled with free electrons, which means that radio signals can go much further.</translation>
+  </seg>
+  <seg id="2" doc-id="026_ifeng0812.news.49766790_0_zh.sl">
+    <source>据美国《大众科学》月刊网站8月11日报道，美国空军对复制这一效应感兴趣。</source>
+    <reference>NA</reference>
+    <translation system="026_ifeng0812.news.49766790_0_zh.ht">According to a August 11 online report published by Popular Science, an American monthly journal, the US Air Force is interested in duplicating this effect.</translation>
+    <translation system="026_ifeng0812.news.49766790_0_zh.gg">The U.S. Air Force is interested in the effect of replication, according to the August 11 report of the Popular Science Monthly website.</translation>
+    <translation system="026_ifeng0812.news.49766790_0_zh.c6">The U.S. Air Force is interested in replicating the effect, according to the August 11 report on the website of the popular science magazine.</translation>
+  </seg>
+  <seg id="3" doc-id="026_ifeng0812.news.49766790_0_zh.sl">
+    <source>虽然拥有稳定的大量自由电子的电离层可以帮助人们在某个大学广播电台的播送范围边缘收听这个电台，但这或许不是美国空军的兴趣所在。</source>
+    <reference>NA</reference>
+    <translation system="026_ifeng0812.news.49766790_0_zh.ht">Although an ionosphere and its vast reserve of free electrons can help people receive the radio broadcast from a certain university base station, this was probably not the interest of the US Air Force.</translation>
+    <translation system="026_ifeng0812.news.49766790_0_zh.gg">While the ionosphere, which has a stable mass of free electrons, can help people listen to the radio at the edge of a university radio station, that may not be the interest of the U.S. Air Force.</translation>
+    <translation system="026_ifeng0812.news.49766790_0_zh.c6">While an ionosphere with a steady stream of free electrons could help people listen to a university radio station on the edge of its range, this may not be the Air Force's interest.</translation>
+  </seg>
+  <seg id="4" doc-id="026_ifeng0812.news.49766790_0_zh.sl">
+    <source>充满电子的电离层意味着，军方使用的无线电有着更大的播送范围，并且它或许会为全球定位系统（GPS）信号提供一些保护，使之免受太阳风暴的影响。</source>
+    <reference>NA</reference>
+    <translation system="026_ifeng0812.news.49766790_0_zh.ht">An ionosphere filled with electrons will provide military radios with a larger range of delivery and offer a certain degree of protection against the influence of solar storms for global positioning system (GPS) signals.</translation>
+    <translation system="026_ifeng0812.news.49766790_0_zh.gg">The electron-filled ionosphere means that the military uses a greater range of radios, and it may provide some protection from the Global Positioning System (GPS) signals from solar storms.</translation>
+    <translation system="026_ifeng0812.news.49766790_0_zh.c6">The electron-filled ionosphere means that the radio used by the military has a greater range, and it may provide some protection against solar storms for Global Positioning System (GPS) signals.</translation>
+  </seg>
+  <seg id="5" doc-id="026_ifeng0812.news.49766790_0_zh.sl">
+    <source>最终目标可能是根据需求打造一系列立方体卫星，它们可以在需要的时候加强电离层。</source>
+    <reference>NA</reference>
+    <translation system="026_ifeng0812.news.49766790_0_zh.ht">The final objective is to create a series of three-dimensional satellites as required. These would be able to enhance the ionosphere when required.</translation>
+    <translation system="026_ifeng0812.news.49766790_0_zh.gg">The ultimate goal may be to build a series of cube satellites based on demand, which can strengthen the ionosphere when needed.</translation>
+    <translation system="026_ifeng0812.news.49766790_0_zh.c6">The ultimate goal may be to create a series of cube satellites, based on demand, that can strengthen the ionosphere when needed.</translation>
+  </seg>
+  <seg id="6" doc-id="026_ifeng0812.news.49766790_0_zh.sl">
+    <source>但首先，这些同空军签订合同的团队必须证明有关科学原理会奏效。</source>
+    <reference>NA</reference>
+    <translation system="026_ifeng0812.news.49766790_0_zh.ht">But first, the teams that have signed a contract with the Air Force must prove that the relevant scientific principles actually work.</translation>
+    <translation system="026_ifeng0812.news.49766790_0_zh.gg">But first, the team that signed the contract with the Air Force must demonstrate that the scientific principles will work.</translation>
+    <translation system="026_ifeng0812.news.49766790_0_zh.c6">But first, these teams that contract with the Air Force must prove that the scientific principles will work.</translation>
+  </seg>
+</set>

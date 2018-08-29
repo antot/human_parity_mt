@@ -1,0 +1,23 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="028_ifeng0812.news.49764187_0_zh.sl">
+    <source>在京居住6个月以上的且符合在京有合法稳定就业、合法稳定住所、连续就读条件之一的非京籍市民,可以申请领取居住证。</source>
+    <reference>NA</reference>
+    <translation system="028_ifeng0812.news.49764187_0_zh.ht">Non-residents of Beijing who have lived in Beijing for more than six months, and comply with the one of the conditions of having legal and stable employment, legal and stable residence or continuous study, may apply for a residence permit.</translation>
+    <translation system="028_ifeng0812.news.49764187_0_zh.gg">Non-Beijing citizens who have resided in Beijing for more than 6 months and are in compliance with the lawful and stable employment, lawful and stable residence in Beijing may apply for a residence permit.</translation>
+    <translation system="028_ifeng0812.news.49764187_0_zh.c6">Non-Beijing citizens who have lived in Beijing for more than six months and who meet one of the requirements for lawful and stable employment, legal stable residence and continuous study in Beijing may apply for a residence permit.</translation>
+  </seg>
+  <seg id="2" doc-id="028_ifeng0812.news.49764187_0_zh.sl">
+    <source>近日,北京《居住证暂行条例》实施细则出台,这意味着“暂住证”将升级为“居住证”。</source>
+    <reference>NA</reference>
+    <translation system="028_ifeng0812.news.49764187_0_zh.ht">Recently, Beijing issued detailed rules for the implementation of the Interim Rules on Residence Permit. This implies that the “temporary residence permit” will be upgraded to “residence permit”.</translation>
+    <translation system="028_ifeng0812.news.49764187_0_zh.gg">Recently, the Beijing "residence permit interim" Implementation of the rules, which means that "temporary residence permit" will be upgraded to "residence permit."</translation>
+    <translation system="028_ifeng0812.news.49764187_0_zh.c6">Recently, Beijing "Temporary Residence Permit Regulations" detailed implementation rules, which means that the "temporary residence permit" will be upgraded to "residence permit."</translation>
+  </seg>
+  <seg id="3" doc-id="028_ifeng0812.news.49764187_0_zh.sl">
+    <source>相关部门负责人称,从“暂住证”到“居住证”的转变,意味着北京对非京籍常住人口将从“管理”转为多方位服务。</source>
+    <reference>NA</reference>
+    <translation system="028_ifeng0812.news.49764187_0_zh.ht">Head officials of relevant departments said that the transformation of “temporary residence permit” to “residence permit” meant that the City of Beijing will move away from “managing” long-term residents from outside the city and instead provide them with a wide selection of services.</translation>
+    <translation system="028_ifeng0812.news.49764187_0_zh.gg">Related department head said, from "temporary residence permit" to "residence permit" change, means Beijing to non-Beijing permanent population will shift from "management" to multi-directional service.</translation>
+    <translation system="028_ifeng0812.news.49764187_0_zh.c6">The shift from "temporary residence permits" to "residence permits" means Beijing will shift from "management" to multi-faceted services for the non-Beijing resident population, according to department heads.</translation>
+  </seg>
+</set>

@@ -1,0 +1,380 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="023_nytimes.69931_en.sl">
+    <source>《丰盛大餐》中大萧条时期的寒酸食物</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Miserable fare during the Great Depression in The Big Feast</translation>
+    <translation system="023_nytimes.69931_en.gg">The shabby food of the Great Depression during the feast</translation>
+    <translation system="023_nytimes.69931_en.c6">Cheap food from the Great Depression in The Great Dinner</translation>
+  </seg>
+  <seg id="2" doc-id="023_nytimes.69931_en.sl">
+    <source>1933年3月，刚刚当选为总统的富兰克林· 德拉诺·罗斯福坐在总统办公室里享用午餐。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">In March 1933, Franklin Delano Roosevelt, who was just elected as the President of the United States, was sitting in the presidential office enjoying lunch.</translation>
+    <translation system="023_nytimes.69931_en.gg">March 1933, just elected as president of Franklin · 德拉诺·罗斯福 sits in the Oval Office and enjoys his lunch.</translation>
+    <translation system="023_nytimes.69931_en.c6">In March 1933, Franklin Delano Roosevelt, who had just been elected president, sat down to lunch in the president's office.</translation>
+  </seg>
+  <seg id="3" doc-id="023_nytimes.69931_en.sl">
+    <source>作为一名美食家，罗斯福总统喜欢第五大道的美食，比如鹅肝酱和马里兰炖水鱼。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">As a gourmet, President Roosevelt loved fancy foods from Fifth Avenue such as foie gras and Maryland terrapin soup.</translation>
+    <translation system="023_nytimes.69931_en.gg">As a gourmet, President Franklin Roosevelt liked the cuisine of the five avenues, such as foie gras and Maryland stew.</translation>
+    <translation system="023_nytimes.69931_en.c6">As a gourmet, President Roosevelt enjoyed Fifth Avenue delicacies such as foie gras and Maryland stewed fish.</translation>
+  </seg>
+  <seg id="4" doc-id="023_nytimes.69931_en.sl">
+    <source>那天，他的菜单十分简单：番茄酱魔鬼蛋、土豆泥和作为点心的果脯布丁。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">His menu was very simple that day: deviled eggs with ketchup, mashed potatoes and preserved fruit pudding as dessert.</translation>
+    <translation system="023_nytimes.69931_en.gg">On that day, his menu was simple: tomato sauce, devil's egg, mashed potatoes and candied pudding for dessert.</translation>
+    <translation system="023_nytimes.69931_en.c6">That day, his menu was simple: ketchup devil's eggs, mashed potatoes and preserved fruit pudding for dessert.</translation>
+  </seg>
+  <seg id="5" doc-id="023_nytimes.69931_en.sl">
+    <source>珍·齐格曼表示：“这是为了在食物上与正在受苦的人们同甘共苦。”</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Jane Zigman said: “This is to show solidarity with people who are suffering as a result of food-related issues.”</translation>
+    <translation system="023_nytimes.69931_en.gg">"This is to share the joys and sorrows of food with the people who are suffering," 珍·齐格曼 said. ”</translation>
+    <translation system="023_nytimes.69931_en.c6">"It's about sharing food with people who are suffering," said Jane Siegman.</translation>
+  </seg>
+  <seg id="6" doc-id="023_nytimes.69931_en.sl">
+    <source>她的丈夫安德鲁·科补充道：“这也体现了美国人的饮食方式。”</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Her husband Andrew Cole added: “This also reflected the American food culture.”</translation>
+    <translation system="023_nytimes.69931_en.gg">Her husband, Cuomo, added: "This also reflects the way Americans eat." ”</translation>
+    <translation system="023_nytimes.69931_en.c6">"It also reflects the way Americans eat and drink," added her husband, Andrew Coe.</translation>
+  </seg>
+  <seg id="7" doc-id="023_nytimes.69931_en.sl">
+    <source>这对居住在布鲁克林高地的夫妻均为食品历史学家。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">The couple who lives at Brooklyn Heights are both food historians.</translation>
+    <translation system="023_nytimes.69931_en.gg">The couple, who live in Brooklyn Heights, are food historians.</translation>
+    <translation system="023_nytimes.69931_en.c6">The couple, who live in Brooklyn Heights, are both food historians.</translation>
+  </seg>
+  <seg id="8" doc-id="023_nytimes.69931_en.sl">
+    <source>科先生的上一本书《炒杂烩菜》是关于美国的中餐，而齐格曼女士在她的《97果园》一书中通过食物讲述了贫民区租客们的生活故事。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Mr Coe’s previous book, Chop Suey, was about Chinese cuisine in America, while Ms Ziegelman’s 97 Orchard tells the story of the lives of tenants living in the ghetto through food.</translation>
+    <translation system="023_nytimes.69931_en.gg">Mr. Ke's last book, "Fried Chowder", is about American Chinese food, and Ms. Ziegman in her "97 orchards" book to tell the life stories of slum tenants through food.</translation>
+    <translation system="023_nytimes.69931_en.c6">Mr. Coe's last book, "Chowder," was about Chinese food in the United States, and Ms. Zigman, in her book "97 Orchard," told the story of the lives of slum dwellers through food.</translation>
+  </seg>
+  <seg id="9" doc-id="023_nytimes.69931_en.sl">
+    <source>他们共同编写的新书《丰盛大餐》中将在周二由哈珀出版社出版，这本书介绍的是大萧条时期美国的食品历史。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">The new book titled A Square Meal that the two jointly authored will be published by Harper on Tuesday. The book introduces the history of American food during the Great Depression.</translation>
+    <translation system="023_nytimes.69931_en.gg">Their new book, "Sumptuous Feast", will be published in Tuesday by Harper Press, which introduces the history of American food in the Great Depression.</translation>
+    <translation system="023_nytimes.69931_en.c6">Their new book, "The Great Dinner," which will be published Tuesday by Harper Press, is about the history of food in the United States during the Great Depression.</translation>
+  </seg>
+  <seg id="10" doc-id="023_nytimes.69931_en.sl">
+    <source>在展示了一些食物方面的共同见解后，他们在艾森博格的三明治店中遇到了一名记者。这个位于熨斗区的简单午餐柜台自1929年经济奔溃时起一直营业到现在。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">After demonstrating some consensual understanding about food, they met a reporter at a sandwich shop at Eisenberg. This simple lunch eatery at the Flatiron District has been in business since the economic depression of 1929.</translation>
+    <translation system="023_nytimes.69931_en.gg">After showing some common insights on food, they met a journalist in Eisemberg's sandwich shop. This simple lunch counter in the Iron district has been open since the economy ran out of 1929.</translation>
+    <translation system="023_nytimes.69931_en.c6">After showing some common food insights, they meet a reporter at Eisenberg's Sandwich Shop, a simple lunch counter in the ironing district that has been open since the economic crash of 1929.</translation>
+  </seg>
+  <seg id="11" doc-id="023_nytimes.69931_en.sl">
+    <source>54岁的齐格曼女士点了一份奶油芝士配碎橄榄三明治，而57岁的科先生点了火鸡、土豆泥和蔬菜拼盘。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">54-year-old Ms Ziegelman ordered a cream cheese and crushed olive sandwich, while 57-year-old Mr Coe ordered a turkey, mashed potato and vegetable set.</translation>
+    <translation system="023_nytimes.69931_en.gg">Ms. Ziegman, 54, ordered a cream cheese and a broken olive sandwich, while the 57-year-old Mr. Ke ordered turkey, mashed potatoes and a vegetable platter.</translation>
+    <translation system="023_nytimes.69931_en.c6">Ms. Siegman, 54, ordered a cream cheese with a chopped olive sandwich, while Mr. Coe, 57, ordered a turkey, mashed potatoes and a vegetable platter.</translation>
+  </seg>
+  <seg id="12" doc-id="023_nytimes.69931_en.sl">
+    <source>记者点了一份烘肉卷，这对夫妻认为这些菜适合讨论大萧条时期的饮食。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">The reporter ordered a meatloaf. This couple felt that this meal was appropriate for discussing food during the Great Depression.</translation>
+    <translation system="023_nytimes.69931_en.gg">The reporter ordered a meatloaf, which the couple thought was suitable for discussing the diet during the Great Depression.</translation>
+    <translation system="023_nytimes.69931_en.c6">The reporter ordered a meatloaf, which the couple thought was appropriate for discussing the Great Depression diet.</translation>
+  </seg>
+  <seg id="13" doc-id="023_nytimes.69931_en.sl">
+    <source>齐格曼女士说：“当时面包非常流行。”</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Ziegelman said: “Bread was very popular at that time.”</translation>
+    <translation system="023_nytimes.69931_en.gg">"Bread was very popular at the time," Ms. Ziegman said. ”</translation>
+    <translation system="023_nytimes.69931_en.c6">"Bread was very popular at the time," Ms. Sigman said.</translation>
+  </seg>
+  <seg id="14" doc-id="023_nytimes.69931_en.sl">
+    <source>当时有花生面包、肝脏面包、大豆面包。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">There was peanut bread, liver bread and soybean bread at the time.</translation>
+    <translation system="023_nytimes.69931_en.gg">There were peanut bread, liver bread, and soy bread.</translation>
+    <translation system="023_nytimes.69931_en.c6">There was peanut bread, liver bread and soybean bread.</translation>
+  </seg>
+  <seg id="15" doc-id="023_nytimes.69931_en.sl">
+    <source>它们都用一种原料和一种能够浇在原料上的便宜浇头制成。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">They are all made from a particular raw material, and a cheap topping that can be poured onto the raw material.</translation>
+    <translation system="023_nytimes.69931_en.gg">They are made of a raw material and a cheap topping that can be poured on the raw material.</translation>
+    <translation system="023_nytimes.69931_en.c6">They are made from a single ingredient and a cheap topping that can be poured over the ingredients.</translation>
+  </seg>
+  <seg id="16" doc-id="023_nytimes.69931_en.sl">
+    <source>想象一下，你的晚餐都是花生。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Just imagine for a moment that peanuts are all you are going to have for dinner.</translation>
+    <translation system="023_nytimes.69931_en.gg">Imagine your dinner is peanuts.</translation>
+    <translation system="023_nytimes.69931_en.c6">Imagine your dinner is full of peanuts.</translation>
+  </seg>
+  <seg id="17" doc-id="023_nytimes.69931_en.sl">
+    <source>科先生扮了个怪相。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Mr. K made a face.</translation>
+    <translation system="023_nytimes.69931_en.gg">Mr. Ke played a strange picture.</translation>
+    <translation system="023_nytimes.69931_en.c6">Mr. Coe made a strange appearance.</translation>
+  </seg>
+  <seg id="18" doc-id="023_nytimes.69931_en.sl">
+    <source>他说道：“它们在你的胃里肯定就像铅一样。”</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">He said: “They definitely feel like lead in your stomach.”</translation>
+    <translation system="023_nytimes.69931_en.gg">He said: "They must be like lead in your stomach." ”</translation>
+    <translation system="023_nytimes.69931_en.c6">"They're definitely like lead in your stomach," he said.</translation>
+  </seg>
+  <seg id="19" doc-id="023_nytimes.69931_en.sl">
+    <source>在大萧条发生前的几年，美国人顿顿都是自助餐，尤其是在郊区。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Americans enjoy buffet meals everyday, especially in suburb areas several years before the Great Depression.</translation>
+    <translation system="023_nytimes.69931_en.gg">In the years before the Great Depression, American Dayton was a buffet, especially in the suburbs.</translation>
+    <translation system="023_nytimes.69931_en.c6">In the years before the Great Depression, Americans ate buffets, especially in the suburbs.</translation>
+  </seg>
+  <seg id="20" doc-id="023_nytimes.69931_en.sl">
+    <source>一群女人为男农场工人们烧饭，早餐、午餐和晚餐都有刚考出来的馅饼。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">A group of women is responsible for preparing the meals for the male farmhands. There are baked pies for breakfast, lunch, and dinner.</translation>
+    <translation system="023_nytimes.69931_en.gg">A group of women cooks for male farm workers, with freshly-tested pies for breakfast, lunch and dinner.</translation>
+    <translation system="023_nytimes.69931_en.c6">A group of women cooked meals for the male farm workers, with freshly baked pies for breakfast, lunch and dinner.</translation>
+  </seg>
+  <seg id="21" doc-id="023_nytimes.69931_en.sl">
+    <source>一战中，正是美国人将食物送给了饥饿的欧洲人。《丰盛大餐》记录了这个国家是如何突然不再成为一个富足之地。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">During WWI, Americans sent food to hungry Europeans. The Big Feast recorded how this country was suddenly no longer a land of plenty.</translation>
+    <translation system="023_nytimes.69931_en.gg">In the First World War, it was the Americans who gave food to the hungry Europeans. The feast of Plenty records how the country suddenly ceases to be a place of abundance.</translation>
+    <translation system="023_nytimes.69931_en.c6">During World War I, it was the Americans who gave food to hungry Europeans. "The Feast" chronicles how the country suddenly ceased to be a land of plenty.</translation>
+  </seg>
+  <seg id="22" doc-id="023_nytimes.69931_en.sl">
+    <source>科先生解释了为何他和他的妻子要写这本书：“当时，食物已成为令美国人感到不快的主要话题。”</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Mr Coe explained why he and his wife wanted to write this book. “At the time, food had become a major topic that made Americans unhappy.”</translation>
+    <translation system="023_nytimes.69931_en.gg">Mr. Ke explained why he and his wife were writing the book: "At the time, food had become the main topic of unhappiness for the American people." ”</translation>
+    <translation system="023_nytimes.69931_en.c6">Mr Coe explains why he and his wife wrote the book: "At the time, food had become a major source of irritation for Americans."</translation>
+  </seg>
+  <seg id="23" doc-id="023_nytimes.69931_en.sl">
+    <source>另一个不愉快的话题是寒酸的新食物：面包和炖菜等“迷之食物”成为了主菜，炖菜是“最佳的剩菜烹饪方式”，齐格曼女士说道，这是因为厨师们可以使用酱料中的奶油掩盖难吃的食材。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Another unwelcome topic is the poor state of new food: “Mysterious food” comprising bread and stewed vegetables have become the entrée. Stewed vegetables is the “best way to cook leftovers,” as explained by Ziegelman as chefs can use cream within the sauce to cover up the taste of poor-tasting ingredients.</translation>
+    <translation system="023_nytimes.69931_en.gg">Another unpleasant topic is the shabby new food: "Fan food", such as bread and stews, became the main course, and the stew was "the best way to cook leftovers," Ms. Ziegman said, because chefs could use the cream in their sauces to cover up the unpalatable ingredients.</translation>
+    <translation system="023_nytimes.69931_en.c6">Another unpleasant topic is the shabby new food: "Enchanted foods" such as bread and stews have become the main course, and stews are "the best way to cook leftovers," Ms. Siegman said, because chefs can use the butter in sauces to mask the unpalatable ingredients.</translation>
+  </seg>
+  <seg id="24" doc-id="023_nytimes.69931_en.sl">
+    <source>新鲜的水果被便宜的干果所代替。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Fresh fruits are being replaced by cheaper dried fruit preserves.</translation>
+    <translation system="023_nytimes.69931_en.gg">Fresh fruit is replaced by cheap dried fruits.</translation>
+    <translation system="023_nytimes.69931_en.c6">Fresh fruit is replaced by cheaper dried fruit.</translation>
+  </seg>
+  <seg id="25" doc-id="023_nytimes.69931_en.sl">
+    <source>多年来一直在美国人餐桌上担任主角的肉已变成了一种稀有的奢侈品。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">For many years, meat, once a staple part of the American dinner table, has become a rare luxury item.</translation>
+    <translation system="023_nytimes.69931_en.gg">The meat that has been leading the American table for years has become a rare luxury.</translation>
+    <translation system="023_nytimes.69931_en.c6">Meat, which has dominated the American dinner table for years, has become a rare luxury.</translation>
+  </seg>
+  <seg id="26" doc-id="023_nytimes.69931_en.sl">
+    <source>奇怪的大杂烩只考虑卡路里，比起味道、甚至是基本的烹饪常识，人们最先考虑的是营养。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">This strange mish-mash seems to be focused solely on calories instead of taste or even basic cooking techniques. The people are primarily concerned with nutrition.</translation>
+    <translation system="023_nytimes.69931_en.gg">The odd hodgepodge only considers calories, and the first thing people think about is nutrition rather than taste or even basic culinary common sense.</translation>
+    <translation system="023_nytimes.69931_en.c6">Strange hodgepodge is all about calories, and nutrition comes first, rather than taste or even basic culinary knowledge.</translation>
+  </seg>
+  <seg id="27" doc-id="023_nytimes.69931_en.sl">
+    <source>在研究本书，包括各种食谱的过程中，齐格曼女士制作了一份塞满花生油的烤洋葱。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">In the course of researching this book, including various recipes, Ms Ziegelman made a roasted onion stuffed with peanut oil.</translation>
+    <translation system="023_nytimes.69931_en.gg">In the process of studying this book, including various recipes, Ms. Ziegman made a baked onion stuffed with peanut oil.</translation>
+    <translation system="023_nytimes.69931_en.c6">In the course of researching the book, including various recipes, Ms. Zigman made a roasted onion stuffed with peanut oil.</translation>
+  </seg>
+  <seg id="28" doc-id="023_nytimes.69931_en.sl">
+    <source>科先生说道：“这在晚餐的餐桌上并不常见。”</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Mr Coe said, “This is not a common sight at the dinner table.”</translation>
+    <translation system="023_nytimes.69931_en.gg">"It's not uncommon at dinner tables," Mr. Ke said. ”</translation>
+    <translation system="023_nytimes.69931_en.c6">"It's not common at the dinner table," Mr. Ko said.</translation>
+  </seg>
+  <seg id="29" doc-id="023_nytimes.69931_en.sl">
+    <source>齐格曼女士表示：“这也太奇怪了”。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Ziegelman expressed: “This is really odd.”</translation>
+    <translation system="023_nytimes.69931_en.gg">Ms. Ziegman said: "This is too strange."</translation>
+    <translation system="023_nytimes.69931_en.c6">Ms Sigman said: "It's also so weird."</translation>
+  </seg>
+  <seg id="30" doc-id="023_nytimes.69931_en.sl">
+    <source>花生油与烤洋葱根本无法搭配。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Pairing peanut oil with roasted onions is simply out of the question.</translation>
+    <translation system="023_nytimes.69931_en.gg">Peanut oil and grilled onion can not match.</translation>
+    <translation system="023_nytimes.69931_en.c6">Peanut oil doesn't go well with roasted onions.</translation>
+  </seg>
+  <seg id="31" doc-id="023_nytimes.69931_en.sl">
+    <source>这是许多家庭经济餐的特点。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">This is a feature of many family budget meals.</translation>
+    <translation system="023_nytimes.69931_en.gg">This is the hallmark of many family economic meals.</translation>
+    <translation system="023_nytimes.69931_en.c6">This is a feature of many family meals.</translation>
+  </seg>
+  <seg id="32" doc-id="023_nytimes.69931_en.sl">
+    <source>家庭经济学家们影响着这个国家的饮食习惯，比如1923年至1943年担任联邦家庭经济局主厨的路易斯·斯坦利等人，这在历史上是绝无仅有的。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Home economists have influenced the dietary habits of this country. For example, Louis Stanley served as the Chief of the Bureau of Home Economics from 1923 to 1943. Such personalities are unique in history.</translation>
+    <translation system="023_nytimes.69931_en.gg">Family economists influence the country's eating habits, such as the 路易斯·斯坦利, who served as head of the Federal Family Economics Office from 1923 to 1943, which is historically unique.</translation>
+    <translation system="023_nytimes.69931_en.c6">Family economists influence the country's eating habits, such as Louis Stanley, who served as the head chef of the Federal Bureau of Family Economics from 1923 to 1943, which is unprecedented in history.</translation>
+  </seg>
+  <seg id="33" doc-id="023_nytimes.69931_en.sl">
+    <source>他们在报纸和杂志中发布食谱和文章，鼓励女性“精打细算”并勇于将奶油意大利面配胡萝卜等糟糕的食物变成美食。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">They published recipes and articles in newspapers and magazines encouraging women to “act in an economic way” and bravely combine carbonara with carrots and other food with lower grade to make something delicious.</translation>
+    <translation system="023_nytimes.69931_en.gg">They publish recipes and articles in newspapers and magazines, encouraging women to be "frugal" and daring to turn the cream of spaghetti with carrots and other bad foods into food.</translation>
+    <translation system="023_nytimes.69931_en.c6">They publish recipes and articles in newspapers and magazines, encouraging women to be "frugal" and brave enough to turn bad food such as creamy pasta with carrots into good food.</translation>
+  </seg>
+  <seg id="34" doc-id="023_nytimes.69931_en.sl">
+    <source>《丰盛大餐》是一顿丰盛的“历史珍味”。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">A Square Meal provides a sumptuous historical feast.</translation>
+    <translation system="023_nytimes.69931_en.gg">"Sumptuous feast" is a sumptuous "historical treasure".</translation>
+    <translation system="023_nytimes.69931_en.c6">"The Big Meal" is a sumptuous "historical treasure."</translation>
+  </seg>
+  <seg id="35" doc-id="023_nytimes.69931_en.sl">
+    <source>尤其值得玩味的是政府对于饥饿民众们的回应，比如总统市民赫伯特·胡佛“别人的事我可管不了”的态度。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">The response of the government to the starving public worthed pondering, for example " It's other's business" attitude by the President Herbert Hoover</translation>
+    <translation system="023_nytimes.69931_en.gg">It is particularly interesting to note the government's response to the hungry people, such as the president's People Herbert Buddha "Other People's things I can not control" attitude.</translation>
+    <translation system="023_nytimes.69931_en.c6">Of particular interest is the government's response to the hungry, such as President Herbert Hoover's "I can't handle other people's business."</translation>
+  </seg>
+  <seg id="36" doc-id="023_nytimes.69931_en.sl">
+    <source>虽然他公开赞扬了童年时简单的爱荷华州农舍，但他的饮食却像百万富翁一般精致。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Although he openly praised the simple Iowa farmstead of his childhood, his diet was as exquisite as a millionaire’s meal.</translation>
+    <translation system="023_nytimes.69931_en.gg">Although he publicly praised the simple Iowa farmhouse in his childhood, his diet was as fine as a millionaire.</translation>
+    <translation system="023_nytimes.69931_en.c6">While he has publicly praised the simple Iowa farmhouse of his childhood, his diet is as sophisticated as a millionaire's.</translation>
+  </seg>
+  <seg id="37" doc-id="023_nytimes.69931_en.sl">
+    <source>科先生表示：“他喜欢吃欧式西餐，比如鱼伴黄瓜酱”。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Mr Coe said, “He liked to eat Continental cuisine, like fish with cucumber sauce.”</translation>
+    <translation system="023_nytimes.69931_en.gg">"He likes to eat European-style Western food, such as fish with cucumber sauce," says Mr Ke.</translation>
+    <translation system="023_nytimes.69931_en.c6">Mr Coe said: "He likes to eat European Western food, such as fish with cucumber sauce."</translation>
+  </seg>
+  <seg id="38" doc-id="023_nytimes.69931_en.sl">
+    <source>他穿着一件晚礼服，在一间镀金的餐厅中就餐。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">He is wearing an evening suit and having dinner at a gold-plated restaurant.</translation>
+    <translation system="023_nytimes.69931_en.gg">He wore a tuxedo and dined in a gilded restaurant.</translation>
+    <translation system="023_nytimes.69931_en.c6">He was wearing an evening dress and eating in a gilded dining room.</translation>
+  </seg>
+  <seg id="39" doc-id="023_nytimes.69931_en.sl">
+    <source>他显然脱离了人民。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">He is clearly detached from the people.</translation>
+    <translation system="023_nytimes.69931_en.gg">He was evidently out of the people.</translation>
+    <translation system="023_nytimes.69931_en.c6">He was clearly separated from the people.</translation>
+  </seg>
+  <seg id="40" doc-id="023_nytimes.69931_en.sl">
+    <source>如果不是妻子埃莉诺鼓励他在饮食上树立榜样，罗斯福总统可能也会犯相同的错误。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">If not for wife Eleanor’s encouragement to set an example in respect of his diet, President Roosevelt may also have made the same mistake.</translation>
+    <translation system="023_nytimes.69931_en.gg">If not his wife Eleanor encouraged him to set an example in his diet, President Roosevelt might have made the same mistake.</translation>
+    <translation system="023_nytimes.69931_en.c6">President Roosevelt might have made the same mistake had it not been for his wife, Eleanor, who encouraged him to set an example in his diet.</translation>
+  </seg>
+  <seg id="41" doc-id="023_nytimes.69931_en.sl">
+    <source>正如本书所言，罗斯福女士所聘用的管家对于味道毫无兴趣，因此白宫里的“食物不仅是华盛顿最难吃的食物，更是烹饪最差的食物。”</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">As was said in this book, the housekeeper Mrs Roosevelt hired had no interest in taste. Therefore, the White House “not only had the worst food in Washington, it also had the worst prepared food.”</translation>
+    <translation system="023_nytimes.69931_en.gg">As the book puts it, Ms. Roosevelt's housekeeper had no interest in the taste, so the White House "food is not only the worst food in Washington, but the worst food in the kitchen." ”</translation>
+    <translation system="023_nytimes.69931_en.c6">As the book says, the housekeeper Ms. Roosevelt hired had no interest in taste, so "the food in the White House was not just the worst food in Washington, but the worst cooked."</translation>
+  </seg>
+  <seg id="42" doc-id="023_nytimes.69931_en.sl">
+    <source>当美国一回到正规，许多大萧条时期的烹饪方式就被摒弃。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">When the US returned to normal, many methods of cooking during the Great Depression were abandoned.</translation>
+    <translation system="023_nytimes.69931_en.gg">When the United States is back to normal, many of the Great Depression-era cuisine is abandoned.</translation>
+    <translation system="023_nytimes.69931_en.c6">As soon as the United States returned to normality, many of the ways of cooking during the Great Depression were abandoned.</translation>
+  </seg>
+  <seg id="43" doc-id="023_nytimes.69931_en.sl">
+    <source>齐格曼女士表示，所留下的是我们对卡路里和营养的关注以及将科学应用到烹饪中。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Miss Zigman expressed that the remaining is our concern for calories and nutrition as well as scientific applications in cooking.</translation>
+    <translation system="023_nytimes.69931_en.gg">Ms. Ziegman says what is left is our focus on calories and nutrition and the use of science in cooking.</translation>
+    <translation system="023_nytimes.69931_en.c6">What's left, says Ms Zigman, is our focus on calories and nutrition and the application of science to cooking.</translation>
+  </seg>
+  <seg id="44" doc-id="023_nytimes.69931_en.sl">
+    <source>这对夫妻表示在写这本书时，他们进一步了解了齐格曼女士母亲的饮食习惯，比如她如何不把食物丢弃。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">This couple expressed that when writing the book, they achieved further understanding of the culinary habits of Ziegelman’s mother, such as her unwillingness to throw any food away.</translation>
+    <translation system="023_nytimes.69931_en.gg">The couple said they had learned more about Ms Ziegman's mother's eating habits when they wrote the book, such as how she had not discarded the food.</translation>
+    <translation system="023_nytimes.69931_en.c6">The couple said that when they wrote the book, they learned more about Ms. Siegman's mother's eating habits, such as how she doesn't throw food away.</translation>
+  </seg>
+  <seg id="45" doc-id="023_nytimes.69931_en.sl">
+    <source>科先生说道：“她非常害怕浪费食物。”</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Mr Coe said, “She dreads wasting food.”</translation>
+    <translation system="023_nytimes.69931_en.gg">"She is very afraid of wasting food," says Mr Ke. ”</translation>
+    <translation system="023_nytimes.69931_en.c6">"She was very afraid of wasting food," Mr. Ko said.</translation>
+  </seg>
+  <seg id="46" doc-id="023_nytimes.69931_en.sl">
+    <source>齐格曼女士回忆道：“她实际上让许多人生了病。”</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Ms Ziegelman recalled, “In fact, she made a lot of people sick.”</translation>
+    <translation system="023_nytimes.69931_en.gg">Ms. Ziegman recalls: "She actually makes many lives sick." ”</translation>
+    <translation system="023_nytimes.69931_en.c6">"She actually made a lot of people sick," Ms. Sigman recalled.</translation>
+  </seg>
+  <seg id="47" doc-id="023_nytimes.69931_en.sl">
+    <source>比如曾经发生过一起“奶油泡芙”事件。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Another incidence that occurred was the “cream puff” event.</translation>
+    <translation system="023_nytimes.69931_en.gg">For example, there has been a "cream puff" incident.</translation>
+    <translation system="023_nytimes.69931_en.c6">For example, there has been a "cream puff" incident.</translation>
+  </seg>
+  <seg id="48" doc-id="023_nytimes.69931_en.sl">
+    <source>在撤掉盘子后，她与科先生拿出了他们在家准备的一份甜品：这就是罗斯福总统在午餐中所吃的果脯布丁。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">After taken away the dishes, Mr. K and she presented a home-made dessert, or the dried fruit pudding President Roosevelt enjoyed during the lunch.</translation>
+    <translation system="023_nytimes.69931_en.gg">After removing the dish, she and Mr. Ke took out a dessert they had prepared at home: This is the preserved pudding that President Roosevelt ate at lunch.</translation>
+    <translation system="023_nytimes.69931_en.c6">After removing the plates, she and Mr. Coe brought out a dessert they had prepared at home: the fruity pudding that President Roosevelt had for lunch.</translation>
+  </seg>
+  <seg id="49" doc-id="023_nytimes.69931_en.sl">
+    <source>齐格曼女士说道：“这叫作奶油果脯，“并且补充道为一道普通的菜起一个新潮的名字是“惯用的伎俩”。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Ziegelman said: “This is called cream conserve.” She then gave this common dish a trendy name of: “Old Tricks”.</translation>
+    <translation system="023_nytimes.69931_en.gg">Ms. Ziegman said: "It's called the Candied fruit," and adds that a trendy name for a common dish is "the usual trick."</translation>
+    <translation system="023_nytimes.69931_en.c6">"It's called crème brulee," Ms. Sigman said, adding that a trendy name for an ordinary dish is "the usual trick."</translation>
+  </seg>
+  <seg id="50" doc-id="023_nytimes.69931_en.sl">
+    <source>这道甜品中没有生奶油，只有果脯、一点面粉、糖、水和肉桂。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">This dessert does not contain whipped cream, only preserved fruit, a little flour, sugar, water and cinnamon.</translation>
+    <translation system="023_nytimes.69931_en.gg">There is no whipped cream in this dessert, only preserved fruit, a little flour, sugar, water and cinnamon.</translation>
+    <translation system="023_nytimes.69931_en.c6">There is no whipped cream in this dessert, only preserved fruit, a little flour, sugar, water and cinnamon.</translation>
+  </seg>
+  <seg id="51" doc-id="023_nytimes.69931_en.sl">
+    <source>大家都勉为其难地将调羹深入粘稠的棕色糊状物中。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Everyone reluctantly dipped their spoons deep into the dense brown paste.</translation>
+    <translation system="023_nytimes.69931_en.gg">We all reluctantly pushed the spoon into the sticky brown paste.</translation>
+    <translation system="023_nytimes.69931_en.c6">Everyone grudgingly plunges the spoon into the sticky brown paste.</translation>
+  </seg>
+  <seg id="52" doc-id="023_nytimes.69931_en.sl">
+    <source>意外的是，这道甜品的味道还不错。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">This dessert tastes surprisingly good.</translation>
+    <translation system="023_nytimes.69931_en.gg">Surprisingly, the dessert tasted good.</translation>
+    <translation system="023_nytimes.69931_en.c6">Surprisingly, this dessert is not bad.</translation>
+  </seg>
+  <seg id="53" doc-id="023_nytimes.69931_en.sl">
+    <source>科先生又吃了第二匙、第三匙。</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">Mr Ko ate a second spoonful, and a third spoonful.</translation>
+    <translation system="023_nytimes.69931_en.gg">Mr. Ke ate the second spoon and the third spoon.</translation>
+    <translation system="023_nytimes.69931_en.c6">Mr. Ko took a second and a third spoonful.</translation>
+  </seg>
+  <seg id="54" doc-id="023_nytimes.69931_en.sl">
+    <source>他觉得这是一道可以接受的实惠甜点，便告诉妻子：“加点碎核桃会更好吃。”</source>
+    <reference>NA</reference>
+    <translation system="023_nytimes.69931_en.ht">He felt that this was an acceptable and affordable dessert, and told his wife, “It’d taste better if chopped walnuts were added.”</translation>
+    <translation system="023_nytimes.69931_en.gg">He thought it was an acceptable dessert and told his wife: "A bit of walnuts would be better." ”</translation>
+    <translation system="023_nytimes.69931_en.c6">Feeling that it was an acceptable and affordable dessert, he told his wife, "It would be more delicious with chopped walnuts."</translation>
+  </seg>
+</set>

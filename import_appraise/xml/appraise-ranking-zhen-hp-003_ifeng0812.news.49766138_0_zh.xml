@@ -1,0 +1,72 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="003_ifeng0812.news.49766138_0_zh.sl">
+    <source>新建成的乌鲁木齐站位于乌鲁木齐市高铁片区，整个建筑面积约有10万平方米。</source>
+    <reference>NA</reference>
+    <translation system="003_ifeng0812.news.49766138_0_zh.ht">The new Urumqi Railway Station, with gross floor area of approximately 100,000 square meters, is located at Gaotiepian District, Urumqi.</translation>
+    <translation system="003_ifeng0812.news.49766138_0_zh.gg">The newly built Urumqi station is located in Urumqi High Iron area, with a total construction area of about 100,000 square meters.</translation>
+    <translation system="003_ifeng0812.news.49766138_0_zh.c6">The newly built Urumqi station is located in the high-speed railway section of the city of Urumqi, with an overall construction area of about 100,000 square meters.</translation>
+  </seg>
+  <seg id="2" doc-id="003_ifeng0812.news.49766138_0_zh.sl">
+    <source>地上1、2层为进站、候车厅及办公、商业用房，地下1层是出站层。</source>
+    <reference>NA</reference>
+    <translation system="003_ifeng0812.news.49766138_0_zh.ht">The first and second floor is the entrance, departing hall, office and retail area, while the basement is arriving area.</translation>
+    <translation system="003_ifeng0812.news.49766138_0_zh.gg">Ground 1, 2 floors for pit stop, waiting and office, commercial housing, underground 1 floor is the outbound layer.</translation>
+    <translation system="003_ifeng0812.news.49766138_0_zh.c6">The first and second floors above ground are inbound, waiting rooms, office and commercial buildings, and the first floor below ground is the outbound level.</translation>
+  </seg>
+  <seg id="3" doc-id="003_ifeng0812.news.49766138_0_zh.sl">
+    <source>目前，乌鲁木齐站是新疆最大的综合交通枢纽，集高铁、轨道交通、公交、出租等为一体，可实现各种换乘方式无缝对接。</source>
+    <reference>NA</reference>
+    <translation system="003_ifeng0812.news.49766138_0_zh.ht">Currently, Urumqi Station is Xinjiang’s largest integrated logistics hub, combining high speed rail, trains, buses, and rental vehicles, allowing seamless interconnection between various types of transport.</translation>
+    <translation system="003_ifeng0812.news.49766138_0_zh.gg">At present, Urumqi station is the largest integrated transportation hub in Xinjiang, set high-speed rail, rail transit, public transport, rental, etc. as a whole, can achieve a variety of transfer mode seamless docking.</translation>
+    <translation system="003_ifeng0812.news.49766138_0_zh.c6">At present, Urumqi station is the largest integrated transport hub in Xinjiang, integrating high-speed rail, rail transit, public transport, rental and so on, which can achieve seamless docking of various modes of transfer.</translation>
+  </seg>
+  <seg id="4" doc-id="003_ifeng0812.news.49766138_0_zh.sl">
+    <source>站台层南北两侧和出站层北侧共有3个售票厅，配置了39个人工售票窗口和34台自动售取票机。</source>
+    <reference>NA</reference>
+    <translation system="003_ifeng0812.news.49766138_0_zh.ht">There are a total of three ticket offices located at the northern and southern sides of the platform level as well as the northern side of the exit level, with 39 manual ticket sales windows and 34 automated ticket machines.</translation>
+    <translation system="003_ifeng0812.news.49766138_0_zh.gg">The north and south sides of the platform layer and the north side of the outbound layer a total of 3 ticket offices, equipped with 39 manual ticketing window and 34 automatic ticket sales machine.</translation>
+    <translation system="003_ifeng0812.news.49766138_0_zh.c6">There are three ticket offices on the north and south sides of the platform and on the north side of the departure level, equipped with 39 manual ticket windows and 34 automatic ticket machines.</translation>
+  </seg>
+  <seg id="5" doc-id="003_ifeng0812.news.49766138_0_zh.sl">
+    <source>检票方面，在候车大厅东西两侧共有30个通道，旅客可根据车票上的检票口编号，进行快速查验、候车。</source>
+    <reference>NA</reference>
+    <translation system="003_ifeng0812.news.49766138_0_zh.ht">In terms of ticketing, there are a total of 30 aisles on the eastern and western sides of the waiting area. Based on the gate number on the ticket, passengers can get their tickets checked quickly and wait for their trains.</translation>
+    <translation system="003_ifeng0812.news.49766138_0_zh.gg">On the ticket side, there are 30 channels on both sides of the waiting hall, and passengers can check and train the tickets according to the ticket ticket number.</translation>
+    <translation system="003_ifeng0812.news.49766138_0_zh.c6">As for ticket inspection, there are 30 lanes on the east and west sides of the waiting hall. Passengers can quickly check and wait for the train according to the ticket gate number on the ticket.</translation>
+  </seg>
+  <seg id="6" doc-id="003_ifeng0812.news.49766138_0_zh.sl">
+    <source>如果需要帮助，可就近按动站内设置的41个呼唤按钮进行选择，就可以获得及时服务。</source>
+    <reference>NA</reference>
+    <translation system="003_ifeng0812.news.49766138_0_zh.ht">If help is required, look for the nearest station and press a button from a selection of configured 41 call buttons to acquire prompt services.</translation>
+    <translation system="003_ifeng0812.news.49766138_0_zh.gg">If you need help, you can get a timely service by selecting the 41 call buttons that are set in the nearest press station.</translation>
+    <translation system="003_ifeng0812.news.49766138_0_zh.c6">If you need help, you can press the nearest station within the 41 call button to choose, you can get timely service.</translation>
+  </seg>
+  <seg id="7" doc-id="003_ifeng0812.news.49766138_0_zh.sl">
+    <source>从7月1号起，老客站，也就是乌鲁木齐南站的旅客列车就分步开行到了乌鲁木齐站。</source>
+    <reference>NA</reference>
+    <translation system="003_ifeng0812.news.49766138_0_zh.ht">With effect from July 1, the passenger trains at the old station, i.e., Urumqi South Railway Station, will begin to service Urumqi Railway Station in phases.</translation>
+    <translation system="003_ifeng0812.news.49766138_0_zh.gg">From July 1 onwards, the old passenger station, that is, Urumqi South railway station passengers train on a separate line to Urumqi station.</translation>
+    <translation system="003_ifeng0812.news.49766138_0_zh.c6">From July 1, passenger trains from the old passenger station, also known as the Urumqi South Railway Station, have been running to Urumqi Station in stages.</translation>
+  </seg>
+  <seg id="8" doc-id="003_ifeng0812.news.49766138_0_zh.sl">
+    <source>也就是说，所有动车和30对出疆列车都可以在乌鲁木齐站停车。</source>
+    <reference>NA</reference>
+    <translation system="003_ifeng0812.news.49766138_0_zh.ht">In another word, all the express trains(D train) and 30 other trains outbound from Xinjiang can stop in Urumchi.</translation>
+    <translation system="003_ifeng0812.news.49766138_0_zh.gg">That is to say, all trains and 30 of the train can stop at Urumqi station.</translation>
+    <translation system="003_ifeng0812.news.49766138_0_zh.c6">That is to say, all moving cars and 30 pairs of outgoing trains can be stopped at Urumqi station.</translation>
+  </seg>
+  <seg id="9" doc-id="003_ifeng0812.news.49766138_0_zh.sl">
+    <source>现在两个站均可以买票乘车，他们之间的列车通行时间在10分钟左右，旅客需要注意票面始发和终点站的具体站名。</source>
+    <reference>NA</reference>
+    <translation system="003_ifeng0812.news.49766138_0_zh.ht">Currently, ride tickets can be purchased at two stations. The trip between the stations will take about 10 minutes. Travelers need to pay attention to the names of the starting station and destination station printed on the ticket.</translation>
+    <translation system="003_ifeng0812.news.49766138_0_zh.gg">Now two stations can buy a ride, the train between them in 10 minutes, passengers need to pay attention to the nominal origin and terminal of the specific station name.</translation>
+    <translation system="003_ifeng0812.news.49766138_0_zh.c6">Tickets are now available at both stations, and train travel time between them is around 10 minutes, so passengers need to pay attention to the ticket departure and terminal station names.</translation>
+  </seg>
+  <seg id="10" doc-id="003_ifeng0812.news.49766138_0_zh.sl">
+    <source>乌鲁木齐新客站的正式投入运营将成为新疆打造全国性综合交通城市的重要平台，推进“丝绸之路经济带”和新区建设。</source>
+    <reference>NA</reference>
+    <translation system="003_ifeng0812.news.49766138_0_zh.ht">The official commencement of operations of the new Urumqi passenger railway station will become an important platform for Xinjiang in terms of building a national integrated transportation city, advancing the “Silk Road economic belt” and the development of new zones.</translation>
+    <translation system="003_ifeng0812.news.49766138_0_zh.gg">The official operation of Urumqi New railway station will become an important platform to build a national comprehensive transportation city in Xinjiang, and promote the "Silk Road Economic Zone" and the construction of the newly developed area.</translation>
+    <translation system="003_ifeng0812.news.49766138_0_zh.c6">The official commissioning of the new passenger station in Urumqi will become an important platform for Xinjiang to build a national comprehensive transportation city, and promote the construction of the "Silk Road Economic Belt" and the new district.</translation>
+  </seg>
+</set>

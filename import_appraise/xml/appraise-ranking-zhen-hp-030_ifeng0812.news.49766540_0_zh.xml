@@ -1,0 +1,51 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="030_ifeng0812.news.49766540_0_zh.sl">
+    <source>统计局表示，新西兰人口增幅此前仅在１９７４年和上世纪５０年代到６０年代早期的“婴儿潮”人口出生高峰时期超过２％。</source>
+    <reference>NA</reference>
+    <translation system="030_ifeng0812.news.49766540_0_zh.ht">The New Zealand statistics department expressed that the only time when the population of New Zealand experienced a birth rate exceeding 2% was during 1974 and during the “baby boomer” period from 1950s to early 1960s.</translation>
+    <translation system="030_ifeng0812.news.49766540_0_zh.gg">The New Zealand population grew by more than 2% during the 1974 and the early 50 's "Baby boomers" in the 60, the bureau said.</translation>
+    <translation system="030_ifeng0812.news.49766540_0_zh.c6">The Bureau of Statistics said New Zealand's population growth had previously been just over 2 per cent in 1974 and at the peak of the "baby boom" population in the 1950s and early 1960s.</translation>
+  </seg>
+  <seg id="2" doc-id="030_ifeng0812.news.49766540_0_zh.sl">
+    <source>截至今年６月，新西兰１２个月内移民净流入数量为６.９１万人，成为新西兰近年来人口增长的主要驱动力。</source>
+    <reference>NA</reference>
+    <translation system="030_ifeng0812.news.49766540_0_zh.ht">As of June this year, New Zealand’s net inflow of migrants totaled 69,100 persons over a 12-month period, and has become a major driver of population growth for the nation in recent years.</translation>
+    <translation system="030_ifeng0812.news.49766540_0_zh.gg">As of June this year, the net inflow of migrants in New Zealand in 12 months was 69,100, becoming the main driver of New Zealand's population growth in recent years.</translation>
+    <translation system="030_ifeng0812.news.49766540_0_zh.c6">New Zealand's net inflow of migrants in the 12 months to June was 691,000, making it the main driver of population growth in recent years.</translation>
+  </seg>
+  <seg id="3" doc-id="030_ifeng0812.news.49766540_0_zh.sl">
+    <source>另外，在相同时间段，新西兰人口自然增长数量为２.８２万人。</source>
+    <reference>NA</reference>
+    <translation system="030_ifeng0812.news.49766540_0_zh.ht">During the same period, the population of New Zealand experienced a natural growth of 28,200 individuals.</translation>
+    <translation system="030_ifeng0812.news.49766540_0_zh.gg">In addition, in the same time period, the population of New Zealand natural growth of 28,200 people.</translation>
+    <translation system="030_ifeng0812.news.49766540_0_zh.c6">Also, the natural increase in New Zealand's population over the same time period was 28.2 million.</translation>
+  </seg>
+  <seg id="4" doc-id="030_ifeng0812.news.49766540_0_zh.sl">
+    <source>数据显示，最近１０年里，新西兰年均移民净流入数量为２.１８万人，年均人口自然增长数量为３.２３万人。</source>
+    <reference>NA</reference>
+    <translation system="030_ifeng0812.news.49766540_0_zh.ht">Figures indicate that in the last decade, New Zealand’s average annual net migration flow was 21,800 persons, and the average annual organic population growth was 32,300 persons.</translation>
+    <translation system="030_ifeng0812.news.49766540_0_zh.gg">Data show that in the last 10 years, New Zealand average annual net inflow of 21,800 people, the average annual population growth of 32,300 people.</translation>
+    <translation system="030_ifeng0812.news.49766540_0_zh.c6">The figures show that over the last 10 years, New Zealand has had an average annual net inflow of migrants of 2.18 million and an average annual natural population growth of 3.23 million.</translation>
+  </seg>
+  <seg id="5" doc-id="030_ifeng0812.news.49766540_0_zh.sl">
+    <source>从人口结构上看，大量移民涌入意味着１５岁至３９岁的“劳动年龄人口”比例逐步扩大。</source>
+    <reference>NA</reference>
+    <translation system="030_ifeng0812.news.49766540_0_zh.ht">In terms of demographics, an influx of immigrants suggests that the proportion of “working-age population”, those between 15 and 39 years old, is expanding gradually.</translation>
+    <translation system="030_ifeng0812.news.49766540_0_zh.gg">From a demographic perspective, a large influx of immigrants means that the proportion of the "working-age population" from 15 to 39 is gradually widening.</translation>
+    <translation system="030_ifeng0812.news.49766540_0_zh.c6">Demographically, the influx of migrants has meant a gradual increase in the proportion of "working-age people" between the ages of 15 and 39.</translation>
+  </seg>
+  <seg id="6" doc-id="030_ifeng0812.news.49766540_0_zh.sl">
+    <source>截至２０１６年６月的１２个月时间里，新西兰劳动年龄人口增长３.６％，达到１５８万人。</source>
+    <reference>NA</reference>
+    <translation system="030_ifeng0812.news.49766540_0_zh.ht">For a period of 12 months up till June 2016, the working age population of New Zealand grew by 3.6% to reach a total of 1.58 million people.</translation>
+    <translation system="030_ifeng0812.news.49766540_0_zh.gg">In the 12-month period ending June 2016, the New Zealand working-age population grew by 3.6% to 1.58 million people.</translation>
+    <translation system="030_ifeng0812.news.49766540_0_zh.c6">New Zealand's working-age population grew 3.6 percent to 1.58 million in the 12 months to June 2016.</translation>
+  </seg>
+  <seg id="7" doc-id="030_ifeng0812.news.49766540_0_zh.sl">
+    <source>同时，６５岁以上的老龄人口增幅同样为３.６％，达到７０万人。</source>
+    <reference>NA</reference>
+    <translation system="030_ifeng0812.news.49766540_0_zh.ht">At the same time, the population of senior citizens 65 years and older grew similarly by 3.6% to 700,000 people.</translation>
+    <translation system="030_ifeng0812.news.49766540_0_zh.gg">At the same time, the 65-year-old population increases by 3.6%, reaching 700,000 people.</translation>
+    <translation system="030_ifeng0812.news.49766540_0_zh.c6">At the same time, the increase in the elderly population over the age of 65 was also 3.6 percent, reaching 7 million people.</translation>
+  </seg>
+</set>

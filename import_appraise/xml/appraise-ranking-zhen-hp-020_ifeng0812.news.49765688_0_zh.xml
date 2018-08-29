@@ -1,0 +1,163 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>尽管还没有被证实，但诸多消息源都表示，苹果2016年秋季发布会将在9月举行，iPhone7真要来了。</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">Although it has yet to be proven, many information sources indicate that Apple will hold its 2016 Fall event in September. iPhone 7 is really on its way.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">Although it has not yet been confirmed, many sources say that Apple's 2016 autumn conference will be held in September, and IPhone7 is coming.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">Although it hasn't been confirmed, numerous sources have said Apple's fall 2016 launch will take place in September, and the iPhone 7 is really coming.</translation>
+  </seg>
+  <seg id="2" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>虽然苹果公司并未回应，但有关新iPhone的功能、配置已经陆续有消息放出，甚至网上连iPhone7“真机模型”图片都有了。</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">Although Apple did not respond, news concerning the functions and configuration of the iPhone are being released gradually. Pictures of the “actual phone model” have even appeared on the Internet.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">Although Apple did not respond, but the new iphone features, configuration has been the release of news, and even the online IPhone7 "Real machine model" pictures have.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">Apple didn't respond, but word has spread about the new iPhone's features and configuration, and even pictures of the iPhone 7's "real model" are available online.</translation>
+  </seg>
+  <seg id="3" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>新一代iPhone可谓“万众瞩目”，火热、紧俏、有钱无货……如果你想第一时间购买到正品，一定要选择一个好渠道，比如说，苏宁。</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">The new iPhone could be considered a “public phenomenon”. It’s popular, sleek, and could not be acquired even if you have the money to pay for it. If you want to buy an original product, you must opt for a proper sales channel such as Suning.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">The next generation of iphone is a "Spotlight", hot, tight, rich, no goods ... If you want to buy authentic first time, you must choose a good channel, for example, Suning.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">The next generation of iPhones is "eye-catching", hot, hot, rich and out of stock... If you want to buy the real thing for the first time, make sure you choose a good channel, say, Suning.</translation>
+  </seg>
+  <seg id="4" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>这加剧了人们对于新手机的失望，“它加长了，却根本不能投射全息图像!这一代iPhone糟透了。”</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">This heightened the people’s sense of disappointment for the new cellphone. “It became longer, but couldn’t project holographs! This iPhone release sucks.”</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">This has exacerbated people's disappointment with the new phone, "it lengthened, but could not project holograms at all!" This generation of iphone sucks. ”</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">This added to the frustration over the new phone, "It lengthens, but it doesn't project a hologram at all! This generation of iPhones sucks."</translation>
+  </seg>
+  <seg id="5" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>iPhone7像其他iPhone一样，出生之前就伴随着无数秘闻。</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">Like other iPhones, numerous anecdotes and secret information accompanied the iPhone 7 before its debut.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">IPhone7, like other iphones, accompanied with countless secrets before birth.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">The iPhone 7, like other iPhones, has been accompanied by countless secrets before it was born.</translation>
+  </seg>
+  <seg id="6" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>另外，还有多个消息源声称，新一代iPhone将取消3.5mm耳机接口，转而使用蓝牙连接和充电接口，这将为苹果增加第二个扬声器提供空间。</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">Elsewhere, many sources of information also claimed that the 3.5mm headphone jack will be removed from the new iPhone to be replaced by bluetooth connection and the charging interface. This will give Apple room for adding a second speaker.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">In addition, there are several sources claiming that the next generation of iphones will cancel 3.5mm headphone connector, instead of Bluetooth connection and charging interface, which will provide space for Apple to add a second speaker.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">Also, multiple sources have claimed that the new iPhone will eliminate the 3.5mm headphone jack and instead use a Bluetooth connection and charging jack, which would give Apple room to add a second speaker.</translation>
+  </seg>
+  <seg id="7" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>能佐证这一消息的另一证据是，早在2014年苹果就允许耳机厂商生产通过充电接口连接的耳机产品。</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">Another piece of corroborative evidence is that as far back as 2014, Apple had already allowed headphone manufacturers to connect headphone products through the charging interface.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">Another piece of evidence to support the news is that, as early as 2014, Apple allowed headphones makers to produce headphones that were connected by a charging interface.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">Another piece of evidence to back up the news is that back in 2014 Apple allowed headphone makers to make headphone products that were connected through a charging interface.</translation>
+  </seg>
+  <seg id="8" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>这些消息或真或假，答案直到苹果2016秋季发布会才能揭晓。</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">The answer to such news, whether true or false, will only be revealed by Apple at the 2016 Fall launch event.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">The news is true or false, and the answer will not be revealed until Apple's 2016 fall launch.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">The news is either true or false, and the answer won't be revealed until Apple's autumn 2016 launch.</translation>
+  </seg>
+  <seg id="9" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>但这并不妨碍业内人士看好iPhone7的前景——许多人认为，iPhone7将很有可能成为苹果对iPhone系列的最后一次大幅升级。</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">This did not stop industry insiders from taking a positive view of the prospects of iPhone 7 however. Many believed that iPhone 7 could very well be the last time Apple would significantly upgrade the iPhone series.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">But that does not prevent the industry from bullish on IPhone7 's prospects – many believe IPhone7 will likely become Apple's last big upgrade to the iphone series.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">But that doesn't detract from the industry's bullish outlook for the iPhone 7 - which many believe will most likely be Apple's last major upgrade to the iPhone family.</translation>
+  </seg>
+  <seg id="10" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>虽然从不久前市场研究机构IDC公布的数据来看，iPhone的市场份额有所下滑。</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">However, data recently published by IDC, a market intelligence firm, showed the market share of iPhone has decreased slightly.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">The market share of the iphone has slipped, although data from IDC, a recent market research agency, have been reported.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">Though the iPhone's market share has fallen, according to data released recently by market research firm IDC.</translation>
+  </seg>
+  <seg id="11" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>其中，高盛将苹果的股票维持“买入”评级，而BMO的分析师则认为iPhone7将收获一份历史性的销售成绩。</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">Goldman Sachs has rated Apple shares as something that can be “bought”. BMO analysts believe that iPhone7 will establish a historical record in sales performance.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">Goldman Sachs has maintained a "buy" rating for Apple's shares, while BMO analysts say IPhone7 will reap a historic sales performance.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">Among them, Goldman Sachs maintained a "buy" rating on Apple's stock, while BMO analysts said the iPhone 7 would reap a historic sales performance.</translation>
+  </seg>
+  <seg id="12" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>同时博通公司的CEO Hock Tan也表示，苹果未来的营收增加将有可能超过20%，而这完全得益于iPhone7的推出。</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">Broadcom CEO Hock Tan also expressed that Apple is expected to achieve more than 20% growth in revenue. This figure can be completely attributed to the release of iPhone7.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">Meanwhile, Hock Tan, chief executive of Bo Tong, said Apple's future revenue increase could be more than 20%, thanks to the IPhone7 launch.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">At the same time, Hock Tan, CEO of Broadcom, said it was likely that Apple would increase revenue by more than 20 percent in the future, thanks entirely to the launch of the iPhone 7.</translation>
+  </seg>
+  <seg id="13" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>有7%的受访者表示他们有购买iPhone7的打算，而两年前计划购买iPhone6的人数比例只有4%。</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">7% of those interviewed said they intend to buy iPhone 7 compared to a mere 4% who planned to buy iPhone 6 two years ago.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">7% of respondents said they had plans to buy IPhone7, compared with only 4% of the number of people who planned to buy IPhone6 two years ago.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">Seven percent of respondents said they planned to buy the iPhone 7, compared with just four percent two years ago.</translation>
+  </seg>
+  <seg id="14" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>据了解，目前持有iPhone6或6Plus的用户群体有20%计划购买iPhone7，这是一个相当高的比例。</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">From information available, 20% of users currently holding an iPhone6 or 6Plus have plans for purchasing iPhone7. This proportion is quite substantial.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">It is understood that currently holds iPhone6 or 6Plus user groups have 20% plans to purchase IPhone7, which is a fairly high proportion.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">It is understood that 20 per cent of the current group of users who hold the iPhone 6 or 6Plus plan to buy the iPhone 7, which is a fairly high percentage.</translation>
+  </seg>
+  <seg id="15" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>其次，有专家分析，大部分果粉都喜欢隔代更换自己的iPhone手机。</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">Next, experts analyzed that most Apple fans like to replace their iPhone every other generation.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">Second, with expert analysis, most of the fruit powder likes to replace their own iphone.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">Second, there is expert analysis, most of the fruit powder like to replace their iPhone handsets from generation to generation.</translation>
+  </seg>
+  <seg id="16" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>据统计，在所有的iPhone用户中，有大约26%的用户已经2年没有更换手机了，也就是差不多有1.2亿的用户的iPhone已经用了2年。</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">Statistics revealed that among iPhone users, approximately 26% of users have not changed their mobile phones in two years, i.e., the iPhones of about 120 million users have been used for two years.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">According to statistics, of all iphone users, about 26% of users have not changed their phones for 2 years, that is, almost 120 million of users of the iphone has been used for 2 years.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">About 26 percent of all iPhone users have not changed their phone in two years, or nearly 120 million users have had their iPhone for two years, according to the report.</translation>
+  </seg>
+  <seg id="17" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>有媒体称，iPhone7生产期间，台湾遭遇数次地震，“台积电生产设施的受破坏程度超出想象，并有可能对初期的iPhone7供应产生影响。”</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">Some media reported that Taiwan has been hit by several earthquakes during the iPhone7 production period. “Damages sustained by TSMC production facilities may have went beyond expectations, and that could have influenced initial supply for iPhone7.”</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">The media said that during the IPhone7 production, Taiwan suffered several earthquakes, "TSMC production facilities are more damaged than imagined, and it is possible to the initial IPhone7 supply impact." ”</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">Media captionTaiwan has been hit by several earthquakes during the production of the iPhone 7. "TSMC's production facilities have been damaged beyond imagination and could have an impact on the initial supply of the iPhone 7."</translation>
+  </seg>
+  <seg id="18" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>供需矛盾会影响普通用户，是时候选择一个好渠道，第一时间低价入手正品iPhone7。</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">Supply and demand conflicts will influence normal users. It is time to select a proper channel and acquire an authentic iPhone7 early at a low price.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">The contradiction between supply and demand will affect ordinary users, it is time to choose a good channel, the first time low price to start the authentic IPhone7.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">Contradictions between supply and demand will affect ordinary users, it is time to choose a good channel, the first time low prices to start the genuine iPhone 7.</translation>
+  </seg>
+  <seg id="19" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>据知情人士透露，近期，苏宁高层与苹果公司频频见面，目的就是为了准备充足的货源。</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">Insider disclosure revealed that the upper management of Suning and Apple has met frequently in recent times for the purpose of preparing enough resources.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">According to people familiar with the information, recently, Suning high-level and Apple company frequently meet, the purpose is to prepare sufficient supply.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">According to people familiar with the matter, recently, Suning executives have been meeting with Apple frequently in order to prepare an adequate supply.</translation>
+  </seg>
+  <seg id="20" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>运营商已经与苏宁谈妥，可以预见的是，随着双方的深度合作，必然会为用户带来更低的价格和更贴心的服务。</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">Service operators have reached an agreement with Suning. It can be expected that with growing partnership between the two, users will be provided with lower prices and more dedicated services.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">Operators have talked with Su Ning, it can be foreseen that, with the depth of cooperation between the two sides will inevitably bring lower prices and more intimate services to users.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">The operator has already negotiated with Suning, and predictably, with the deep cooperation between the two sides, it is bound to bring lower prices and more intimate services to users.</translation>
+  </seg>
+  <seg id="21" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>“最低的价格，消费者可能‘一天只需7元钱，就能购买iPhone7’。”</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">" The lowest price. The customers might' only RMB 7 a day to get a iPhone7".</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">"The lowest price, the consumer may ' just 7 yuan a day, can buy IPhone7 '." ”</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">"At the lowest price, consumers might be able to buy an iPhone 7 for as little as $7 a day," he said.</translation>
+  </seg>
+  <seg id="22" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>充足的货源与多样的优惠，让购买iPhone7不再“压力山大”，而苏宁的物流，更是会把这种美好变成更直观的体验感。</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">Sufficient supply of goods and a variety of discounts, buyers of iPhone 7 will not be so stressed out, and Suning’s logistics department will all the more turn this happiness into a more intuitive experience.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">Sufficient supply and diversity of concessions, so that the purchase of IPhone7 no longer "pressure", and Suning's logistics, it will make this beautiful into a more intuitive experience.</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">Sufficient supply and a variety of concessions, so that the purchase of the iPhone 7 is no longer "pressure mountain," and Suning's logistics, is to turn this beautiful into a more intuitive experience.</translation>
+  </seg>
+  <seg id="23" doc-id="020_ifeng0812.news.49765688_0_zh.sl">
+    <source>也许，你半夜就会接到电话，“您好，苏宁易购，您的iPhone7到了。”</source>
+    <reference>NA</reference>
+    <translation system="020_ifeng0812.news.49765688_0_zh.ht">Perhaps you will receive a phone call at midnight. “Hello, this is Suning.com. Your iPhone 7 has arrived.”</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.gg">Perhaps, you will receive a call in the middle of the night, "Hello, suning easy to buy, your IPhone7 arrived." ”</translation>
+    <translation system="020_ifeng0812.news.49765688_0_zh.c6">Maybe you'll get a call in the middle of the night saying, "Hello, Suning EasyJet, your iPhone 7 is here."</translation>
+  </seg>
+</set>

@@ -1,0 +1,44 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="009_ifeng0812.news.49767382_0_zh.sl">
+    <source>陵水警方现已介入调查，陵水交通部门也将加大力度整治非法营运车辆。</source>
+    <reference>NA</reference>
+    <translation system="009_ifeng0812.news.49767382_0_zh.ht">The police forces of Lingshui have joined in the investigation. Lingshui traffic departments will also strengthen measures to correct issues regarding illegally operating business vehicles.</translation>
+    <translation system="009_ifeng0812.news.49767382_0_zh.gg">Lingshui police are now involved in the investigation, Lingshui traffic department will also increase efforts to combat illegal vehicles.</translation>
+    <translation system="009_ifeng0812.news.49767382_0_zh.c6">Lingshui police are now involved in the investigation, Lingshui traffic department will also step up efforts to deal with illegal vehicles.</translation>
+  </seg>
+  <seg id="2" doc-id="009_ifeng0812.news.49767382_0_zh.sl">
+    <source>“8月4日的冲突警方还没有调查结果，8月11日零时许，另外两名司机的出租车在住处又被打砸了。”</source>
+    <reference>NA</reference>
+    <translation system="009_ifeng0812.news.49767382_0_zh.ht">“The outcome of a police investigation into the August 4 conflict is still pending. Just after midnight on August 11, the homes of another two taxi drivers were wrecked.”</translation>
+    <translation system="009_ifeng0812.news.49767382_0_zh.gg">"The August 4 conflict police did not investigate the results, August 11 0 O'Clock Xu, the other two drivers of the taxi in the apartment was smashed." ”</translation>
+    <translation system="009_ifeng0812.news.49767382_0_zh.c6">"Police have yet to find out the outcome of the clash on August 4 and two other drivers had their taxis smashed in their accommodation at about 00: 00 on August 11," he said.</translation>
+  </seg>
+  <seg id="3" doc-id="009_ifeng0812.news.49767382_0_zh.sl">
+    <source>“现在的三轮车多在夜间非法营运，希望主管部门也能加大力度进行整治。”</source>
+    <reference>NA</reference>
+    <translation system="009_ifeng0812.news.49767382_0_zh.ht">“Trishaws operate illegally mostly during the night these days. We hope that the governing departments can also intensify their efforts to remedy the situation.”</translation>
+    <translation system="009_ifeng0812.news.49767382_0_zh.gg">"Now the tricycle more in the night illegal operation, hope the competent department also can increase the strength to carry on the regulation." ”</translation>
+    <translation system="009_ifeng0812.news.49767382_0_zh.c6">"Most tricycles now operate illegally at night and it is hoped that the authorities will step up their efforts to tackle the problem," he said.</translation>
+  </seg>
+  <seg id="4" doc-id="009_ifeng0812.news.49767382_0_zh.sl">
+    <source>南海网记者从陵水黎族自治县公安局了解到，警方目前已经受理这两起案件的报案，两起案件的起因、何人所为、是否有关联等都在进一步调查中。</source>
+    <reference>NA</reference>
+    <translation system="009_ifeng0812.news.49767382_0_zh.ht">A reporter of Hinews learned from the Lingshui Li Autonomous County Police Department that the police is currently handling two reports. Further investigations are being carried out for the motive and responsible individuals behind the two cases as well as the relationships between them.</translation>
+    <translation system="009_ifeng0812.news.49767382_0_zh.gg">South China Sea Network reporter from Lingshuix County Public Security Bureau learned that the police have now accepted the two cases reported, two of the causes of the case, who, whether there is a link in the further investigation.</translation>
+    <translation system="009_ifeng0812.news.49767382_0_zh.c6">South China Sea Network reporter from the Lingshui Li Autonomous County Public Security Bureau learned that the police have accepted the two cases of the report, the cause of the two cases, who did, whether there is a connection, and so on are under further investigation.</translation>
+  </seg>
+  <seg id="5" doc-id="009_ifeng0812.news.49767382_0_zh.sl">
+    <source>陵水交通运输局交通管理站站长王文义说，陵水交通部门在今年初开始整治非法营运载客三轮车，共取缔613辆非法营运载客三轮车。</source>
+    <reference>NA</reference>
+    <translation system="009_ifeng0812.news.49767382_0_zh.ht">Wang Wenyi, traffic management station master of Lingshui Transport Bureau, said that Lingshui Transport Department has set out to deal with trishaws that transport passengers illegally since the beginning of this year, and has outlawed a total of 613 illegal passenger trishaws.</translation>
+    <translation system="009_ifeng0812.news.49767382_0_zh.gg">Lingshui Wang Wenyi, director of Traffic Management station of Transport Bureau, said that the Lingshui traffic department had started to rectify the illegal operation of the passenger tricycle at the beginning of this year, altogether banning 613 illegal passenger tricycles.</translation>
+    <translation system="009_ifeng0812.news.49767382_0_zh.c6">Wang Wenyi, director of the traffic management station of Lingshui Transportation Bureau, said Lingshui's transportation department began to crack down on illegal operation of passenger tricycles at the beginning of this year, with a total of 613 illegal operation of passenger tricycles banned.</translation>
+  </seg>
+  <seg id="6" doc-id="009_ifeng0812.news.49767382_0_zh.sl">
+    <source>下一步，交通部门将向县政府申请，联合多部门加大力度对全县的三轮车、摩托车、黑车等非法营运车辆进行整治。</source>
+    <reference>NA</reference>
+    <translation system="009_ifeng0812.news.49767382_0_zh.ht">In the next step, the transportation department will submit applications to the county government, working with multiple departments to step up enforcements to reorganize tricycles, motorcycles, unlicensed commercial vehicles, and other illegal business vehicles throughout the entire county.</translation>
+    <translation system="009_ifeng0812.news.49767382_0_zh.gg">Next, the Transport Department will apply to the county government, joint multisectoral efforts to increase the county's tricycles, motorcycles, black cars and other illegal operating vehicles for renovation.</translation>
+    <translation system="009_ifeng0812.news.49767382_0_zh.c6">In the next step, the transportation department will apply to the county government for joint efforts by multiple departments to crack down on illegal operating vehicles such as tricycles, motorcycles and black cars across the county.</translation>
+  </seg>
+</set>

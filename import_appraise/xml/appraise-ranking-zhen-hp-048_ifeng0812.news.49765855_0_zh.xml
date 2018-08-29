@@ -1,0 +1,23 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="048_ifeng0812.news.49765855_0_zh.sl">
+    <source>华夏银行、浦发银行昨日发布2016年半年报，二季度中证金再度出手增持其股份。</source>
+    <reference>NA</reference>
+    <translation system="048_ifeng0812.news.49765855_0_zh.ht">Hua Xia Bank and Shanghai Pudong Development Bank published their semi-annual report for 2016 yesterday. For the second quarter, China Securities Finance Corporation has again acquired additional shares of these banks.</translation>
+    <translation system="048_ifeng0812.news.49765855_0_zh.gg">Huaxia Bank, PU Fat Bank yesterday issued 2016.5 Annual report, two in the second shot to increase its shares.</translation>
+    <translation system="048_ifeng0812.news.49765855_0_zh.c6">Huaxia Bank and Pudong Development Bank yesterday released their semi-annual report for 2016, and in the second quarter, China Securities Capital again stepped in to increase its stake.</translation>
+  </seg>
+  <seg id="2" doc-id="048_ifeng0812.news.49765855_0_zh.sl">
+    <source>其中，中证金增持华夏银行2929.31万股，至6月末，中证金持有华夏银行股份数增至3.87亿股，占其股份比例也由3.35%增至3.62%。</source>
+    <reference>NA</reference>
+    <translation system="048_ifeng0812.news.49765855_0_zh.ht">In particular, China Securities Finance Corporation (CSF) increased its stake in Hua Xia Bank by 29,293,100 shares. As at end-June, CSF’s equity stake in Hua Xia Bank rose to 387 million shares; its shareholding increased from 3.35% to 3.62% accordingly.</translation>
+    <translation system="048_ifeng0812.news.49765855_0_zh.gg">Among them, the Jinzhan holding Huaxia bank 29.2931 million shares, to the end of June, the Chinese Securities holdings of China bank shares increased to 387 million shares, accounting for the proportion of its shares from 3.35% to 3.62%.</translation>
+    <translation system="048_ifeng0812.news.49765855_0_zh.c6">Among them, Chinatrust increased its stake in Huaxia Bank to 29.2931 million shares. By the end of June, the number of shares it held in Huaxia Bank had increased to 387 million shares, and its share had increased from 3.35 per cent to 3.62 per cent.</translation>
+  </seg>
+  <seg id="3" doc-id="048_ifeng0812.news.49765855_0_zh.sl">
+    <source>另据招商证券测算，扣除转增，中证金二季度亦增持浦发银行3800万股，持有其股份数增至近6亿股，占浦发银行股份比例为2.77%。</source>
+    <reference>NA</reference>
+    <translation system="048_ifeng0812.news.49765855_0_zh.ht">Also, according to estimates of China Merchants Securities, after removing increase in shares, China Securities Finance Corporation has acquired 38 million shares of Shanghai Pudong Development Bank (SPD Bank) in the second quarter, increasing the total number of shares held of SPD Bank to 600 million shares, a figure equivalent to 2.77% shareholding percentage of SPD Bank.</translation>
+    <translation system="048_ifeng0812.news.49765855_0_zh.gg">In addition, according to the calculation of investment securities, the deduction was increased, and the two-quarter increase in the Hong Kong bank 38 million shares, holding the number of shares to nearly 600 million shares, the share of the Pudong bank shares of 2.77%.</translation>
+    <translation system="048_ifeng0812.news.49765855_0_zh.c6">According to estimates by China Merchants Securities, after subtracting the increase, China Securities Group also increased its holdings of 38 million shares in the Pudong Development Bank in the second quarter, increasing its holdings to nearly 600 million shares, accounting for 2.77 percent of the Pudong Development Bank's shares.</translation>
+  </seg>
+</set>

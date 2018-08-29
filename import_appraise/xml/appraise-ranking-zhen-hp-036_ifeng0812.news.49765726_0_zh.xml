@@ -1,0 +1,16 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="036_ifeng0812.news.49765726_0_zh.sl">
+    <source>主办方希望通过文物展，让当地人民更多地了解历史悠久的中国文化，从而增进两国人民之间的相互理解和友谊。</source>
+    <reference>NA</reference>
+    <translation system="036_ifeng0812.news.49765726_0_zh.ht">The sponsors hoped that the exhibition of antiquities would allow the locals to better understand Chinese culture which has a long history, thereby increasing mutual understanding and friendship between the citizens of the two countries.</translation>
+    <translation system="036_ifeng0812.news.49765726_0_zh.gg">The organizers hope that through the cultural Relics exhibition, the local people will know more about the history of Chinese culture, so as to enhance mutual understanding and friendship between the two peoples.</translation>
+    <translation system="036_ifeng0812.news.49765726_0_zh.c6">The organizers hope that through the cultural relics exhibition, the local people will learn more about the Chinese culture with a long history, so as to enhance mutual understanding and friendship between the two peoples.</translation>
+  </seg>
+  <seg id="2" doc-id="036_ifeng0812.news.49765726_0_zh.sl">
+    <source>巴塞罗那的“明代文物展”是欧洲巡展的一部分，将持续到10月初。</source>
+    <reference>NA</reference>
+    <translation system="036_ifeng0812.news.49765726_0_zh.ht">Barcelona’s “Ming Dynasty Artifact Exhibit” is part of a European tour that will last till early October.</translation>
+    <translation system="036_ifeng0812.news.49765726_0_zh.gg">The "Ming Dynasty Cultural Relics exhibition" in Barcelona is part of the European Tour, which will last until the beginning of October.</translation>
+    <translation system="036_ifeng0812.news.49765726_0_zh.c6">Barcelona's "Exhibition of Cultural Relics of the Ming Dynasty" is part of a European tour that will run until early October.</translation>
+  </seg>
+</set>
