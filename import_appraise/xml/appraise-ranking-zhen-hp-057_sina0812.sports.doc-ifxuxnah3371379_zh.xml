@@ -1,0 +1,23 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="057_sina0812.sports.doc-ifxuxnah3371379_zh.sl">
+    <source>博格巴上赛季在意大利杯中吃到两张黄牌，根据规则将自动禁赛一场。</source>
+    <reference>NA</reference>
+    <translation system="057_sina0812.sports.doc-ifxuxnah3371379_zh.ht">Pogba received two yellow cards in the Coppa Italia, and was therefore barred from one game according to the regulations.</translation>
+    <translation system="057_sina0812.sports.doc-ifxuxnah3371379_zh.gg">Pogba last season in the Italian Cup to eat two yellow cards, according to the rules will be automatically suspended.</translation>
+    <translation system="057_sina0812.sports.doc-ifxuxnah3371379_zh.c6">Borgba had two yellow cards in the Coppa Italia last season and will be automatically banned for one match under the rules.</translation>
+  </seg>
+  <seg id="2" doc-id="057_sina0812.sports.doc-ifxuxnah3371379_zh.sl">
+    <source>虽然他已经转会回到了英超，但是英足总仍然将其累计禁赛顺延至英超赛场。</source>
+    <reference>NA</reference>
+    <translation system="057_sina0812.sports.doc-ifxuxnah3371379_zh.ht">Although he has returned to the English Premier League, the Football Association has enforced the accumulated bans and extended it to the League games.</translation>
+    <translation system="057_sina0812.sports.doc-ifxuxnah3371379_zh.gg">Although he has moved back to the Premiership, the FA has continued to postpone its cumulative ban to the premiership.</translation>
+    <translation system="057_sina0812.sports.doc-ifxuxnah3371379_zh.c6">Although he has moved back to the Premier League, the FA has extended his suspension to the Premier League.</translation>
+  </seg>
+  <seg id="3" doc-id="057_sina0812.sports.doc-ifxuxnah3371379_zh.sl">
+    <source>如此一来，在8月14日客场迎战伯恩茅斯的比赛中，博格巴将作壁上观，他重返曼联的首秀将延至20日与南安普顿的主场比赛。</source>
+    <reference>NA</reference>
+    <translation system="057_sina0812.sports.doc-ifxuxnah3371379_zh.ht">As a result, at the away match at Bournemouth on August 14, Pogba will watch from the stands. His return debut to Manchester United will be delayed to the 20th when the club plays Southampton at home.</translation>
+    <translation system="057_sina0812.sports.doc-ifxuxnah3371379_zh.gg">In this way, Pogba will be sidelined in the August 14 game against Bournemouth, and his first show back to Manchester United will be postponed to the home game at Southampton on 20th.</translation>
+    <translation system="057_sina0812.sports.doc-ifxuxnah3371379_zh.c6">As a result, Bogba will be on the sidelines of the 14 August away game against Bournemouth and his return to Manchester United will be postponed until his home game against Southampton on 20 August.</translation>
+  </seg>
+</set>

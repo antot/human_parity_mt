@@ -1,0 +1,37 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="135_ifeng0812.news.49765161_0_zh.sl">
+    <source>哈米尔又说，另有34人受伤送医，包括3名消防人员受了轻伤，他们已经出院。</source>
+    <reference>NA</reference>
+    <translation system="135_ifeng0812.news.49765161_0_zh.ht">Hamill also said that another 34 were injured and in hospital, including three firefighters who sustained minor injuries; they have since been discharged.</translation>
+    <translation system="135_ifeng0812.news.49765161_0_zh.gg">Hammill added that another 34 people were injured and sent to hospital, including 3 firefighters who had been slightly injured.</translation>
+    <translation system="135_ifeng0812.news.49765161_0_zh.c6">Another 34 people were taken to hospital with injuries, including three firefighters who suffered minor injuries, and they have been released from the hospital, Hamill added.</translation>
+  </seg>
+  <seg id="2" doc-id="135_ifeng0812.news.49765161_0_zh.sl">
+    <source>由于有些住户仍下落不明，他也呼吁起火公寓的居民与当局联络。</source>
+    <reference>NA</reference>
+    <translation system="135_ifeng0812.news.49765161_0_zh.ht">Some residents remain missing. He encouraged residents of the burning building to contact with the authorities.</translation>
+    <translation system="135_ifeng0812.news.49765161_0_zh.gg">As some households are still unaccounted for, he also appealed to the residents of the fire flats to liaise with the authorities.</translation>
+    <translation system="135_ifeng0812.news.49765161_0_zh.c6">He also appealed to the residents of the apartment that caught fire to contact the authorities, as some of the occupants were still unaccounted for.</translation>
+  </seg>
+  <seg id="3" doc-id="135_ifeng0812.news.49765161_0_zh.sl">
+    <source>据悉，在这栋公寓住了30年的杜雷女士(Mariana Turay)表示：“好像有炸弹掉下来。”</source>
+    <reference>NA</reference>
+    <translation system="135_ifeng0812.news.49765161_0_zh.ht">It was reported that Mariana Turay, who had lived in this apartment block for 30 years, said, “It was like a bomb had fallen.”</translation>
+    <translation system="135_ifeng0812.news.49765161_0_zh.gg">It is reported that in this apartment for 30 years, Ms. Dulei (Mariana Turay) said: "It seems that a bomb fell." ”</translation>
+    <translation system="135_ifeng0812.news.49765161_0_zh.c6">"It looks like a bomb fell," said Mariana Turay, who has lived in the apartment for 30 years.</translation>
+  </seg>
+  <seg id="4" doc-id="135_ifeng0812.news.49765161_0_zh.sl">
+    <source>据悉，当地消防队花费了1小时45分钟才扑灭大火，附近建筑的居民在几小时后获准返回住处。</source>
+    <reference>NA</reference>
+    <translation system="135_ifeng0812.news.49765161_0_zh.ht">It was reported that the local fire department took one hour and 45 minutes to put out the fire. Residents in nearby buildings were only allowed to return to their homes a few hours later.</translation>
+    <translation system="135_ifeng0812.news.49765161_0_zh.gg">It is reported that the local fire brigade spent 1 hours and 45 minutes to extinguish the fire, residents of nearby buildings were allowed to return to their homes in a few hours.</translation>
+    <translation system="135_ifeng0812.news.49765161_0_zh.c6">It is understood the local fire brigade took an hour and 45 minutes to extinguish the blaze and residents of nearby buildings were allowed to return to their homes a few hours later.</translation>
+  </seg>
+  <seg id="5" doc-id="135_ifeng0812.news.49765161_0_zh.sl">
+    <source>美国红十字会人员估计，大约有100人无家可归，其中60至70人暂留附近小区中心的收容所，他们大都是西裔居民。</source>
+    <reference>NA</reference>
+    <translation system="135_ifeng0812.news.49765161_0_zh.ht">The U.S. Red Cross estimated around 100 homeless including  60-70 stayed in the shelter of the neighboring community center, mostly are Spanish Americans.</translation>
+    <translation system="135_ifeng0812.news.49765161_0_zh.gg">The American Red Cross estimates that about 100 people are homeless, of whom 60 to 70 are temporarily in shelters in the nearby community centre, mostly Hispanic residents.</translation>
+    <translation system="135_ifeng0812.news.49765161_0_zh.c6">American Red Cross officials estimate that about 100 people are homeless, with 60 to 70 of them staying in shelters in nearby neighborhood centers, mostly Hispanic residents.</translation>
+  </seg>
+</set>

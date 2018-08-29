@@ -1,0 +1,23 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="089_xinhua0812..c_129223859_zh.sl">
+    <source>8月11日，光大证券H股公开发售进入最后一天。有消息指出，招股前两日市场反应平淡。按照计划，其将于8月18日在港交所挂牌上市。</source>
+    <reference>NA</reference>
+    <translation system="089_xinhua0812..c_129223859_zh.ht">On August 11 is the last day for public sales of Everbright Securities H shares. News revealed that the market has responded coldly for 2 days before initial public offering. According to their plan, the company will be formally listed for public offering at Hong Kong Exchanges and Clearing on August 18.</translation>
+    <translation system="089_xinhua0812..c_129223859_zh.gg">August 11, Everbright Securities H-share of the public offering into the last day. It is reported that the market reaction of the two days before the IPO was bland. According to the plan, it will be listed at HKEx on August 18.</translation>
+    <translation system="089_xinhua0812..c_129223859_zh.c6">On August 11, Everbright Securities went into its final day of public offering of H shares. It was reported that market reaction was muted in the first two days of the offering. It is scheduled to be listed on the Hong Kong Stock Exchange on August 18.</translation>
+  </seg>
+  <seg id="2" doc-id="089_xinhua0812..c_129223859_zh.sl">
+    <source>国内一家券商分析师表示，东方证券在港基础并不算好，旗下资管业务才是东证所长。相比中银国际、中信证券等银行系券商，显得先天不足。</source>
+    <reference>NA</reference>
+    <translation system="089_xinhua0812..c_129223859_zh.ht">A local securities analyst expressed that Orient Securities does not have a strong base in Hong Kong. The asset management business unit under Orient Securities is where the firm excels in. The firm is relatively less advantaged when compared to securities traders based on banks such as BOC International and CITIC Securities.</translation>
+    <translation system="089_xinhua0812..c_129223859_zh.gg">A domestic brokerage analyst said that the Oriental securities on the basis of Hong Kong is not good, its capital management business is the East card director. Compared with BOC International, Citic Securities and other banks of the brokerage, appear congenitally deficient.</translation>
+    <translation system="089_xinhua0812..c_129223859_zh.c6">An analyst at a domestic brokerage said that Orient Securities was not on a good footing in Hong Kong and that its asset management business was the director of TSE, which appeared to be inherently inadequate compared with banks such as Bank of China International and CITIC Securities.</translation>
+  </seg>
+  <seg id="3" doc-id="089_xinhua0812..c_129223859_zh.sl">
+    <source>专家指出，今年以来随着证券市场回归平淡，很多券商业绩都出现了下滑，但公司上市之后情况要更多看公司本身业务的发展情况，不能一概而论。</source>
+    <reference>NA</reference>
+    <translation system="089_xinhua0812..c_129223859_zh.ht">Experts pointed out that for this year, as the securities market returned to relative peace, business performance of many securities traders took a hit. After a company becomes publicly listed, its performance will depend on the development of its operations, and should not be lumped with others.</translation>
+    <translation system="089_xinhua0812..c_129223859_zh.gg">Experts pointed out that this year with the return of the stock market insipid, many brokerages performance has declined, but the company after the listing of the situation to more look at the company's own business development situation, can not generalize.</translation>
+    <translation system="089_xinhua0812..c_129223859_zh.c6">Experts pointed out that so far this year with the return of the stock market flat, many brokerage performance has declined, but the company's listing after the situation depends more on the development of the company's own business, can not be generalized.</translation>
+  </seg>
+</set>

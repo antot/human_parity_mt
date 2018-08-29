@@ -1,0 +1,44 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="074_ifeng0812.news.49765938_0_zh.sl">
+    <source>据台湾“中央社”报道，大马尼拉地区偏郊1所监狱昨天夜间发生爆炸事件，造成典狱长受伤，10名囚犯死亡，据报包括2名华人。</source>
+    <reference>NA</reference>
+    <translation system="074_ifeng0812.news.49765938_0_zh.ht">According to CNA News of Taiwan, an explosion occurred in a prison located in a suburban area in Greater Manila. The explosion wounded the warden and killed 10 prisoners, including 2 individuals of Chinese descent.</translation>
+    <translation system="074_ifeng0812.news.49765938_0_zh.gg">According to a report by Taiwan's "Central Society", the 1 prisons in the Damani area were hit by an explosion yesterday night, causing the warden to be injured and 10 prisoners dead, reportedly including 2 Chinese.</translation>
+    <translation system="074_ifeng0812.news.49765938_0_zh.c6">An explosion ripped through a prison on the outskirts of Metro Manila yesterday, injuring the warden and killing 10 prisoners, including two Chinese, Taiwan's Central News Agency reported.</translation>
+  </seg>
+  <seg id="2" doc-id="074_ifeng0812.news.49765938_0_zh.sl">
+    <source>ABS-CBN电视台报道，事件于昨晚9时左右发生在帕拉纳圭市(Paranaque)监狱，但警方直到今天凌晨2时才提出初步说法。</source>
+    <reference>NA</reference>
+    <translation system="074_ifeng0812.news.49765938_0_zh.ht">ABS-CBN television station reported that the incident occurred last night at around 9pm at Paranaque City Jail, but the police only gave a preliminary explanation at 2am today.</translation>
+    <translation system="074_ifeng0812.news.49765938_0_zh.gg">CBN Television reported that the incident took place around 9 o'clock last evening in Palanagui (Paranaque) prison, but the police did not make a preliminary statement until 2 o'clock in the morning today.</translation>
+    <translation system="074_ifeng0812.news.49765938_0_zh.c6">ABS-CBN television reported that the incident took place at Paranaque prison around 9pm last night, but police did not make a preliminary statement until 2am this morning.</translation>
+  </seg>
+  <seg id="3" doc-id="074_ifeng0812.news.49765938_0_zh.sl">
+    <source>警方说，这10名囚犯求见典狱长，申诉移监事宜，但双方话不投机，有囚犯投掷手榴弹，酿成爆炸事件。</source>
+    <reference>NA</reference>
+    <translation system="074_ifeng0812.news.49765938_0_zh.ht">The police said that the 10 prisoners have asked to meet the warden regarding their applications for transfer. However, both parties failed to reach a consensus and a prisoner threw a grenade, leading to the explosion.</translation>
+    <translation system="074_ifeng0812.news.49765938_0_zh.gg">Police said that the 10 inmates sought the warden, complained about the relocation, but the two sides Ernest, there are prisoners throwing grenades, the explosion occurred.</translation>
+    <translation system="074_ifeng0812.news.49765938_0_zh.c6">Police said the 10 prisoners asked the warden to complain about the transfer, but the two sides did not agree, some prisoners threw grenades, resulting in an explosion.</translation>
+  </seg>
+  <seg id="4" doc-id="074_ifeng0812.news.49765938_0_zh.sl">
+    <source>狱方尚未公布死亡囚犯的姓名，但GMA电视台报道，其中包括2名华人。</source>
+    <reference>NA</reference>
+    <translation system="074_ifeng0812.news.49765938_0_zh.ht">Prison authorities have yet to announce the names of the prisoners who died, but GMA News TV reported that two were ethnic Chinese.</translation>
+    <translation system="074_ifeng0812.news.49765938_0_zh.gg">The prison party has not yet published the names of the dead prisoners, but the GMA television reported that it included 2 Chinese people.</translation>
+    <translation system="074_ifeng0812.news.49765938_0_zh.c6">The prison authorities have not yet released the names of the dead prisoners, but GMA TV reported that they included two Chinese.</translation>
+  </seg>
+  <seg id="5" doc-id="074_ifeng0812.news.49765938_0_zh.sl">
+    <source>截至上午8时，狱方尚未提出详细的说明，包括囚犯如何取得手榴弹。</source>
+    <reference>NA</reference>
+    <translation system="074_ifeng0812.news.49765938_0_zh.ht">As of 8am, the prison authorities have yet to issue a detailed explanation, including how the prisoners obtained the hand grenades.</translation>
+    <translation system="074_ifeng0812.news.49765938_0_zh.gg">As at 8 o'clock in the morning, the prison party had not provided detailed instructions, including how the prisoners had obtained grenades.</translation>
+    <translation system="074_ifeng0812.news.49765938_0_zh.c6">As of 8 a.m., the prison authorities had not provided detailed instructions, including how the prisoners had obtained the grenades.</translation>
+  </seg>
+  <seg id="6" doc-id="074_ifeng0812.news.49765938_0_zh.sl">
+    <source>昨天，菲国中部警方进入雷伊泰省(Leyte)地区监狱，击毙1名“企图袭警”的受刑人。</source>
+    <reference>NA</reference>
+    <translation system="074_ifeng0812.news.49765938_0_zh.ht">Yesterday, police force from central Philippines entered the Leyte district prison, shooting and killing a prison-mate who “attempted to assault an officer”.</translation>
+    <translation system="074_ifeng0812.news.49765938_0_zh.gg">Yesterday, Philippine Central Police entered the Leyte district Prison, killing 1 "attempted assaulting the police" of the prisoners.</translation>
+    <translation system="074_ifeng0812.news.49765938_0_zh.c6">Police in the central Philippines yesterday entered a regional prison in Leyte province, killing a prisoner who had "attempted to attack a police officer."</translation>
+  </seg>
+</set>

@@ -1,0 +1,58 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="101_ifeng0812.news.49764552_0_zh.sl">
+    <source>据俄罗斯国防部介绍，为协助这6架战略轰炸机对叙利亚境内“伊斯兰国”目标实施空中打击，多架俄军战机从叙利亚赫迈米姆空军基地升空提供支持。</source>
+    <reference>NA</reference>
+    <translation system="101_ifeng0812.news.49764552_0_zh.ht">Information given by the Russian Ministry of Defense said that in order to support the 6 strategic bombers to conduct air strikes of “Islamic State” targets within Syria, multiple Russian military aircraft has taken off from the Khmeimim Air Base from Syria to provide assistance.</translation>
+    <translation system="101_ifeng0812.news.49764552_0_zh.gg">According to the Russian Ministry of Defense, in order to assist the 6 strategic bombers in Syria, the "Islamic State" targets in the air strikes, several Russian warplanes from the Syrian state Air Force Base to support the launch.</translation>
+    <translation system="101_ifeng0812.news.49764552_0_zh.c6">According to the Russian Defense Ministry, in order to assist the six strategic bombers to carry out air strikes against Islamic State (IS) targets in Syria, a number of Russian warplanes launched from the Syrian Khmeimim air base to provide support.</translation>
+  </seg>
+  <seg id="2" doc-id="101_ifeng0812.news.49764552_0_zh.sl">
+    <source>今年2月22日，美国与俄罗斯就叙利亚冲突各方停火达成协议，停火协议自当月27日起开始执行。</source>
+    <reference>NA</reference>
+    <translation system="101_ifeng0812.news.49764552_0_zh.ht">On February 22 this year, the US and Russia has reached an agreement on a general ceasefire for the Syrian conflict. The ceasefire agreement will be enforced starting on the 27th day of the month.</translation>
+    <translation system="101_ifeng0812.news.49764552_0_zh.gg">On February 22 this year, the United States and Russia reached an agreement on a ceasefire between the parties to the Syrian conflict, and the ceasefire has been implemented since 27th of the month.</translation>
+    <translation system="101_ifeng0812.news.49764552_0_zh.c6">On 22 February this year, the United States and Russia reached an agreement on a ceasefire between the parties to the Syrian conflict, which has been in effect since 27 February.</translation>
+  </seg>
+  <seg id="3" doc-id="101_ifeng0812.news.49764552_0_zh.sl">
+    <source>根据协议，停火不包括对“伊斯兰国”“支持阵线”等联合国安理会认定的恐怖组织的军事打击。</source>
+    <reference>NA</reference>
+    <translation system="101_ifeng0812.news.49764552_0_zh.ht">According to the agreement, the ceasefire does not apply to military strikes implemented against the Islamic State, the al-Nusra Front, and other UN-recognized terrorist groups.</translation>
+    <translation system="101_ifeng0812.news.49764552_0_zh.gg">According to the agreement, the ceasefire does not include a military strike against the terrorist groups identified by the UN Security Council, such as the "Islamic State" "support front".</translation>
+    <translation system="101_ifeng0812.news.49764552_0_zh.c6">Under the agreement, the cease-fire does not include military strikes against terrorist groups designated by the UN Security Council, such as the Islamic State's Support Front.</translation>
+  </seg>
+  <seg id="4" doc-id="101_ifeng0812.news.49764552_0_zh.sl">
+    <source>俄将在该基地继续建设相关军事基础设施，俄军人的生活条件也会得到相应保障。</source>
+    <reference>NA</reference>
+    <translation system="101_ifeng0812.news.49764552_0_zh.ht">Russia will continue to construct relevant military infrastructure at this base so that the living conditions of Russian soldiers will be ensured.</translation>
+    <translation system="101_ifeng0812.news.49764552_0_zh.gg">Russia will continue to build the relevant military infrastructure at the base, and the living conditions of the Russian servicemen will be safeguarded accordingly.</translation>
+    <translation system="101_ifeng0812.news.49764552_0_zh.c6">Russia will continue to build the relevant military infrastructure at the base, and the living conditions of Russian military personnel will be guaranteed accordingly.</translation>
+  </seg>
+  <seg id="5" doc-id="101_ifeng0812.news.49764552_0_zh.sl">
+    <source>他还说，如果不对极端主义势力进行打击，这些势力会扩展到俄罗斯。</source>
+    <reference>NA</reference>
+    <translation system="101_ifeng0812.news.49764552_0_zh.ht">He added that if extremist organizations are not suppressed, these forces will spread to Russia.</translation>
+    <translation system="101_ifeng0812.news.49764552_0_zh.gg">He added that those forces would expand to Russia without a crackdown on extremist forces.</translation>
+    <translation system="101_ifeng0812.news.49764552_0_zh.c6">Without a crackdown on extremist forces, they would expand into Russia, he added.</translation>
+  </seg>
+  <seg id="6" doc-id="101_ifeng0812.news.49764552_0_zh.sl">
+    <source>虽然俄罗斯与西方没有在共同打击叙极端主义势力方面达成协议，但俄会在此方面加强与叙利亚、伊朗、伊拉克等方面的合作。</source>
+    <reference>NA</reference>
+    <translation system="101_ifeng0812.news.49764552_0_zh.ht">Although Russia and the West have yet to achieve a consensus in beating back extremist forces in Syria, Russia will be stepping up its partnerships with Syria, Iran, and Iraq relating to this matter.</translation>
+    <translation system="101_ifeng0812.news.49764552_0_zh.gg">Although Russia and the West did not agree on a joint fight against the Syrian extremist forces, Russia will strengthen its cooperation with Syria, Iran and Iraq in this regard.</translation>
+    <translation system="101_ifeng0812.news.49764552_0_zh.c6">Although Russia and the West have not reached an agreement to jointly combat extremist forces in Syria, Russia will strengthen cooperation in this regard with Syria, Iran, Iraq and other parties.</translation>
+  </seg>
+  <seg id="7" doc-id="101_ifeng0812.news.49764552_0_zh.sl">
+    <source>2015年9月，俄罗斯应叙利亚政府邀请开始对叙极端主义势力进行军事打击。</source>
+    <reference>NA</reference>
+    <translation system="101_ifeng0812.news.49764552_0_zh.ht">In September 2015, at the invitation of the Syrian government, Russia commenced military strikes against extremist forces in Syria.</translation>
+    <translation system="101_ifeng0812.news.49764552_0_zh.gg">In September 2015, Russia began a military strike against the Syrian extremist forces at the invitation of Syria's government.</translation>
+    <translation system="101_ifeng0812.news.49764552_0_zh.c6">In September 2015, Russia began a military campaign against extremist forces in Syria at the invitation of the Syrian government.</translation>
+  </seg>
+  <seg id="8" doc-id="101_ifeng0812.news.49764552_0_zh.sl">
+    <source>今年3月15日，俄驻叙主要军事力量开始撤离，但俄方承诺会继续保留驻赫迈米姆空军基地和驻塔尔图斯海军基地。</source>
+    <reference>NA</reference>
+    <translation system="101_ifeng0812.news.49764552_0_zh.ht">On March 15 this year, Russia has withdrawn its main military forces for Syria. However, Russia promises that it will continue to maintain a garrison at the Khmeimim Air Base and Tartus Naval Base.</translation>
+    <translation system="101_ifeng0812.news.49764552_0_zh.gg">March 15 This year, Russia's main military forces in Syria began to withdraw, but the Russian side pledged to continue to maintain the Tartous airbase and stationed at the naval base.</translation>
+    <translation system="101_ifeng0812.news.49764552_0_zh.c6">March 15 this year, the main Russian military forces in Syria began to withdraw, but the Russian side pledged to continue to maintain the Hermeimim air base and naval base in Tartus.</translation>
+  </seg>
+</set>

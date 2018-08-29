@@ -1,0 +1,23 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="085_xinhua0812..c_129223133_zh.sl">
+    <source>里约奥组委在２０１２年制定的奥运传播战略中就曾说：“奥运会成功与否是由哪些在社交媒体分享故事的人们定义的。”</source>
+    <reference>NA</reference>
+    <translation system="085_xinhua0812..c_129223133_zh.ht">The Rio International Olympic Committee said, when stipulating the 2012 Olympics advertising strategy: “The success of the Olympics is dependent on and defined by people sharing stories on social media.”</translation>
+    <translation system="085_xinhua0812..c_129223133_zh.gg">"The success of the Olympics is defined by people who share stories in social media," said the Rio Olympic Committee in the 2012 Olympics communication strategy. ”</translation>
+    <translation system="085_xinhua0812..c_129223133_zh.c6">"The success of the Games is defined by the people who share their stories on social media," the Rio organising committee said in its Olympic communications strategy developed in 2012.</translation>
+  </seg>
+  <seg id="2" doc-id="085_xinhua0812..c_129223133_zh.sl">
+    <source>而从本届奥运会的报道来看，各媒体在传播方式、产品形态、语言风格、新闻视角等诸多方面都较以往做了很大的改变。</source>
+    <reference>NA</reference>
+    <translation system="085_xinhua0812..c_129223133_zh.ht">The reporting of this Olympics revealed that major changes have taken place as regards the method of reporting, the form of the product, the style of speech, the perspective of news reporting, and various other areas.</translation>
+    <translation system="085_xinhua0812..c_129223133_zh.gg">From the report of this Olympic Games, the media in the way of communication, product form, language style, news perspective and many other aspects of the past has made a great change.</translation>
+    <translation system="085_xinhua0812..c_129223133_zh.c6">And from the coverage of the current Olympic Games, the media in the mode of communication, product form, language style, news perspective and many other aspects have made great changes than before.</translation>
+  </seg>
+  <seg id="3" doc-id="085_xinhua0812..c_129223133_zh.sl">
+    <source>国际奥委会和世界各国的媒体从业者，看来都已经要迎接这一轮挑战了。</source>
+    <reference>NA</reference>
+    <translation system="085_xinhua0812..c_129223133_zh.ht">The International Olympic Committee and media workers from around the world seem to be ready for this new round of challenges.</translation>
+    <translation system="085_xinhua0812..c_129223133_zh.gg">The IOC and media practitioners around the world seem to have already met this challenge.</translation>
+    <translation system="085_xinhua0812..c_129223133_zh.c6">The International Olympic Committee and media practitioners around the world, it seems, are ready to meet this challenge.</translation>
+  </seg>
+</set>

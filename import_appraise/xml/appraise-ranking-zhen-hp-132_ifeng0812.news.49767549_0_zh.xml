@@ -1,0 +1,16 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="132_ifeng0812.news.49767549_0_zh.sl">
+    <source>近日，由中国文联、青海省政府主办的第十届中国国际民间艺术节在青海西宁拉开帷幕。</source>
+    <reference>NA</reference>
+    <translation system="132_ifeng0812.news.49767549_0_zh.ht">Recently, the 10th China International Folk Art Festival organized by the China Federation of Literary and Art Circles and the Qinghai People’s Government celebrated its opening ceremony at Xining in Qinghai.</translation>
+    <translation system="132_ifeng0812.news.49767549_0_zh.gg">Recently, the Chinese International Folk Art Festival, which was hosted by China Federation and Qinghai Provincial government, opened in Xining, Qinghai.</translation>
+    <translation system="132_ifeng0812.news.49767549_0_zh.c6">Recently, the 10th China International Folk Art Festival, sponsored by the China Federation of Literary and Art Circles and the Qinghai Provincial Government, opened in Xining, Qinghai Province.</translation>
+  </seg>
+  <seg id="2" doc-id="132_ifeng0812.news.49767549_0_zh.sl">
+    <source>来自五大洲13个国家和地区的艺术团约300余名艺术家同聚一堂，为观众带来了极具国际性与民族民间特色的精彩演出。</source>
+    <reference>NA</reference>
+    <translation system="132_ifeng0812.news.49767549_0_zh.ht">Approximately 300 artists from art troupes and ensembles in 13 countries and regions across five continents gathered together to present exciting performances with international and ethnic and folk characteristics to the audience.</translation>
+    <translation system="132_ifeng0812.news.49767549_0_zh.gg">More than 300 artists from the 13 countries and regions of the five continents have gathered together to bring an excellent performance of international and national folk characteristics to the audience.</translation>
+    <translation system="132_ifeng0812.news.49767549_0_zh.c6">More than 300 artists from 13 countries and regions from five continents gathered together to present a splendid performance with international and national characteristics.</translation>
+  </seg>
+</set>

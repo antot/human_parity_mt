@@ -1,0 +1,23 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="052_peopledaily0812.world.c1002-28632659_zh.sl">
+    <source>英国《金融时报》8月12日发布了一组美国驻华大使官邸的图集。</source>
+    <reference>NA</reference>
+    <translation system="052_peopledaily0812.world.c1002-28632659_zh.ht">The Financial Times (UK) published a collection of photos on the official residence of the US Ambassador to China on August 12.</translation>
+    <translation system="052_peopledaily0812.world.c1002-28632659_zh.gg">The Financial Times August 12 released a set of images of the U.S. ambassador's residence in China.</translation>
+    <translation system="052_peopledaily0812.world.c1002-28632659_zh.c6">The Financial Times published an atlas of the residence of the US ambassador to China on August 12.</translation>
+  </seg>
+  <seg id="2" doc-id="052_peopledaily0812.world.c1002-28632659_zh.sl">
+    <source>文章称，与之形成对比的是，美国大使官邸从外观来看，完全可以在下一部改编自约翰勒卡雷冷战间谍小说的电影中作为安全屋。</source>
+    <reference>NA</reference>
+    <translation system="052_peopledaily0812.world.c1002-28632659_zh.ht">According to the article, in stark contrast, the official abode of US officials can be used as a safe house for a movie based on John le Carré’s cold war spy novel.</translation>
+    <translation system="052_peopledaily0812.world.c1002-28632659_zh.gg">In contrast, the U.S. ambassador's official residence, according to the article, can be seen as a safe house in the next film adapted from the John Le Carre Cold War spy novel.</translation>
+    <translation system="052_peopledaily0812.world.c1002-28632659_zh.c6">In contrast, the U.S. ambassador's residence, by its appearance, could well serve as a safe house in the next film adapted from John Le Carré's Cold War spy novel, the article said.</translation>
+  </seg>
+  <seg id="3" doc-id="052_peopledaily0812.world.c1002-28632659_zh.sl">
+    <source>官邸是灰色的，并用外围防护栏、第二层内墙、带刺铁丝网以及车辆路障层层严密防守。</source>
+    <reference>NA</reference>
+    <translation system="052_peopledaily0812.world.c1002-28632659_zh.ht">The official residence is gray in color, and is surrounded by protective fences, a second layer of inner walls, barbed wire, and vehicle barriers to provide a multiple layers of defense.</translation>
+    <translation system="052_peopledaily0812.world.c1002-28632659_zh.gg">The residence is grey and tightly defended with perimeter guard rails, second floor walls, barbed wire and vehicle barricade layers.</translation>
+    <translation system="052_peopledaily0812.world.c1002-28632659_zh.c6">The residence is grey and heavily guarded with perimeter fences, a second internal wall, barbed wire and vehicle barriers.</translation>
+  </seg>
+</set>

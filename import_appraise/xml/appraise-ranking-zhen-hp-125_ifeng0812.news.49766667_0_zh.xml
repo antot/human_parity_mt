@@ -1,0 +1,30 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="125_ifeng0812.news.49766667_0_zh.sl">
+    <source>印度一名大叔上周刚在迪拜国际机场经历飞机机腹着陆惊魂，本周就在同一座机场中了100万美元大奖。</source>
+    <reference>NA</reference>
+    <translation system="125_ifeng0812.news.49766667_0_zh.ht">A middle-aged man from India, having survived a terrifying episode when the flight he took was forced to belly land at Dubai International Airport, won a 1 million USD lottery prize this week at the same airport.</translation>
+    <translation system="125_ifeng0812.news.49766667_0_zh.gg">An Indian Uncle week at Dubai International Airport, where he was hit by a plane crash, and this week won a $1 million jackpot at the same airport.</translation>
+    <translation system="125_ifeng0812.news.49766667_0_zh.c6">An Indian great-uncle has won a $1 million prize at the same airport this week after suffering a plane crash landing at Dubai International Airport last week.</translation>
+  </seg>
+  <seg id="2" doc-id="125_ifeng0812.news.49766667_0_zh.sl">
+    <source>久居阿联酋迪拜的印度人穆罕默德·巴希尔·阿卜杜勒·赫达尔每次回国都有买彩票的习惯。</source>
+    <reference>NA</reference>
+    <translation system="125_ifeng0812.news.49766667_0_zh.ht">Muhammad Basheer Abdul Khadar, an Indian national and long-time resident in Dubai, UAE, expressed that he has a habit of buying a lottery ticket every time he goes home.</translation>
+    <translation system="125_ifeng0812.news.49766667_0_zh.gg">穆罕默德·巴 希尔·阿卜杜勒·赫达尔, a Dubai in the UAE, has the habit of buying lottery tickets every time he returns home.</translation>
+    <translation system="125_ifeng0812.news.49766667_0_zh.c6">Mohammed Bashir Abdul Hedar, a longtime Indian resident in Dubai, United Arab Emirates, has a habit of buying lottery tickets every time he returns home.</translation>
+  </seg>
+  <seg id="3" doc-id="125_ifeng0812.news.49766667_0_zh.sl">
+    <source>他21岁的儿子在出生13天时因意外坠落导致瘫痪，他一直辛苦工作偿还儿子的医疗费用贷款。</source>
+    <reference>NA</reference>
+    <translation system="125_ifeng0812.news.49766667_0_zh.ht">His 21-year old son was paralyzed after an accidental fall on the thirteenth day after he was born. He has been hard at work trying to payback medical expense loans for his son.</translation>
+    <translation system="125_ifeng0812.news.49766667_0_zh.gg">His 21-year-old son, who was paralyzed by an accidental fall during his 13-day birth, has been working hard to repay his son's medical bills.</translation>
+    <translation system="125_ifeng0812.news.49766667_0_zh.c6">His 21-year-old son was paralysed by an accidental fall 13 days after he was born and he has been working hard to pay off his son's medical expenses loan.</translation>
+  </seg>
+  <seg id="4" doc-id="125_ifeng0812.news.49766667_0_zh.sl">
+    <source>“从空难中逃脱是神给了我二次生命，而又给了我这笔钱让我行善，”赫达尔说。</source>
+    <reference>NA</reference>
+    <translation system="125_ifeng0812.news.49766667_0_zh.ht">“Escaping from the air crash was God giving me a new lease on life. He then gave me this sum of money so that I can perform charitable acts,” said Haider.</translation>
+    <translation system="125_ifeng0812.news.49766667_0_zh.gg">"Escaping from the crash was God giving me two lives and giving me the money to do good," Hedar said.</translation>
+    <translation system="125_ifeng0812.news.49766667_0_zh.c6">"It was God who gave me a second chance at life and gave me the money to do good," Hedar said.</translation>
+  </seg>
+</set>

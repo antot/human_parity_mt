@@ -1,0 +1,37 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="121_ifeng0812.news.49764254_0_zh.sl">
+    <source>记者今天从国家税务总局了解到,截至今年6月底,各级税务机关已公布税收违法“黑名单”案件2470件。</source>
+    <reference>NA</reference>
+    <translation system="121_ifeng0812.news.49764254_0_zh.ht">Reporters learned from the State Administration of Taxation that as of end-June this year, tax authorities at various levels have disclosed a tax violation “blacklist” comprising 2470 cases.</translation>
+    <translation system="121_ifeng0812.news.49764254_0_zh.gg">Reporters today from the State administration of taxation, as at the end of June this year, tax authorities at all levels have published the tax illegal "blacklist" case 2,470.</translation>
+    <translation system="121_ifeng0812.news.49764254_0_zh.c6">Reporters learned today from the State Administration of Taxation that by the end of June this year, tax authorities at all levels had announced 2,470 "blacklist" cases of tax violations.</translation>
+  </seg>
+  <seg id="2" doc-id="121_ifeng0812.news.49764254_0_zh.sl">
+    <source>据了解,2014年7月,国家税务总局在中央政府职能部门中先行一步,与《纳税信用管理办法》联袂发布了《重大税收违法案件信息公布办法》。</source>
+    <reference>NA</reference>
+    <translation system="121_ifeng0812.news.49764254_0_zh.ht">It was reported that in July 2014, the State Administration of Taxation took the first step among the functional departments of the Central Government, and announced the Measures for the Administration of Taxpayer Creditworthiness together with the Measures for Announcing Information Concerning Major Unlawful Tax Practices.</translation>
+    <translation system="121_ifeng0812.news.49764254_0_zh.gg">It is understood that in July 2014, the State administration of taxation in the central government functional departments in advance, and the "Tax Credit Management measures" jointly issued the "major tax cases information disclosure measures."</translation>
+    <translation system="121_ifeng0812.news.49764254_0_zh.c6">It is understood that in July 2014, the State Administration of Taxation took the first step in the functional departments of the central Government and, jointly with the Measures on the Administration of Tax Credit, issued the Measures on the Disclosure of Information on Major Tax Violations.</translation>
+  </seg>
+  <seg id="3" doc-id="121_ifeng0812.news.49764254_0_zh.sl">
+    <source>不但这些案件的违法事实、法律依据、处理处罚情况会被公布,而且违法当事人的基本信息以及相关中介机构责任人也会被列入“黑名单”一并曝光。</source>
+    <reference>NA</reference>
+    <translation system="121_ifeng0812.news.49764254_0_zh.ht">Not only will the facts of malfeasance, legal basis, and the handling and punishment pertaining to these cases be released to the public, the basic information of the perpetrators as well as the relevant competent persons of the intermediaries will also be listed in a “blacklist” and disclosed.</translation>
+    <translation system="121_ifeng0812.news.49764254_0_zh.gg">Not only these cases of illegal facts, legal basis, the treatment of punishment will be published, and the basic information of the Parties to the law and the relevant intermediary agencies responsible person will also be included in the "blacklist" exposure.</translation>
+    <translation system="121_ifeng0812.news.49764254_0_zh.c6">Not only the illegal facts, legal basis and punishment of these cases will be published, but also the basic information of the illegal parties and the persons responsible for the relevant intermediary agencies will also be put on the "blacklist" to be exposed at the same time.</translation>
+  </seg>
+  <seg id="4" doc-id="121_ifeng0812.news.49764254_0_zh.sl">
+    <source>质检、财政、海关等政府部门也对“黑名单”当事人采取了相关惩戒措施。</source>
+    <reference>NA</reference>
+    <translation system="121_ifeng0812.news.49764254_0_zh.ht">Quality inspections, finances, customs, and other government institutions also implemented punitive measures against parties on the “blacklist”.</translation>
+    <translation system="121_ifeng0812.news.49764254_0_zh.gg">Quality inspection, finance, customs and other government departments have also taken relevant disciplinary measures against the "blacklist" parties.</translation>
+    <translation system="121_ifeng0812.news.49764254_0_zh.c6">Quality inspection, finance, customs and other government departments have also taken relevant disciplinary measures against "blacklist" parties.</translation>
+  </seg>
+  <seg id="5" doc-id="121_ifeng0812.news.49764254_0_zh.sl">
+    <source>“信用修复机制是税收信用体系建设乃至全社会信用体系建设的一个重要的里程碑,标志着我国社会信用体系建设在不断发展完善,日趋成熟。”</source>
+    <reference>NA</reference>
+    <translation system="121_ifeng0812.news.49764254_0_zh.ht">“Credit score repair is an important milestone for building tax credit system, and even the social credit system. It signifies continuous development, perfection, and maturation in building a social credit system in our country.”</translation>
+    <translation system="121_ifeng0812.news.49764254_0_zh.gg">"Credit repair mechanism is an important milestone in the construction of tax credit system and even the whole society credit system, which marks the development and perfection of our Social Credit system." ”</translation>
+    <translation system="121_ifeng0812.news.49764254_0_zh.c6">"The credit repair mechanism is an important milestone in the construction of the tax credit system and even the whole social credit system. It marks the continuous development and improvement of China's social credit system."</translation>
+  </seg>
+</set>

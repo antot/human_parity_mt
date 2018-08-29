@@ -1,0 +1,23 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="147_xinhua0812..c_129224228_zh.sl">
+    <source>此项调控新政出台后，苏州将成为全国第一个重启限购的二线城市。</source>
+    <reference>NA</reference>
+    <translation system="147_xinhua0812..c_129224228_zh.ht">Once this adjustment and new policy is promulgated, Suzhou shall become the first second-tier city to re-impose purchase limits in the country.</translation>
+    <translation system="147_xinhua0812..c_129224228_zh.gg">After the new deal is introduced, Suzhou will be the first second-tier city to restart the country.</translation>
+    <translation system="147_xinhua0812..c_129224228_zh.c6">The new regulation after the introduction of Suzhou will become the country's first to restart the purchase of second-tier cities.</translation>
+  </seg>
+  <seg id="2" doc-id="147_xinhua0812..c_129224228_zh.sl">
+    <source>出台或者即将出台楼市调控政策的二线城市不止苏州，还包括合肥、南京等城市。</source>
+    <reference>NA</reference>
+    <translation system="147_xinhua0812..c_129224228_zh.ht">Suzhou is not the only second-tier city stipulating or will be stipulating housing control policies. Other cities doing so include Hefei and Nanjing.</translation>
+    <translation system="147_xinhua0812..c_129224228_zh.gg">The introduction or imminent introduction of the property control policy of the second-tier cities in Suzhou, including Hefei, Nanjing and other cities.</translation>
+    <translation system="147_xinhua0812..c_129224228_zh.c6">The second-tier cities that have introduced or are about to introduce policies to regulate the property market include not only Suzhou, but also cities such as Hefei and Nanjing.</translation>
+  </seg>
+  <seg id="3" doc-id="147_xinhua0812..c_129224228_zh.sl">
+    <source>此前，合肥已经率先发布限贷政策，对于在合肥名下有两套房且有一套住房贷款未结清的购房者，银行将拒绝提供房贷服务。</source>
+    <reference>NA</reference>
+    <translation system="147_xinhua0812..c_129224228_zh.ht">Earlier, Hefei had taken the lead in issuing policies on lending quotas. Banks will refuse to provide housing loan services to buyers of residential property who are owners of two properties of which one still has mortgage outstanding.</translation>
+    <translation system="147_xinhua0812..c_129224228_zh.gg">Earlier, Hefei has been the first to issue restrictions on lending policy, for the two suites in Hefei and has a set of housing loans outstanding buyers, banks will refuse to provide mortgage services.</translation>
+    <translation system="147_xinhua0812..c_129224228_zh.c6">Hefei has already taken the lead in issuing a policy of loan restrictions, with banks refusing to provide mortgage services to buyers who have two suites under the name of Hefei and have an outstanding home loan.</translation>
+  </seg>
+</set>

@@ -1,0 +1,23 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="068_ifeng0812.news.49765900_2_zh.sl">
+    <source>近日，浙江省桐乡市正福村狮子浜的荷博园正式对村民和游客开放。</source>
+    <reference>NA</reference>
+    <translation system="068_ifeng0812.news.49765900_2_zh.ht">A lotus garden at Shizibang in Zhengfu Village, Tongxiang City, Zhejiang Province was officially opened to local residents and tourists recently.</translation>
+    <translation system="068_ifeng0812.news.49765900_2_zh.gg">Recently, Zhejiang province Tongxiang Zheng Fu Lion Bang Park is officially open to villagers and tourists.</translation>
+    <translation system="068_ifeng0812.news.49765900_2_zh.c6">Recently, the Hobo Garden in Shizibang, Zhengfu Village, Tongxiang City, Zhejiang Province, was officially opened to villagers and tourists.</translation>
+  </seg>
+  <seg id="2" doc-id="068_ifeng0812.news.49765900_2_zh.sl">
+    <source>该园由100多个圆形小池塘组成，种植了约300个品种的观赏荷花、睡莲等。</source>
+    <reference>NA</reference>
+    <translation system="068_ifeng0812.news.49765900_2_zh.ht">This park is comprised of more than 100 little round ponds with approximately 300 varieties of lotuses and water lilies.</translation>
+    <translation system="068_ifeng0812.news.49765900_2_zh.gg">The garden is made up of more than 100 round small ponds, planting about 300 species of ornamental lotus, water lily and so on.</translation>
+    <translation system="068_ifeng0812.news.49765900_2_zh.c6">The garden consists of more than 100 small round ponds, planted about 300 varieties of ornamental lotus, water lilies, etc.</translation>
+  </seg>
+  <seg id="3" doc-id="068_ifeng0812.news.49765900_2_zh.sl">
+    <source>乡村荷花产业兼具观赏性、休闲性和经济效益，成为当地新农村发展的亮点。</source>
+    <reference>NA</reference>
+    <translation system="068_ifeng0812.news.49765900_2_zh.ht">The rural lotus industry incorporates ornamental, recreational and economic benefits, and has become a highlight for new rural development.</translation>
+    <translation system="068_ifeng0812.news.49765900_2_zh.gg">The rural Lotus industry has both ornamental, recreational and economic benefits, which has become a bright spot for the development of local new countryside.</translation>
+    <translation system="068_ifeng0812.news.49765900_2_zh.c6">The rural lotus industry has both ornamental, leisure and economic benefits, and has become a bright spot in the development of new rural areas.</translation>
+  </seg>
+</set>

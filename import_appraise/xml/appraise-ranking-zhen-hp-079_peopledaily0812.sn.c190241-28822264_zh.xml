@@ -1,0 +1,44 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="079_peopledaily0812.sn.c190241-28822264_zh.sl">
+    <source>市民在日常出行中，发现爱车被陌生车辆阻碍了，在联系不上陌生车辆司机的情况下，可以使用“微信挪车”功能解决这一困扰。</source>
+    <reference>NA</reference>
+    <translation system="079_peopledaily0812.sn.c190241-28822264_zh.ht">A citizen whose car is obstructed by vehicle and is unable to contact the owner of the obstructing vehicle can use the “WeChat Move the Car” function to address the issue.</translation>
+    <translation system="079_peopledaily0812.sn.c190241-28822264_zh.gg">People in the daily travel, found that the car was blocked by strange vehicles, in the case of unfamiliar vehicle drivers, can use the "micro-letter Car" function to solve this problem.</translation>
+    <translation system="079_peopledaily0812.sn.c190241-28822264_zh.c6">Members of the public who find their cars obstructed by unfamiliar vehicles during their daily journeys can use the "Twitter Move Car" feature to address this distress when the driver of the unfamiliar vehicle cannot be reached.</translation>
+  </seg>
+  <seg id="2" doc-id="079_peopledaily0812.sn.c190241-28822264_zh.sl">
+    <source>8月11日起，西安交警微信服务号“西安交警”推出“微信挪车”服务。</source>
+    <reference>NA</reference>
+    <translation system="079_peopledaily0812.sn.c190241-28822264_zh.ht">The Xi’an Traffic Police WeChat official account “Xi’an Jiaojing” released the “WeChat Move the Car” service since August 11.</translation>
+    <translation system="079_peopledaily0812.sn.c190241-28822264_zh.gg">August 11, Xi ' an traffic police micro-letter service Number "Xi ' an traffic police" launched the "micro-letter car" service.</translation>
+    <translation system="079_peopledaily0812.sn.c190241-28822264_zh.c6">On August 11, Xi'an traffic police WeChat service number "Xi'an traffic police" launched "WeChat mobile" service.</translation>
+  </seg>
+  <seg id="3" doc-id="079_peopledaily0812.sn.c190241-28822264_zh.sl">
+    <source>这项服务推出后，日常生活中，市民如遇陌生车辆在驾驶人不在现场的情况下阻碍自己车辆行驶时，就可通过使用“微信挪车”功能解决此类问题。</source>
+    <reference>NA</reference>
+    <translation system="079_peopledaily0812.sn.c190241-28822264_zh.ht">Once the service was released, a fellow citizen whose car was obstructed by another vehicle and where the driver of the vehicle was not present, the citizen could use the “WeChat Move the Car” function to address the issue.</translation>
+    <translation system="079_peopledaily0812.sn.c190241-28822264_zh.gg">After the introduction of this service, in daily life, the public can solve such problems by using the "micro-letter Car" function when the driver is not in the scene when the vehicle is blocked by a strange vehicle.</translation>
+    <translation system="079_peopledaily0812.sn.c190241-28822264_zh.c6">With the launch of the service, members of the public can tackle such problems in their daily lives by using the "WeChat Move" feature when an unfamiliar vehicle obstructs the movement of their vehicle while the driver is not at the scene.</translation>
+  </seg>
+  <seg id="4" doc-id="079_peopledaily0812.sn.c190241-28822264_zh.sl">
+    <source>这个新服务功能一是快捷，节省行政成本；二是尊重、保护公民个人隐私；三是全天候、全时段服务。</source>
+    <reference>NA</reference>
+    <translation system="079_peopledaily0812.sn.c190241-28822264_zh.ht">The new service firstly provides convenience and reduces administrative costs; secondly, it respects and protects public privacy of citizens; and finally, it offers services at any time of the day.</translation>
+    <translation system="079_peopledaily0812.sn.c190241-28822264_zh.gg">The new service function is fast, saves the administrative cost, the second is to respect and protect the personal privacy of the citizens; three is all-weather, full time service.</translation>
+    <translation system="079_peopledaily0812.sn.c190241-28822264_zh.c6">The first function of this new service is to be fast and save administrative cost; the second is to respect and protect the individual privacy of citizens; and the third is all-weather, full time service.</translation>
+  </seg>
+  <seg id="5" doc-id="079_peopledaily0812.sn.c190241-28822264_zh.sl">
+    <source>只要市民有微信，就可以非常便捷地自行操作，这种方式相对能使移车双方都能比较友好轻松地“相遇”，缓解停车难问题，并可减少涉车的治安案件发生。</source>
+    <reference>NA</reference>
+    <translation system="079_peopledaily0812.sn.c190241-28822264_zh.ht">This can be operated independently and very conveniently by any citizen with WeChat. This method allows both parties in the vehicle moving issue to “meet” in a more amiable and light-hearted manner, alleviate issues of parking difficulties, and reduce public security incidents relating to vehicles.</translation>
+    <translation system="079_peopledaily0812.sn.c190241-28822264_zh.gg">As long as the public has a micro-letter, it can be very convenient to operate on its own, which can be relatively friendly and easy for both sides to "meet", ease the problem of parking, and can reduce the incidence of security cases involving vehicles.</translation>
+    <translation system="079_peopledaily0812.sn.c190241-28822264_zh.c6">As long as citizens have WeChat, they can be very convenient to operate on their own, which can relatively make both sides of the car can be relatively friendly and easy to "meet" to ease parking problems, and can reduce the occurrence of vehicle-related security cases.</translation>
+  </seg>
+  <seg id="6" doc-id="079_peopledaily0812.sn.c190241-28822264_zh.sl">
+    <source>另一方面，对于拒不移车、违法停放或妨害通行的车主，西安交管部门表示，交警届时将会根据实际情况采取不同的处置措施，视情况给予处理。</source>
+    <reference>NA</reference>
+    <translation system="079_peopledaily0812.sn.c190241-28822264_zh.ht">On the other hand, for vehicle owners who refuse to move their vehicle, commit parking violations, or obstruct the passage of others, the Xi’an traffic control department expressed that the traffic police will adopt different measures and handle these incidents according to the actual state of the matter.</translation>
+    <translation system="079_peopledaily0812.sn.c190241-28822264_zh.gg">On the other hand, to refuse to move cars, illegal parking or obstruction of access to the owner, Xi ' an traffic management department said that the police will be based on the actual situation to take different measures, as appropriate to deal with the situation.</translation>
+    <translation system="079_peopledaily0812.sn.c190241-28822264_zh.c6">On the other hand, for those who refuse to drive, illegally park or obstruct the passage of vehicles, Xi'an traffic control department said that the traffic police will then take different measures according to the actual situation, depending on the circumstances of the case to be dealt with.</translation>
+  </seg>
+</set>

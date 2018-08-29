@@ -1,0 +1,128 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="091_upi.103652_en.sl">
+    <source>开普勒测量昂宿星团恒星的自转速度</source>
+    <reference>NA</reference>
+    <translation system="091_upi.103652_en.ht">Kepler measured the rotation speed of a star in the Pleiades star cluster</translation>
+    <translation system="091_upi.103652_en.gg">Kepler measures the rotational speed of a star in a Pleiades cluster</translation>
+    <translation system="091_upi.103652_en.c6">Kepler measures the rotation speed of the stars in the Pleiades cluster</translation>
+  </seg>
+  <seg id="2" doc-id="091_upi.103652_en.sl">
+    <source>这项开普勒太空望远镜的最新使命帮助天文学家采集了最完整的昂宿星团恒星自转速度。</source>
+    <reference>NA</reference>
+    <translation system="091_upi.103652_en.ht">The latest mission of the Kepler space telescope allowed astronomers to collect the most comprehensive information on the rotation speed of stars in the Pleiades.</translation>
+    <translation system="091_upi.103652_en.gg">The latest mission of the Kepler space telescope has helped astronomers capture the most complete star rotation rate in the Pleiades.</translation>
+    <translation system="091_upi.103652_en.c6">The Kepler Space Telescope's latest mission has helped astronomers capture the most complete rotation of stars in the Pleiades cluster.</translation>
+  </seg>
+  <seg id="3" doc-id="091_upi.103652_en.sl">
+    <source>新数据正在帮助天文学家了解为何该星团的恒星有不同的自转速度以及自转周期与星球组成的关联。</source>
+    <reference>NA</reference>
+    <translation system="091_upi.103652_en.ht">New data are helping astronomers understand why the stars of this cluster have different rotation rates, and the correlation between rotation cycles and the formation of planets.</translation>
+    <translation system="091_upi.103652_en.gg">The new data are helping astronomers understand why stars in the cluster have different rotational velocities and the correlation between the rotation cycle and the planet's composition.</translation>
+    <translation system="091_upi.103652_en.c6">The new data is helping astronomers understand why the cluster's stars rotate at different speeds and how their rotation cycles are related to the composition of the planet.</translation>
+  </seg>
+  <seg id="4" doc-id="091_upi.103652_en.sl">
+    <source>帕萨迪纳加州理工学院红外处理分析中心研究科学家卢萨·雷布尔在新闻发布会上表示：“我们希望通过比较我们的结果与其他星团进一步了解恒星质量、年龄、甚至其太阳系历史之间的关系。”</source>
+    <reference>NA</reference>
+    <translation system="091_upi.103652_en.ht">Luisa Rebull, a research scientist at the Infrared Processing and Analysis Center of California Institute of Technology at Pasadena, expressed in this press conference, “We hope to compare our results with other star clusters to gain further understanding of the mass and age of the stars, and even their relationship with the history of the solar system.”</translation>
+    <translation system="091_upi.103652_en.gg">"We hope to further understand the relationship between stellar mass, age, and even the history of the solar system by comparing our results with other clusters," said 卢萨·雷布尔, a researcher at the Center for Infrared processing and analysis at the California Institute of Technology in Pasadena. ”</translation>
+    <translation system="091_upi.103652_en.c6">"We hope to learn more about the relationship between star mass, age, and even the history of their solar system by comparing our results with other clusters," Luza Rebble, a research scientist at the Infrared Processing and Analysis Center at the California Institute of Technology in Pasadena, said in a press release.</translation>
+  </seg>
+  <seg id="5" doc-id="091_upi.103652_en.sl">
+    <source>昂宿星团距离地球445光年。</source>
+    <reference>NA</reference>
+    <translation system="091_upi.103652_en.ht">The Pleiades star cluster is 445 light-years away from Earth.</translation>
+    <translation system="091_upi.103652_en.gg">The Pleiades is 445 light-years from Earth.</translation>
+    <translation system="091_upi.103652_en.c6">The star cluster is 445 light-years away from Earth.</translation>
+  </seg>
+  <seg id="6" doc-id="091_upi.103652_en.sl">
+    <source>该星团中的许多恒星诞生于约1.25亿年前，目前还刚刚达到成年期。</source>
+    <reference>NA</reference>
+    <translation system="091_upi.103652_en.ht">Many of the stars in this star cluster were born about 125 million years ago. They have now just recently reached maturity.</translation>
+    <translation system="091_upi.103652_en.gg">Many of the stars in the cluster were born about 125 million years ago and have just reached adulthood.</translation>
+    <translation system="091_upi.103652_en.c6">Many of the stars in the cluster were born about 125 million years ago and are now just reaching adulthood.</translation>
+  </seg>
+  <seg id="7" doc-id="091_upi.103652_en.sl">
+    <source>它们达到了一生中最高的自转速度。</source>
+    <reference>NA</reference>
+    <translation system="091_upi.103652_en.ht">They reached their maximum rotation speeds.</translation>
+    <translation system="091_upi.103652_en.gg">They reach the highest rotational speed in their lifetimes.</translation>
+    <translation system="091_upi.103652_en.c6">They reached the highest speed of rotation in their lifetime.</translation>
+  </seg>
+  <seg id="8" doc-id="091_upi.103652_en.sl">
+    <source>在达到最高自转速度时，这些成熟的恒星射出大量恒星风。</source>
+    <reference>NA</reference>
+    <translation system="091_upi.103652_en.ht">Upon reaching the maximum rotation speed, the mature star will emit large amounts of stellar winds.</translation>
+    <translation system="091_upi.103652_en.gg">At the highest rotational speed, these mature stars shoot a large number of stellar winds.</translation>
+    <translation system="091_upi.103652_en.c6">At their maximum speed of rotation, these mature stars shoot out large amounts of stellar wind.</translation>
+  </seg>
+  <seg id="9" doc-id="091_upi.103652_en.sl">
+    <source>当这些恒星风穿过恒星的磁场时，它们会对恒星产生制动作用。</source>
+    <reference>NA</reference>
+    <translation system="091_upi.103652_en.ht">When these stars pass through the magnetic fields of stars, they would produce a braking effect on the stars.</translation>
+    <translation system="091_upi.103652_en.gg">When these stellar winds travel through the magnetic field of a star, they can produce a braking effect on the star.</translation>
+    <translation system="091_upi.103652_en.c6">When these stellar winds pass through the star's magnetic field, they act as a brake on the star.</translation>
+  </seg>
+  <seg id="10" doc-id="091_upi.103652_en.sl">
+    <source>随着恒星年龄的增加，其自转速度开始减慢。</source>
+    <reference>NA</reference>
+    <translation system="091_upi.103652_en.ht">Stars will rotate at a slower pace as they age.</translation>
+    <translation system="091_upi.103652_en.gg">As the age of the star increases, its rotational speed begins to slow down.</translation>
+    <translation system="091_upi.103652_en.c6">As a star ages, its rotation begins to slow down.</translation>
+  </seg>
+  <seg id="11" doc-id="091_upi.103652_en.sl">
+    <source>开普勒通过追踪可识别的恒星黑子（如同太阳黑子）出现的时间测量各恒星的自转速度。</source>
+    <reference>NA</reference>
+    <translation system="091_upi.103652_en.ht">Kepler tracked identifiable star spots (such as sunspots) and the time of their appearance to calculate the rotating speed of reach star.</translation>
+    <translation system="091_upi.103652_en.gg">Kepler measures the rotational velocities of the stars by tracking the time that a recognizable stellar sunspot (like sunspots) appears.</translation>
+    <translation system="091_upi.103652_en.c6">Kepler measures the speed of rotation of stars by tracking the appearance of identifiable sunspots, such as sunspots.</translation>
+  </seg>
+  <seg id="12" doc-id="091_upi.103652_en.sl">
+    <source>最新的自转速度数据集表明质量较大的恒星的自转速度慢于质量较小的恒星。</source>
+    <reference>NA</reference>
+    <translation system="091_upi.103652_en.ht">The latest data on rotation rates gathered indicated that stars with higher masses rotate at a slower rate than stars with lower masses.</translation>
+    <translation system="091_upi.103652_en.gg">The latest rotational velocity datasets show that the larger stars have a slower rotation rate than the smaller stars.</translation>
+    <translation system="091_upi.103652_en.c6">The latest set of rotation speed data indicates that the rotation speed of the more massive stars is slower than that of the less massive stars.</translation>
+  </seg>
+  <seg id="13" doc-id="091_upi.103652_en.sl">
+    <source>雷布尔将恒星比作舞者，体型较大的舞者旋转时的速度慢于体型较小的舞者。</source>
+    <reference>NA</reference>
+    <translation system="091_upi.103652_en.ht">Rebull compared the stars to dancers. Those with a larger physique pirouette at a slower rate compared to those who are more petite.</translation>
+    <translation system="091_upi.103652_en.gg">Raible compares a star to a dancer, and a larger dancer spins slower than a smaller dancer.</translation>
+    <translation system="091_upi.103652_en.c6">Rybl compared stars to dancers, with larger dancers spinning more slowly than smaller ones.</translation>
+  </seg>
+  <seg id="14" doc-id="091_upi.103652_en.sl">
+    <source>雷布尔表示：“在昂宿星团的‘芭蕾舞表演’中，我们发现自转速度较慢的恒星往往质量较大，而自转速度最快的恒星往往是最轻的恒星。”</source>
+    <reference>NA</reference>
+    <translation system="091_upi.103652_en.ht">Rebull expressed: “In the ‘ballet’ of the Pleiades, we found that stars with a slower self-rotating speed tend to have larger mass, while stars with higher rotation speeds tend to be the lightest.”</translation>
+    <translation system="091_upi.103652_en.gg">"In the ' ballet ' of the Pleiades, we found that stars with slower rotation tend to be of greater mass, and the fastest-spinning stars tend to be the lightest stars," says Raible. ”</translation>
+    <translation system="091_upi.103652_en.c6">"In the" ballet performance "of the Pleiades cluster, we found that stars with slower rotation tend to be more massive, while those with the fastest rotation tend to be the lightest," says Mr Reble.</translation>
+  </seg>
+  <seg id="15" doc-id="091_upi.103652_en.sl">
+    <source>由于昂宿星团距离较近，因此可以作为比较恒星质量与自转速度的理想宇宙实验室。</source>
+    <reference>NA</reference>
+    <translation system="091_upi.103652_en.ht">As the Pleiades is quite close, it has thus become an ideal lab in space for comparing masses and self-rotation speeds of stars.</translation>
+    <translation system="091_upi.103652_en.gg">Because the Pleiades cluster is close to each other, it can serve as an ideal cosmic laboratory for comparing stellar mass with rotational velocities.</translation>
+    <translation system="091_upi.103652_en.c6">Because of its close proximity, the Pleiades cluster could serve as an ideal cosmic laboratory for comparing the mass of stars with the speed of rotation.</translation>
+  </seg>
+  <seg id="16" doc-id="091_upi.103652_en.sl">
+    <source>雷布尔表示：“昂宿星团为年轻与年迈恒星的双向旋转理论模型奠定了基础。”</source>
+    <reference>NA</reference>
+    <translation system="091_upi.103652_en.ht">Raible indicated :" the Pleiades built a foundation for the bilateral rotation of young and old stellar.</translation>
+    <translation system="091_upi.103652_en.gg">"The Pleiades has laid the foundation for a two-way spin theory model for Young and aging stars," Raible said. ”</translation>
+    <translation system="091_upi.103652_en.c6">"The Pleiades cluster provides the foundation for theoretical models of two-way rotation of young and old stars," says Mr Reble.</translation>
+  </seg>
+  <seg id="17" doc-id="091_upi.103652_en.sl">
+    <source>关于恒星如何、何时以及为何减慢自转速度并且“收起自己的舞鞋”，我们仍有许多需要了解的知识。</source>
+    <reference>NA</reference>
+    <translation system="091_upi.103652_en.ht">As for how, when and why stars reduce their rotating speed and “keep away their dancing shoes”, there is still much that we need to learn.</translation>
+    <translation system="091_upi.103652_en.gg">We still have a lot of knowledge about how stars, when and why they slow their rotation and "put away their own dancing shoes."</translation>
+    <translation system="091_upi.103652_en.c6">We still have a lot to learn about how, when, and why stars slow down their rotation and "put away their dancing shoes."</translation>
+  </seg>
+  <seg id="18" doc-id="091_upi.103652_en.sl">
+    <source>雷布尔和她的同事在三篇新论文中详细阐述了他们对昂宿星团自转速度的最新分析。这三篇论文不久将发布在《天文学期刊》上。</source>
+    <reference>NA</reference>
+    <translation system="091_upi.103652_en.ht">Rebull and her colleagues gave a detailed elaboration of their latest analysis of the rotation rate of the Pleiades Cluster in three new theses. These theses will be published in the Astronomical Journal soon.</translation>
+    <translation system="091_upi.103652_en.gg">Raible and her colleagues elaborated on their latest analysis of the rotational speed of the Pleiades in three new papers. The three papers will soon be published in the Journal of the day literature.</translation>
+    <translation system="091_upi.103652_en.c6">Ribble and her colleagues detailed their latest analysis of the rotation speed of the star cluster in three new papers, which will soon be published in the Astronomical Journal.</translation>
+  </seg>
+</set>

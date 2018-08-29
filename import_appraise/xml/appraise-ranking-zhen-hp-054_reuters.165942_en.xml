@@ -1,0 +1,44 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="054_reuters.165942_en.sl">
+    <source>吉利德在与默克的丙型肝炎专利之争中获得律师费</source>
+    <reference>NA</reference>
+    <translation system="054_reuters.165942_en.ht">Gilead wins attorney fees in its hepatitis C patent battle against Merck</translation>
+    <translation system="054_reuters.165942_en.gg">Gillied gets a lawyer's fee in the fight against Merck's hepatitis C patent</translation>
+    <translation system="054_reuters.165942_en.c6">Gilead receives legal fees in hepatitis C patent battle with Merck</translation>
+  </seg>
+  <seg id="2" doc-id="054_reuters.165942_en.sl">
+    <source>根据美国地区法官的判决，吉列德科学公司有权获得在与制药公司美国默克集团的丙型肝炎专利诉讼中所产生的律师费。</source>
+    <reference>NA</reference>
+    <translation system="054_reuters.165942_en.ht">A US District Court judge ruled that Gilead Sciences Inc was entitled to receive legal fees it incurred in the hepatitis C patent litigation with pharmaceutical company Merck &amp; Co Inc.</translation>
+    <translation system="054_reuters.165942_en.gg">According to a U.S. District Judge, the company has the right to receive a lawyer's fee in a patent lawsuit against hepatitis C, a pharmaceutical company in the United States Merck Group.</translation>
+    <translation system="054_reuters.165942_en.c6">According to the U.S. District Judge's decision, Gilead Scientific is entitled to legal fees incurred in the hepatitis C patent lawsuit against the pharmaceutical company Merck Group of America.</translation>
+  </seg>
+  <seg id="3" doc-id="054_reuters.165942_en.sl">
+    <source>六月，在美国法官发现默克公司存在违法行为，包括作伪证和其他不道德行为之后，吉列德免于支付因吉利德的畅销药品索非布韦和哈沃尼侵犯默克公司的两项专利而产生的2亿美元赔偿款。</source>
+    <reference>NA</reference>
+    <translation system="054_reuters.165942_en.ht">In June, after discovering illegal activities committed by Merck, including false testimony and other unethical behaviors, the American judge ruled that Gilead is exempt from a 200 million USD compensation claim by Merck who charged that Gilead has infringed its two patents through sales of its popular drug sofosbuvir and harvoni.</translation>
+    <translation system="054_reuters.165942_en.gg">In June, after US judges found wrongdoing in Merck, including perjury and other unethical practices, he was exempt from paying $200 million in compensation for Bouvet and Havoni, which violated Merck's two patents.</translation>
+    <translation system="054_reuters.165942_en.c6">In June, after a U.S. judge found Merck guilty of wrongdoing, including perjury and other unethical behavior, Gilead was exempt from paying $200 million in damages for violations of two patents by Gilead's best-selling drugs, Sofibwe and Havoni.</translation>
+  </seg>
+  <seg id="4" doc-id="054_reuters.165942_en.sl">
+    <source>在周四的诉讼中，美国地区法官贝斯·兰博松·弗里曼表示，吉利德无需承担因辩护所产生的费用。</source>
+    <reference>NA</reference>
+    <translation system="054_reuters.165942_en.ht">During court proceedings on Thursday, US District Judge Beth Labson Freeman expressed that Gilead is not required to pay for expenses it incurred to defend its claims.</translation>
+    <translation system="054_reuters.165942_en.gg">In a lawsuit in Thursday, U.S. District Judge 贝斯·兰博松·弗里曼 said that Geely did not have to bear the costs incurred by the defence.</translation>
+    <translation system="054_reuters.165942_en.c6">In Thursday's lawsuit, U.S. District Judge Beth Lamberson Freeman said Gilliard did not have to bear the costs incurred by his defense.</translation>
+  </seg>
+  <seg id="5" doc-id="054_reuters.165942_en.sl">
+    <source>默克公司正在试图追赶统治新一代丙型肝炎药物市场的吉列德。吉列德的药物可以治愈90%以上的肝炎患者。</source>
+    <reference>NA</reference>
+    <translation system="054_reuters.165942_en.ht">Merck is attempting to catch up with Gilead which has dominated the new generation hepatitis C pharmaceutical market. Gilead’s drug can treat more than 90% of hepatitis patients.</translation>
+    <translation system="054_reuters.165942_en.gg">Merck is trying to catch up with the new market for hepatitis C drugs. Jim's drugs can cure more than 90% of patients with hepatitis.</translation>
+    <translation system="054_reuters.165942_en.c6">Merck is trying to catch up with Gilead, who dominates the market for a new generation of hepatitis C drugs that can cure more than 90 percent of people with the disease.</translation>
+  </seg>
+  <seg id="6" doc-id="054_reuters.165942_en.sl">
+    <source>该案最早要追溯到2013年，当时吉利德和默克互相起诉对方，双方都声称自己是吉利德药物中的有效成分 —— 索非布韦的实验室工作的所有者。</source>
+    <reference>NA</reference>
+    <translation system="054_reuters.165942_en.ht">The case could be traced back to 2013 at the earliest when both Gilead and Merck charged each other. Both claimed themselves to be the owner of the lab work for sofosbuvir, the active ingredient in Gilead’s pharmaceutical product.</translation>
+    <translation system="054_reuters.165942_en.gg">The case dates back to 2013, when Gillied and Merck sued each other, claiming that they were an active ingredient in the Geely drug, the owner of Bouvet's laboratory work.</translation>
+    <translation system="054_reuters.165942_en.c6">The case dates back to 2013, when Gilead and Merck sued each other, each claiming to be the owner of the laboratory work at Sofibwe, the active ingredient in Gilead's drugs.</translation>
+  </seg>
+</set>

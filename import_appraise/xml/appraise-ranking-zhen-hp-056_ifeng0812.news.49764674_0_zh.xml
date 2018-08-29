@@ -1,0 +1,23 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="056_ifeng0812.news.49764674_0_zh.sl">
+    <source>要严密户籍档案管理，对无户口人员户口登记材料逐一建立电子和纸质档案，确保档案资料完整有效。</source>
+    <reference>NA</reference>
+    <translation system="056_ifeng0812.news.49764674_0_zh.ht">Household registration files must be stringently managed. Digital and printed household registration files must be established for personnel with no household registration to ensure the comprehensiveness and effectiveness of the file documents.</translation>
+    <translation system="056_ifeng0812.news.49764674_0_zh.gg">In order to ensure the integrity and validity of the archival data, we should establish the archives of electronic and paper files on the registration materials of the unregistered accounts.</translation>
+    <translation system="056_ifeng0812.news.49764674_0_zh.c6">Strict management of household registration files, the registration materials without household registration of the establishment of electronic and paper files one by one, to ensure that the file information is complete and effective.</translation>
+  </seg>
+  <seg id="2" doc-id="056_ifeng0812.news.49764674_0_zh.sl">
+    <source>公安机关应当将办理无户口人员户口登记的情况，及时通报相关部门。</source>
+    <reference>NA</reference>
+    <translation system="056_ifeng0812.news.49764674_0_zh.ht">Public security bureaus should promptly notify the status of registering those without household registration permits to the relevant departments.</translation>
+    <translation system="056_ifeng0812.news.49764674_0_zh.gg">The public security organs shall handle the registration of unregistered persons ' accounts and notify the relevant departments in a timely manner.</translation>
+    <translation system="056_ifeng0812.news.49764674_0_zh.c6">The public security organ shall inform the relevant departments in a timely manner about the registration of persons without household registration.</translation>
+  </seg>
+  <seg id="3" doc-id="056_ifeng0812.news.49764674_0_zh.sl">
+    <source>对与本实施意见精神不一致的政策措施将进行一次集中清理，该修改的认真修改，该废止的坚决废止。</source>
+    <reference>NA</reference>
+    <translation system="056_ifeng0812.news.49764674_0_zh.ht">Policies and measures not consistent with the principle of the opinions regarding this implementation shall be cleaned out at once. Changes shall be enforced thoroughly, and things that should be removed must be terminated without hesitation.</translation>
+    <translation system="056_ifeng0812.news.49764674_0_zh.gg">A centralized clean-up of policy measures that are inconsistent with the spirit of the implementation of the present opinion will be a serious revision of the amendment, which is a resolute repeal.</translation>
+    <translation system="056_ifeng0812.news.49764674_0_zh.c6">Policy measures that are inconsistent with the spirit of the present Implementation Opinions will be subject to a centralized clean-up, a serious revision of the amendment and a resolute repeal of the repeal.</translation>
+  </seg>
+</set>

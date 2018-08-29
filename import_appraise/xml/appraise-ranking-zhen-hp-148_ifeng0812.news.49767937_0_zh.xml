@@ -1,0 +1,44 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="148_ifeng0812.news.49767937_0_zh.sl">
+    <source>上海警方4个月擒贼3400余人打击“盗抢骗”团伙157个</source>
+    <reference>NA</reference>
+    <translation system="148_ifeng0812.news.49767937_0_zh.ht">Shanghai Police arrested more than 3,400 individuals from 157 groups of “thieves, robbers, and frauds” in 4 months</translation>
+    <translation system="148_ifeng0812.news.49767937_0_zh.gg">Shanghai police 4 months to catch thieves more than 3,400 people to fight "steal Rob Cheat" gang 157</translation>
+    <translation system="148_ifeng0812.news.49767937_0_zh.c6">Shanghai police have arrested more than 3,400 thieves in four months and cracked down on 157 "robbery and deception" gangs</translation>
+  </seg>
+  <seg id="2" doc-id="148_ifeng0812.news.49767937_0_zh.sl">
+    <source>在侦破案件的同时，警方还追缴赃款赃物合计人民币3300余万元。</source>
+    <reference>NA</reference>
+    <translation system="148_ifeng0812.news.49767937_0_zh.ht">While solving the case, the police also recovered illicit money and goods amounting to more than RMB33 million.</translation>
+    <translation system="148_ifeng0812.news.49767937_0_zh.gg">In the detection of the case, the police also recovered stolen money and loot totaled RMB more than 33 million yuan.</translation>
+    <translation system="148_ifeng0812.news.49767937_0_zh.c6">While investigating the case, police also recovered more than 33 million yuan in stolen money and property.</translation>
+  </seg>
+  <seg id="3" doc-id="148_ifeng0812.news.49767937_0_zh.sl">
+    <source>据盗窃团伙成员供述，他们通过包乘黑车方式从外地进入上海，随后分别下车作案，数小时后各自会合上车，再一同离沪。</source>
+    <reference>NA</reference>
+    <translation system="148_ifeng0812.news.49767937_0_zh.ht">According the confessions of members of the gang of thieves, they entered Shanghai from other parts of the country by chartering an unlicensed taxi. They then separately disembarked to commit the crimes, and would meet up several hours later to leave Shanghai together in the vehicle.</translation>
+    <translation system="148_ifeng0812.news.49767937_0_zh.gg">According to the members of the theft gang, they passed through the black car to enter Shanghai, then respectively get off the crime, a few hours after their respective rendezvous, and then leave Shanghai.</translation>
+    <translation system="148_ifeng0812.news.49767937_0_zh.c6">According to the statement of the members of the theft gang, they entered Shanghai from other parts of the country by taking a black car in a package, then alighted and committed the crime separately, and then joined their cars and left Shanghai together several hours later.</translation>
+  </seg>
+  <seg id="4" doc-id="148_ifeng0812.news.49767937_0_zh.sl">
+    <source>作案过程中犯罪嫌疑人往往以一幢楼为单位，采用外墙攀爬，撬断防盗窗栅栏的方式从上至下“扫楼式”盗窃。</source>
+    <reference>NA</reference>
+    <translation system="148_ifeng0812.news.49767937_0_zh.ht">When committing crime, a suspect often regards a building as a unit, climbs up via the external wall, breaks the fence, and steals “floor by floor” from top to bottom.</translation>
+    <translation system="148_ifeng0812.news.49767937_0_zh.gg">In the course of the crime suspects often take a building as a unit, the use of external wall climbing, break the anti-theft window fence way from top to bottom "sweep floor" theft.</translation>
+    <translation system="148_ifeng0812.news.49767937_0_zh.c6">Crime in the course of the suspect is often a building as a unit, the use of external climbing, breaking the security fences from the top to the bottom of the "sweeping" theft.</translation>
+  </seg>
+  <seg id="5" doc-id="148_ifeng0812.news.49767937_0_zh.sl">
+    <source>日前，该涉案犯罪嫌疑人已被徐汇公安分局移送徐汇区检察院审查起诉。</source>
+    <reference>NA</reference>
+    <translation system="148_ifeng0812.news.49767937_0_zh.ht">The suspect has been transferred to the Xuihui District Procuratorate by the Xuhui public security branch for review and prosecution.</translation>
+    <translation system="148_ifeng0812.news.49767937_0_zh.gg">Recently, the suspected suspect has been Xuhui Public Security Bureau transferred to Xuhui Procuratorate to review the prosecution.</translation>
+    <translation system="148_ifeng0812.news.49767937_0_zh.c6">A few days ago, the suspect in the case has been transferred by the Xuhui Public Security Bureau to the Xuhui District Prosecutor's Office for examination and prosecution.</translation>
+  </seg>
+  <seg id="6" doc-id="148_ifeng0812.news.49767937_0_zh.sl">
+    <source>警方提醒广大市民群众，外出时务必锁好家中门窗，对于防盗窗的选择，建议市民群众应当选择材质较硬的钢材。</source>
+    <reference>NA</reference>
+    <translation system="148_ifeng0812.news.49767937_0_zh.ht">The police reminded the public to lock the doors and windows of their homes properly before going out. As for the choice of burglar-proof windows, the public were advised to choose steel of a harder material.</translation>
+    <translation system="148_ifeng0812.news.49767937_0_zh.gg">Police remind the general public that when they go out, they must lock the windows and doors of the house, and the choice of the Anti-Theft window, the public should choose the steel with hard material.</translation>
+    <translation system="148_ifeng0812.news.49767937_0_zh.c6">Police remind the general public that they must lock their doors and windows when they go out. For the choice of anti-theft windows, members of the public are advised to choose steel with stronger materials.</translation>
+  </seg>
+</set>

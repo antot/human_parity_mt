@@ -1,0 +1,72 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="119_ifeng0812.news.49766717_0_zh.sl">
+    <source>虽说现在已经立秋，可是“秋老虎”的威力似乎一点不比夏天差。</source>
+    <reference>NA</reference>
+    <translation system="119_ifeng0812.news.49766717_0_zh.ht">Although autumn has arrived, the bite of the “autumn tiger” has proved to be no less powerful than that of the summer.</translation>
+    <translation system="119_ifeng0812.news.49766717_0_zh.gg">Although now autumn, but the "Autumn Tiger" power seems to be no worse than the summer.</translation>
+    <translation system="119_ifeng0812.news.49766717_0_zh.c6">Although it is now the beginning of autumn, but "autumn tiger" power seems to be no worse than the summer.</translation>
+  </seg>
+  <seg id="2" doc-id="119_ifeng0812.news.49766717_0_zh.sl">
+    <source>紫外线不仅让同学们的皮肤变黑，更加会晒伤肌肤，如何让肌肤能顺利度过军训，不被晒伤？</source>
+    <reference>NA</reference>
+    <translation system="119_ifeng0812.news.49766717_0_zh.ht">UV not only darkens the skin, it will also cause sunburns. Is there any solution to help the skin make it through military training and avoid sunburns altogether?</translation>
+    <translation system="119_ifeng0812.news.49766717_0_zh.gg">Ultraviolet rays not only make the skin of students black, more will sunburn skin, how to let the skin can successfully through military training, not sunburn?</translation>
+    <translation system="119_ifeng0812.news.49766717_0_zh.c6">The ultraviolet ray not only lets the schoolmate's skin turn black, will burn the skin more, how lets the skin be able to pass through the military training smoothly, does not get sunburned?</translation>
+  </seg>
+  <seg id="3" doc-id="119_ifeng0812.news.49766717_0_zh.sl">
+    <source>防晒霜包装上一般都标有SPF和PA，SPF是指防晒指数，是针对UVB紫外线的，我们常见的SPF指数有15、30、50等。</source>
+    <reference>NA</reference>
+    <translation system="119_ifeng0812.news.49766717_0_zh.ht">The external packaging of sunblock cream is often labeled with SPF and PA. SPF refers to the sun protection factor and specifically targets UVB radiation. Common SPF scores include 15, 30, and 50.</translation>
+    <translation system="119_ifeng0812.news.49766717_0_zh.gg">Sunscreen packaging is usually labeled with SPF and PA, SPF refers to the sunscreen index, is aimed at UVB ultraviolet, our common SPF Index has 15, 30, 50 and so on.</translation>
+    <translation system="119_ifeng0812.news.49766717_0_zh.c6">Sunscreen packaging is generally marked SPF and PA, SPF refers to the sun protection index, is for UVB ultraviolet rays, our common SPF index is 15, 30, 50, and so on.</translation>
+  </seg>
+  <seg id="4" doc-id="119_ifeng0812.news.49766717_0_zh.sl">
+    <source>标有PA的产品是针对UVA的，这样防晒品会发挥更加有效的作用，通常情况下，PA的强度用+来表示，多一个+表示有效防护时间延长。</source>
+    <reference>NA</reference>
+    <translation system="119_ifeng0812.news.49766717_0_zh.ht">Products with the PA label are aimed at UVA. Such sunblocks are more effective. Generally, the strength of PA is indicated by the + sign. Each additional + represents a longer duration of effective protection.</translation>
+    <translation system="119_ifeng0812.news.49766717_0_zh.gg">The product labeled PA is aimed at UVA, so that sunscreen will play a more effective role, usually, PA strength with + to indicate, more than one + indicates effective protection time extended.</translation>
+    <translation system="119_ifeng0812.news.49766717_0_zh.c6">The products labeled PA are for UVA, which makes sunscreens more effective. Typically, the strength of PA is expressed as +, and an additional + indicates an extended period of effective protection.</translation>
+  </seg>
+  <seg id="5" doc-id="119_ifeng0812.news.49766717_0_zh.sl">
+    <source>油性肌肤应选择渗透力较强的水性防晒用品，防晒喷雾也是不错的选择。</source>
+    <reference>NA</reference>
+    <translation system="119_ifeng0812.news.49766717_0_zh.ht">For oily skin, choose aqueous sunblock with good penetrability. Sunblock sprays are good options as well.</translation>
+    <translation system="119_ifeng0812.news.49766717_0_zh.gg">Oily skin should choose a strong penetration of water-based sunscreen products, sunscreen spray is also a good choice.</translation>
+    <translation system="119_ifeng0812.news.49766717_0_zh.c6">Oily skin should choose a strong penetration of water-based sunscreen products, sunscreen spray is also a good choice.</translation>
+  </seg>
+  <seg id="6" doc-id="119_ifeng0812.news.49766717_0_zh.sl">
+    <source>干性肌肤应选择霜状的防晒用品;中性皮肤一般无严格规定，敏感性肌肤擦上任何保养品都是一种负担，建议选纯物理性防晒产品。</source>
+    <reference>NA</reference>
+    <translation system="119_ifeng0812.news.49766717_0_zh.ht">For dry skin, use cream-based anti-sunburn products. Those with neutral skin are not subject to stringent regulations. However, sensitive skin will find application of any product to be a hard burden. Purely physical sunblock products are recommended.</translation>
+    <translation system="119_ifeng0812.news.49766717_0_zh.gg">Dry skin should choose frost-like sunscreen products; neutral skin is not strictly defined, sensitive skin rub any maintenance products are a burden, it is recommended to choose a purely physical sunscreen products.</translation>
+    <translation system="119_ifeng0812.news.49766717_0_zh.c6">Dry skin should choose frost-like sunscreen products; normal skin is generally not strictly required, sensitive skin rubbing any health care products are a burden, it is recommended that the choice of pure physical sunscreen products.</translation>
+  </seg>
+  <seg id="7" doc-id="119_ifeng0812.news.49766717_0_zh.sl">
+    <source>切记提前半小时涂防晒霜，因为防晒产品需要时间才能完全渗入到皮肤。</source>
+    <reference>NA</reference>
+    <translation system="119_ifeng0812.news.49766717_0_zh.ht">Remember to apply the sunblock cream half an hour earlier as the anti-sunburn product needs some time before completely penetrating the skin.</translation>
+    <translation system="119_ifeng0812.news.49766717_0_zh.gg">Remember to apply sunscreen for half an hour in advance, as sunscreen products take time to fully penetrate the skin.</translation>
+    <translation system="119_ifeng0812.news.49766717_0_zh.c6">Remember to apply sunscreen half an hour in advance, as it takes time for the product to fully penetrate into the skin.</translation>
+  </seg>
+  <seg id="8" doc-id="119_ifeng0812.news.49766717_0_zh.sl">
+    <source>军训日晒时间较长，防晒霜每隔两小时擦一次才能有持久效果，千万不要偷懒。</source>
+    <reference>NA</reference>
+    <translation system="119_ifeng0812.news.49766717_0_zh.ht">Military training includes extended exposure to solar radiation. Anti-sunburn cream must be applied once every 2 hours to sustain the effects. Don’t get lazy about this.</translation>
+    <translation system="119_ifeng0812.news.49766717_0_zh.gg">Military training sun time longer, sunscreen every two hours to wipe once to have lasting effect, do not be lazy.</translation>
+    <translation system="119_ifeng0812.news.49766717_0_zh.c6">Military training sun for a long time, sunscreen every two hours to have a lasting effect, do not be lazy.</translation>
+  </seg>
+  <seg id="9" doc-id="119_ifeng0812.news.49766717_0_zh.sl">
+    <source>由于皮肤刚受到日晒刺激的缘故，军训回来不要立刻用美白产品。</source>
+    <reference>NA</reference>
+    <translation system="119_ifeng0812.news.49766717_0_zh.ht">Since the skin has just been sensitized by exposure to the sun, do not use whitening products immediately after military training.</translation>
+    <translation system="119_ifeng0812.news.49766717_0_zh.gg">Because the skin has just been stimulated by the sun, the military training back do not immediately use whitening products.</translation>
+    <translation system="119_ifeng0812.news.49766717_0_zh.c6">As the skin has just been exposed to the sun for the sake of stimulation, military training back do not immediately use whitening products.</translation>
+  </seg>
+  <seg id="10" doc-id="119_ifeng0812.news.49766717_0_zh.sl">
+    <source>军训暴晒后，如有条件可用毛巾包着冰块来冰镇被灼伤的皮肤以减缓局部燥热。</source>
+    <reference>NA</reference>
+    <translation system="119_ifeng0812.news.49766717_0_zh.ht">For sunburns endured during military training, ice wrapped in towels can be used to cool scorched skin and alleviate local senses of over-heating.</translation>
+    <translation system="119_ifeng0812.news.49766717_0_zh.gg">After the military training exposure, if the condition can be used towel wrapped with ice to chill the burned skin to slow local heat.</translation>
+    <translation system="119_ifeng0812.news.49766717_0_zh.c6">After military training exposure, if the conditions can be used towels wrapped with ice to cool the burned skin to slow down the local heat.</translation>
+  </seg>
+</set>

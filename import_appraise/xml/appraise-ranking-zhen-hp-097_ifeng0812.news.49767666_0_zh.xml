@@ -1,0 +1,51 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="097_ifeng0812.news.49767666_0_zh.sl">
+    <source>9月1日起，60岁至64岁的老年人可以半价乘坐城区的公交车。</source>
+    <reference>NA</reference>
+    <translation system="097_ifeng0812.news.49767666_0_zh.ht">With effect from September 1, senior citizens aged 60 to 64 may pay 50% less when riding on a city bus.</translation>
+    <translation system="097_ifeng0812.news.49767666_0_zh.gg">From September 1 onwards, 60-to 64-year-olds can take half-price buses in urban areas.</translation>
+    <translation system="097_ifeng0812.news.49767666_0_zh.c6">From 1 September, older people aged 60 to 64 will be able to ride city buses at half the price.</translation>
+  </seg>
+  <seg id="2" doc-id="097_ifeng0812.news.49767666_0_zh.sl">
+    <source>11日上午，济宁市公交公司IC卡销售中心，办卡窗口前几位老年人正在排队办卡，62岁的姚大爷拿到老年半价卡。</source>
+    <reference>NA</reference>
+    <translation system="097_ifeng0812.news.49767666_0_zh.ht">In the morning of the 11th, several senior citizens were queuing before the IC card sales center of Jining Public Transport Company to apply for the card. Mr. Yao, a 62-year old citizen, received a half-price pass for senior citizens.</translation>
+    <translation system="097_ifeng0812.news.49767666_0_zh.gg">11th morning, Jining Bus company IC Card Sales Center, Office Card window before several elderly people are queuing to run cards, 62-year-old uncle Yao to get the elderly Half-price card.</translation>
+    <translation system="097_ifeng0812.news.49767666_0_zh.c6">On Monday morning, the IC card sales center of Jining city bus company, several old people in front of the card window are queuing up to get the card, 62-year-old Master Yao got the old age half-price card.</translation>
+  </seg>
+  <seg id="3" doc-id="097_ifeng0812.news.49767666_0_zh.sl">
+    <source>此前，济宁市老龄委、市财政局、市交通局下发《关于60—64周岁老年人半价乘坐城区公交车的通知》，该优惠政策从今年的9月1日正式实施。</source>
+    <reference>NA</reference>
+    <translation system="097_ifeng0812.news.49767666_0_zh.ht">In the past, the Aging Problem Commission, Finance Bureau, and Transportation Bureau of Jining City released Notice for Half-Price Urban Bus Fares for Senior Citizens 60-64 Years of Age. This welfare policy was formally enforced on September 1 this year.</translation>
+    <translation system="097_ifeng0812.news.49767666_0_zh.gg">Earlier, Jining Aging Committee, Municipal Finance Bureau, the city Transportation Bureau issued "about the 60-64-year-old senior citizen by the urban bus notice", the preferential policy from September 1 this year formally implemented.</translation>
+    <translation system="097_ifeng0812.news.49767666_0_zh.c6">Earlier, the Jining Municipal Committee for the Elderly, the Municipal Finance Bureau and the Municipal Transport Bureau issued a "notice on the 60-64 year-old half-price bus ride in urban areas," the preferential policy officially implemented from September 1 this year.</translation>
+  </seg>
+  <seg id="4" doc-id="097_ifeng0812.news.49767666_0_zh.sl">
+    <source>“符合条件的老年人，持二代身份证到IC销售中心办理就可以；外地户口符合这个年龄的老年人也享受这个优惠。”</source>
+    <reference>NA</reference>
+    <translation system="097_ifeng0812.news.49767666_0_zh.ht">“Senior citizens who meet the conditions can simply bring their second generation identity card to an IC sales center to apply for the item. Senior citizens with household registration outside the city who meet the age criteria can also enjoy this benefit.”</translation>
+    <translation system="097_ifeng0812.news.49767666_0_zh.gg">"Meet the conditions of the elderly, holding a second-generation ID card to the IC Sales Center for processing can be, the foreign account in line with the age of the elderly also enjoy this concession. ”</translation>
+    <translation system="097_ifeng0812.news.49767666_0_zh.c6">"Eligible senior citizens, with the second generation ID card to the IC sales center can be processed; foreign accounts in line with the age of the elderly also enjoy this discount."</translation>
+  </seg>
+  <seg id="5" doc-id="097_ifeng0812.news.49767666_0_zh.sl">
+    <source>济宁市公交公司计算机中心副主任刘霞说，从8月1日开始办理以来，已办了200多张老年半价卡。</source>
+    <reference>NA</reference>
+    <translation system="097_ifeng0812.news.49767666_0_zh.ht">Liu Xia, deputy director of the Computer Center of Jining Public Transport Company, said that since it was first released on August 1, the company has processed over 200 half-price fair tickets for senior citizens.</translation>
+    <translation system="097_ifeng0812.news.49767666_0_zh.gg">Liu Xia, deputy director of the Computer center of Jining Bus company, said that since August 1, it has already run more than 200 Half-price cards for the elderly.</translation>
+    <translation system="097_ifeng0812.news.49767666_0_zh.c6">Liu Xia, deputy director of the computer center of the Jining city bus company, said more than 200 half-price cards for the elderly had been issued since the process began on August 1.</translation>
+  </seg>
+  <seg id="6" doc-id="097_ifeng0812.news.49767666_0_zh.sl">
+    <source>目前，老年卡分为两种，一种是老年免费卡，一种是老年半价卡。</source>
+    <reference>NA</reference>
+    <translation system="097_ifeng0812.news.49767666_0_zh.ht">Currently, two types of senior citizen cards are offered. One is a free pass for senior citizens, while the other is a half-price pass for senior citizens.</translation>
+    <translation system="097_ifeng0812.news.49767666_0_zh.gg">At present, the old card is divided into two kinds, one is the old-age free card, one is the old-age card.</translation>
+    <translation system="097_ifeng0812.news.49767666_0_zh.c6">At present, there are two kinds of senior citizen cards, one is the senior citizen free card and the other is the senior citizen half-price card.</translation>
+  </seg>
+  <seg id="7" doc-id="097_ifeng0812.news.49767666_0_zh.sl">
+    <source>“为了方便老年人，对系统进行了升级，老年免费卡由原来一年审两次减少为一次，持卡的老年人不用跑两趟了。”</source>
+    <reference>NA</reference>
+    <translation system="097_ifeng0812.news.49767666_0_zh.ht">“For the convenience of the elderly, we have upgraded our system. The frequency of audit for the free card for the elderly has been cut from twice a year to once a year, so that elderly cardholders do not have to bring it in twice.”</translation>
+    <translation system="097_ifeng0812.news.49767666_0_zh.gg">"In order to facilitate the elderly, the system has been upgraded, the old age free card from the original one-year trial two times reduced to one, card-holders of the elderly do not have to run two times." ”</translation>
+    <translation system="097_ifeng0812.news.49767666_0_zh.c6">"In order to facilitate the elderly, the system has been upgraded, the elderly free card from the original review twice a year reduced to one, the elderly cardholders do not have to run two trips."</translation>
+  </seg>
+</set>

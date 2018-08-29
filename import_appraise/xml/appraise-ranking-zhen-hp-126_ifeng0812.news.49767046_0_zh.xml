@@ -1,0 +1,44 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="126_ifeng0812.news.49767046_0_zh.sl">
+    <source>原标题：加拿大警方击毙IS支持者：自制炸弹袭击闹市准备工作近尾声</source>
+    <reference>NA</reference>
+    <translation system="126_ifeng0812.news.49767046_0_zh.ht">Original title: Canadian police shoots and skills IS supporter at final stage of creating home-made explosives for attacking the city area</translation>
+    <translation system="126_ifeng0812.news.49767046_0_zh.gg">Original title: Canadian police killed IS supporters: Homemade bomb attacks downtown preparations for the end of the work</translation>
+    <translation system="126_ifeng0812.news.49767046_0_zh.c6">Originally published as caption: Canadian police shoot dead IS supporter: Homemade bomb attacks downtown preparations near end</translation>
+  </seg>
+  <seg id="2" doc-id="126_ifeng0812.news.49767046_0_zh.sl">
+    <source>出租车公司表示，这辆出租车在警方到达前被调度到德赖弗家中。</source>
+    <reference>NA</reference>
+    <translation system="126_ifeng0812.news.49767046_0_zh.ht">Taxi companies expressed that this taxi was assigned to Driver’s home before the police has arrived.</translation>
+    <translation system="126_ifeng0812.news.49767046_0_zh.gg">The taxi company said the taxi had been dispatched to driver's home before the police arrived.</translation>
+    <translation system="126_ifeng0812.news.49767046_0_zh.c6">The taxi company said the taxi was dispatched to Dreyfus' home before police arrived.</translation>
+  </seg>
+  <seg id="3" doc-id="126_ifeng0812.news.49767046_0_zh.sl">
+    <source>加拿大警方在周三的新闻发布会中表示，警方收到的信息包括美国联邦调查局提供的有关这名青年将要实施袭击的"殉道视频"。</source>
+    <reference>NA</reference>
+    <translation system="126_ifeng0812.news.49767046_0_zh.ht">Canadian police expressed at the press conference on Wednesday that it had received information, including a "martyrdom video” provided by the Federal Bureau of Investigation that this youth was about to launch an attack.</translation>
+    <translation system="126_ifeng0812.news.49767046_0_zh.gg">Police in a press conference in Wednesday said the information received included the "martyrdom video" provided by the FBI about the young man's attack.</translation>
+    <translation system="126_ifeng0812.news.49767046_0_zh.c6">Canadian police said at a news conference Wednesday that the information they had received included a "martyrdom video" from the FBI about the young man who was about to carry out the attack.</translation>
+  </seg>
+  <seg id="4" doc-id="126_ifeng0812.news.49767046_0_zh.sl">
+    <source>据德国之声报道，视屏中，一名头戴黑色巴拉克拉法帽的男子正在朗读《古兰经》，提到针对穆斯林的罪行，并发誓将很快对加拿大的一座城市发动袭击。</source>
+    <reference>NA</reference>
+    <translation system="126_ifeng0812.news.49767046_0_zh.ht">According to Deutsche Welle, a man wearing a black balaclava in the video cited the Quran, mentioned the crimes committed against Muslims, and swore to initiate an attack against a Canadian city.</translation>
+    <translation system="126_ifeng0812.news.49767046_0_zh.gg">According to the German voice, a man wearing a black balaclava cap is reading the Koran, referring to crimes against Muslims, and vowing to launch an attack on a Canadian city soon.</translation>
+    <translation system="126_ifeng0812.news.49767046_0_zh.c6">In the video, a man wearing a black balaclava was reading the Koran, referring to crimes against Muslims and vowing to carry out an attack on a Canadian city soon, Deutsche Welle reported.</translation>
+  </seg>
+  <seg id="5" doc-id="126_ifeng0812.news.49767046_0_zh.sl">
+    <source>他在视频中表示，袭击将在72小时内发生，而且是在高峰时间。</source>
+    <reference>NA</reference>
+    <translation system="126_ifeng0812.news.49767046_0_zh.ht">He expressed in a video that the ambush will initiate in 72 hours during peak traffic.</translation>
+    <translation system="126_ifeng0812.news.49767046_0_zh.gg">He said in the video that the attack will take place within 72 hours, and in the rush hour.</translation>
+    <translation system="126_ifeng0812.news.49767046_0_zh.c6">He said in the video that the attack would take place within 72 hours and during peak hours.</translation>
+  </seg>
+  <seg id="6" doc-id="126_ifeng0812.news.49767046_0_zh.sl">
+    <source>此次事件是加拿大总理贾斯廷·特鲁多（Justin Trudeau）去年上台后，警方首次在事发前击毙恐怖嫌疑人。</source>
+    <reference>NA</reference>
+    <translation system="126_ifeng0812.news.49767046_0_zh.ht">This is the first time that the police has killed a suspected terrorist before the terrorist attack after the Canadian Prime Minister Justin Trudeau assumed his office last year.</translation>
+    <translation system="126_ifeng0812.news.49767046_0_zh.gg">The incident was the first time the police killed a terrorist suspect before the incident last year after the Canadian Prime Minister, Justin Trudeau, 贾斯廷·特鲁多.</translation>
+    <translation system="126_ifeng0812.news.49767046_0_zh.c6">The incident was the first time police had shot a terror suspect before the incident after Canadian Prime Minister Justin Trudeau came to power last year.</translation>
+  </seg>
+</set>

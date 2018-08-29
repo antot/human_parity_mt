@@ -1,0 +1,23 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="063_xinhua0812..c_1119383791_zh.sl">
+    <source>北京市社会团体管理办公室即日起将对社会团体会费统一收据使用情况开展专项检查。</source>
+    <reference>NA</reference>
+    <translation system="063_xinhua0812..c_1119383791_zh.ht">The Beijing Office for the Administration of Clubs, Associations and Societies will conduct a special investigation on the uniform invoices of membership dues of social organizations.</translation>
+    <translation system="063_xinhua0812..c_1119383791_zh.gg">The Beijing Social Group Management Office will carry out special checks on the use of the unified receipt of social organizations ' contributions.</translation>
+    <translation system="063_xinhua0812..c_1119383791_zh.c6">From now on, the Beijing Municipal Office for the Administration of Social Organizations will carry out a special inspection on the use of unified receipts for membership dues of social organizations.</translation>
+  </seg>
+  <seg id="2" doc-id="063_xinhua0812..c_1119383791_zh.sl">
+    <source>检查分为单位自查和重点抽查两种。</source>
+    <reference>NA</reference>
+    <translation system="063_xinhua0812..c_1119383791_zh.ht">The inspection will be divided into two categories - self-inspection by the entity and priority sampling.</translation>
+    <translation system="063_xinhua0812..c_1119383791_zh.gg">Inspection is divided into unit self-examination and focus spot check two kinds.</translation>
+    <translation system="063_xinhua0812..c_1119383791_zh.c6">The inspection is divided into two types: unit self-examination and key spot check.</translation>
+  </seg>
+  <seg id="3" doc-id="063_xinhua0812..c_1119383791_zh.sl">
+    <source>市社团办相关负责人介绍，本次检查范围包括2013至2015年度在市社团办领用社会团体会费统一收据的社会团体。</source>
+    <reference>NA</reference>
+    <translation system="063_xinhua0812..c_1119383791_zh.ht">The relevant person in charge of the municipal office for clubs, associations and societies said that the scope of this inspection includes community groups that received and used uniform invoices for membership dues between 2013 and 2015.</translation>
+    <translation system="063_xinhua0812..c_1119383791_zh.gg">City Society Office related person responsible for the introduction, the scope of the inspection includes 2013 to 2015 in the City Association office to receive the social group dues unified receipts of social groups.</translation>
+    <translation system="063_xinhua0812..c_1119383791_zh.c6">According to the official in charge of the municipal association office, the scope of this inspection includes the social organizations that received a unified receipt for membership fees from social organizations in the city from 2013 to 2015.</translation>
+  </seg>
+</set>

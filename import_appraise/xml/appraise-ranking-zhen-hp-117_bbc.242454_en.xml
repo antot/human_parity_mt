@@ -1,0 +1,30 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="117_bbc.242454_en.sl">
+    <source>神秘鱼惊现 Banff 一花园</source>
+    <reference>NA</reference>
+    <translation system="117_bbc.242454_en.ht">Mysterious fish spotted in Banff garden</translation>
+    <translation system="117_bbc.242454_en.gg">Mysterious fish discovered Banff a garden</translation>
+    <translation system="117_bbc.242454_en.c6">Mystery Fish Reveals Banff's Garden</translation>
+  </seg>
+  <seg id="2" doc-id="117_bbc.242454_en.sl">
+    <source>Banff 的一位居民发现有鱼惊现自家花园，随后发出了求助。</source>
+    <reference>NA</reference>
+    <translation system="117_bbc.242454_en.ht">A resident in Banff suddenly found a fish in the garden, and called for help.</translation>
+    <translation system="117_bbc.242454_en.gg">A resident of Banff discovered that fish had found its own garden and had subsequently sent for help.</translation>
+    <translation system="117_bbc.242454_en.c6">A Banff resident called for help after spotting fish in his garden.</translation>
+  </seg>
+  <seg id="3" doc-id="117_bbc.242454_en.sl">
+    <source>Kevin Bain 认为这75条鱼可能是被海上龙卷风刮来的沙鳗。</source>
+    <reference>NA</reference>
+    <translation system="117_bbc.242454_en.ht">Kevin Bain thought the 75 fish might be the sand eel brought by the waterspout.</translation>
+    <translation system="117_bbc.242454_en.gg">Kevin Bain thinks the 75 fish may be the sand eel that was blown by a tornado in the sea.</translation>
+    <translation system="117_bbc.242454_en.c6">Kevin Bain believes the 75 fish were probably sand eels blown by tornadoes in the sea.</translation>
+  </seg>
+  <seg id="4" doc-id="117_bbc.242454_en.sl">
+    <source>Bain 先生居住在距离大海约500米的地方，他在 Periscope 上发布了这一奇怪场景的视频，希望有人能为他解释为何会出现这些两英寸长的鱼。</source>
+    <reference>NA</reference>
+    <translation system="117_bbc.242454_en.ht">Mr. Bain lives in a place about 500 meters away from the ocean. He published the video with the strange phenomenon on Periscope and hopes that someone is able to explain how these 2-inch long fishes appeared.</translation>
+    <translation system="117_bbc.242454_en.gg">Mr. Bain, who lives about 500 metres from the Sea, released a video of the bizarre scene on Periscope, hoping someone could explain to him why these two-inch fish were present.</translation>
+    <translation system="117_bbc.242454_en.c6">Mr Bain, who lives about 500 metres from the sea, posted a video of the bizarre scene on Periscope in the hope that someone would explain to him why the two-inch-long fish appeared.</translation>
+  </seg>
+</set>

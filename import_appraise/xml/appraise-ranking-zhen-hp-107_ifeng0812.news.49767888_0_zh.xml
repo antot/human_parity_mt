@@ -1,0 +1,65 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="107_ifeng0812.news.49767888_0_zh.sl">
+    <source>格陵兰鲨又称小头睡鲨，广泛分布于格陵兰岛与冰岛周围的北大西洋海域，其在成年时所达到的身长为4至5米。</source>
+    <reference>NA</reference>
+    <translation system="107_ifeng0812.news.49767888_0_zh.ht">The Greenland Shark is also known as the small-headed sleeper shark, and is widely distributed in the Northern Atlantic around Greenland and Iceland. When fully-grown, the shark can reach a length of 4 to 5 meters.</translation>
+    <translation system="107_ifeng0812.news.49767888_0_zh.gg">The Greenland shark, also known as the head sleeper shark, is widely distributed in the North Atlantic Ocean around Greenland and Iceland, reaching a height of 4 to 5 metres in adulthood.</translation>
+    <translation system="107_ifeng0812.news.49767888_0_zh.c6">Greenlandic sharks, also known as sleeping sharks, are widely distributed in the North Atlantic Ocean around Greenland and Iceland and reach an adult length of 4 to 5 meters.</translation>
+  </seg>
+  <seg id="2" doc-id="107_ifeng0812.news.49767888_0_zh.sl">
+    <source>但它们的生长速度极其缓慢，有时1年只长约1厘米，这提示格陵兰鲨可能有着格外长的寿命。</source>
+    <reference>NA</reference>
+    <translation system="107_ifeng0812.news.49767888_0_zh.ht">The Greenland shark grows at a extremely slow rate, only 1 cm per year sometimes, suggesting a particularly long lifespan.</translation>
+    <translation system="107_ifeng0812.news.49767888_0_zh.gg">But they grow extremely slowly, sometimes about 1 centimeters in 1 years, suggesting that the Greenland shark may have an exceptionally long lifespan.</translation>
+    <translation system="107_ifeng0812.news.49767888_0_zh.c6">But they grow extremely slowly, sometimes only about 1cm a year, suggesting that Greenland sharks may have an extraordinarily long life.</translation>
+  </seg>
+  <seg id="3" doc-id="107_ifeng0812.news.49767888_0_zh.sl">
+    <source>传统的测年方法通常使用动物的钙化组织，一些鲨鱼中可以使用鳍脊，但这种钙化组织在格陵兰鲨中十分稀少。</source>
+    <reference>NA</reference>
+    <translation system="107_ifeng0812.news.49767888_0_zh.ht">Traditional dating methods often use calcified tissues of animals. Fin spines may used in some sharks but this type of calcified tissue is extremely rare in Greenland sharks.</translation>
+    <translation system="107_ifeng0812.news.49767888_0_zh.gg">Traditional dating methods usually use animal calcification tissue, and some sharks can use fins, but the calcification is rare in the Greenland shark.</translation>
+    <translation system="107_ifeng0812.news.49767888_0_zh.c6">Traditional dating methods typically use calcified tissue from animals, and some sharks may use fins, but this calcified tissue is rare in Greenland sharks.</translation>
+  </seg>
+  <seg id="4" doc-id="107_ifeng0812.news.49767888_0_zh.sl">
+    <source>由丹麦哥本哈根大学的尤利乌斯·尼尔森领导的新研究转而使用格陵兰鲨的眼部晶状体进行放射性碳测年。</source>
+    <reference>NA</reference>
+    <translation system="107_ifeng0812.news.49767888_0_zh.ht">New research led by Julius Nielsen of Denmark’s University of Copenhagen used the lens of the eyes of the Greenland shark to carry out radiocarbon dating.</translation>
+    <translation system="107_ifeng0812.news.49767888_0_zh.gg">New research led by 尤利乌斯·尼尔森, from the University of Copenhagen in Denmark, turned to the use of the eye lens of the Greenland shark for radiocarbon dating.</translation>
+    <translation system="107_ifeng0812.news.49767888_0_zh.c6">The new study, led by Julius Nielsen of the University of Copenhagen in Denmark, turned to radiocarbon dating using the eye lens of the Greenland shark.</translation>
+  </seg>
+  <seg id="5" doc-id="107_ifeng0812.news.49767888_0_zh.sl">
+    <source>这种方法此前曾用于测定鲸鱼的年龄，但用来确定鲨鱼等鱼类的年龄还是第一次。</source>
+    <reference>NA</reference>
+    <translation system="107_ifeng0812.news.49767888_0_zh.ht">This method has been used before to determine the age of a whale, but is used, for the first time, to determine the age of a shark and similar types of fish.</translation>
+    <translation system="107_ifeng0812.news.49767888_0_zh.gg">This method has previously been used to determine the age of whales, but it is the first time for fish to be identified as sharks.</translation>
+    <translation system="107_ifeng0812.news.49767888_0_zh.c6">The method has previously been used to determine the age of whales, but it is the first time it has been used to determine the age of fish such as sharks.</translation>
+  </seg>
+  <seg id="6" doc-id="107_ifeng0812.news.49767888_0_zh.sl">
+    <source>他们的分析显示，这头最大的鲨鱼寿命估计为392岁，误差为120岁。</source>
+    <reference>NA</reference>
+    <translation system="107_ifeng0812.news.49767888_0_zh.ht">Their analysis indicated that the largest shark has an age of about 392 years, with a standard error of about 120 years.</translation>
+    <translation system="107_ifeng0812.news.49767888_0_zh.gg">Their analysis shows that the largest shark has an estimated lifespan of 392 years, with an error of 120 years.</translation>
+    <translation system="107_ifeng0812.news.49767888_0_zh.c6">Their analysis showed that the largest shark had an estimated lifespan of 392 years, with a margin of error of 120 years.</translation>
+  </seg>
+  <seg id="7" doc-id="107_ifeng0812.news.49767888_0_zh.sl">
+    <source>这就是说，这条鲨鱼年龄至少是272岁，最大可能达到512岁。</source>
+    <reference>NA</reference>
+    <translation system="107_ifeng0812.news.49767888_0_zh.ht">This means that this shark is at least 272 years old, and could be as old as 512 years old.</translation>
+    <translation system="107_ifeng0812.news.49767888_0_zh.gg">This means that the shark is at least 272 years old and may be 512 years old.</translation>
+    <translation system="107_ifeng0812.news.49767888_0_zh.c6">This means that the shark is at least 272 years old and is likely to reach a maximum of 512 years old.</translation>
+  </seg>
+  <seg id="8" doc-id="107_ifeng0812.news.49767888_0_zh.sl">
+    <source>此外，雌性的格陵兰鲨据称要到身长约4米时才能性成熟，换算成年龄也就是至少要到156岁才成年。</source>
+    <reference>NA</reference>
+    <translation system="107_ifeng0812.news.49767888_0_zh.ht">A female Greenland Shark must reach a length of about 4 meters to reach reproductive maturity. When converted to actual age, she must be at least 156 years old before she is mature.</translation>
+    <translation system="107_ifeng0812.news.49767888_0_zh.gg">In addition, the female Greenland shark is said to be about 4 meters long to be sexually mature, conversion to age is at least 156 years old before adulthood.</translation>
+    <translation system="107_ifeng0812.news.49767888_0_zh.c6">In addition, female Greenland sharks reportedly do not reach sexual maturity until they are about 4 metres in length, which translates into an age of at least 156 years.</translation>
+  </seg>
+  <seg id="9" doc-id="107_ifeng0812.news.49767888_0_zh.sl">
+    <source>研究人员因此在论文中写道，格陵兰鲨是地球上已知的、最长寿的脊椎动物，超过了以前的长寿冠军露脊鲸（211岁）。</source>
+    <reference>NA</reference>
+    <translation system="107_ifeng0812.news.49767888_0_zh.ht">Researchers therefore included, within their paper, that the Greenland Shark is the currently-known longest-living vertebrate animal on Earth, surpassing the previous champion of right whales with a lifespan of 211 years.</translation>
+    <translation system="107_ifeng0812.news.49767888_0_zh.gg">The researchers wrote in the paper that the Greenland shark is known as the oldest vertebrate animal on Earth, surpassing the former longevity champion Right Whale (211 years old).</translation>
+    <translation system="107_ifeng0812.news.49767888_0_zh.c6">As a result, the researchers wrote in their paper, the Greenland shark is the longest-living vertebrate known on Earth, surpassing the previous long-lived champion right whale (211 years old).</translation>
+  </seg>
+</set>

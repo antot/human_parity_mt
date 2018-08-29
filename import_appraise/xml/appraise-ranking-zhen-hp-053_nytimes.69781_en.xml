@@ -1,0 +1,184 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="053_nytimes.69781_en.sl">
+    <source>美国在女子曲棍球赛中获得四连胜，将与英国一决胜负</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">The US has acquired four consecutive wins in the women's hockey game, and will be facing the UK to determine who’s the victor.</translation>
+    <translation system="053_nytimes.69781_en.gg">US wins four in women's hockey games</translation>
+    <translation system="053_nytimes.69781_en.c6">The United States won four straight in women's hockey and will go head-to-head with Great Britain</translation>
+  </seg>
+  <seg id="2" doc-id="053_nytimes.69781_en.sl">
+    <source>在6比1战胜日本的比赛中独中三元的凯蒂·巴姆于周四为美国女子曲棍球队率先梅开二度，帮助美国队以3比0战胜印度队。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">Katie Bam, who scored a hat trick in 6-1 victory over Japan, helped the USA women’s field hockey team defeat India 3-0 on Thursday by scoring two goals.</translation>
+    <translation system="053_nytimes.69781_en.gg">In the 6:1 victory over Japan, 凯蒂·巴姆, a triple-A-brace, took the lead in Thursday for the American women's hockey team to help the US team win the Indian team by 3:0.</translation>
+    <translation system="053_nytimes.69781_en.c6">Katie Bam, who scored three points in the 6-1 win over Japan, led the U.S. women's hockey team in a 3-0 victory over India on Thursday.</translation>
+  </seg>
+  <seg id="3" doc-id="053_nytimes.69781_en.sl">
+    <source>两场比赛五粒进球堪称技惊四座，但27岁的巴姆却表示她不知道自己有如此出色的表现。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">Having scored 5 goals in 2 games and astounding the audience with her skills, Bam, currently 27 years old, expressed that she was unaware that her performance has garnered such attentions.</translation>
+    <translation system="053_nytimes.69781_en.gg">Two of the five goals were four, but Bam, 27, said she didn't know she was doing so well.</translation>
+    <translation system="053_nytimes.69781_en.c6">Five goals in two games is a shock, but the 27-year-old says she didn't know she was doing so well.</translation>
+  </seg>
+  <seg id="4" doc-id="053_nytimes.69781_en.sl">
+    <source>她表示：“我对此一无所知。”</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">She said, “I haven’t the faintest idea.”</translation>
+    <translation system="053_nytimes.69781_en.gg">"I know nothing about it," she says. ”</translation>
+    <translation system="053_nytimes.69781_en.c6">"I don't know anything about that," she said.</translation>
+  </seg>
+  <seg id="5" doc-id="053_nytimes.69781_en.sl">
+    <source>我不是那种会记住自己进过几个球的人。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">I am not someone who would remember how many goals I scored.</translation>
+    <translation system="053_nytimes.69781_en.gg">I'm not the kind of person who remembers how many goals I've scored.</translation>
+    <translation system="053_nytimes.69781_en.c6">I'm not the type of person who remembers how many goals I've scored.</translation>
+  </seg>
+  <seg id="6" doc-id="053_nytimes.69781_en.sl">
+    <source>她所知道的是美国队在奥运会上已取得四连胜并且将与小组中在周四以2比0战胜了日本队后未尝败绩的英国队争夺小组第一。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">She knew that the American team has achieved 4 consecutive victories in the Olympics, and will be playing against the UK team for the first position in the division. The UK team has just defeated the Japanese team on Thursday with a score of 2 to 0.</translation>
+    <translation system="053_nytimes.69781_en.gg">What she knows is that the United States team has won four consecutive games in the Olympics and will compete with the team for the first team in England after winning the 2:0 victory over Japan in Thursday.</translation>
+    <translation system="053_nytimes.69781_en.c6">What she knows is that the United States has won four straight games at the Olympics and will be competing for first place in the group with the British team that won 2-0 against Japan on Thursday.</translation>
+  </seg>
+  <seg id="7" doc-id="053_nytimes.69781_en.sl">
+    <source>英国和美国在周六第一轮最后一场比赛中狭路相逢。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">The UK and the US will face each other in the first round of the competition on Saturday.</translation>
+    <translation system="053_nytimes.69781_en.gg">Britain and the United States were in the first round of the last game in Saturday.</translation>
+    <translation system="053_nytimes.69781_en.c6">Britain and the United States met on Saturday in the final game of the first round.</translation>
+  </seg>
+  <seg id="8" doc-id="053_nytimes.69781_en.sl">
+    <source>两队均以晋级四分之一决赛，这场比赛将决定谁以小组第一的身份出现。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">Both teams are in quarterfinal. It is the match for group winner.</translation>
+    <translation system="053_nytimes.69781_en.gg">Both teams qualify for the One-fourth finals, which will determine who is the first in the group.</translation>
+    <translation system="053_nytimes.69781_en.c6">Both teams advanced to the quarter-finals, a match that will determine who comes in at the top of the group.</translation>
+  </seg>
+  <seg id="9" doc-id="053_nytimes.69781_en.sl">
+    <source>取得小组第一的球队将避免遇到强大的荷兰队，从而能够走得更远。荷兰队以另一小组第一的身份出线。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">The team that achieves the first place in the group will be able to avoid the much stronger Netherlands team and go further in this event. The Netherlands team has emerged as the first place in another group.</translation>
+    <translation system="053_nytimes.69781_en.gg">The team that won the first team will avoid the strong Holland team and can go further. The Dutch team is in the first position of another group.</translation>
+    <translation system="053_nytimes.69781_en.c6">The team that finished first in the group will be able to go further by avoiding the mighty Dutch, who came out first in the other group.</translation>
+  </seg>
+  <seg id="10" doc-id="053_nytimes.69781_en.sl">
+    <source>在周六的比赛中，美国队以惊人的表现创造了奇迹。要知道在四年前的伦敦奥运会上，美国队在12支队伍中垫底。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">During the competition on Saturday, the American team astounding performance achieved a miracle. Just four years ago at the London Olympics, the American team was given the lowest ranks of the 12 teams.</translation>
+    <translation system="053_nytimes.69781_en.gg">In the Saturday game, the American team created miracles with astonishing performance. The United States was at the bottom of 12 teams in the London Olympics four years ago.</translation>
+    <translation system="053_nytimes.69781_en.c6">The United States performed miraculously on Saturday, finishing bottom of the 12 teams at the London Games four years ago.</translation>
+  </seg>
+  <seg id="11" doc-id="053_nytimes.69781_en.sl">
+    <source>巴姆也在当时的那支队伍中。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">Bam was in that team at the time.</translation>
+    <translation system="053_nytimes.69781_en.gg">BAM was in the same team.</translation>
+    <translation system="053_nytimes.69781_en.c6">Bam was also on that team at the time.</translation>
+  </seg>
+  <seg id="12" doc-id="053_nytimes.69781_en.sl">
+    <source>巴姆成长于宾夕法尼亚州布鲁贝尔，在3岁时第一次拿起曲棍球棍 （她的双胞胎姐姐在德雷克塞尔从事这项运动）并且在16岁时加入国家队，成为了迄今为止最年轻的国家队成员。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">Bam grew up in Blue Bell, Pennsylvania, and picked up a hockey stick for the first time when she was three years old (her older twin sisters are field hockey players at Drexel). She joined the national team at 16, and is to date, the youngest member of the national team.</translation>
+    <translation system="053_nytimes.69781_en.gg">Bam Cheng, who was the youngest member of the national team to date, was the first to pick up a lacrosse bat (her twin sister in Drexel) at the age of 3 and join the national team at the age of 16.</translation>
+    <translation system="053_nytimes.69781_en.c6">Bam, who grew up in Breubel, Pa., picked up a hockey stick for the first time at age 3 (her twin sister played the sport in Drexel) and joined the national team at the age of 16, becoming the youngest member of the national team to date.</translation>
+  </seg>
+  <seg id="13" doc-id="053_nytimes.69781_en.sl">
+    <source>由于未能入选最终名单，她错过了2008年奥运会。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">She missed out on the 2008 Olympic Games because she failed to make the shortlist.</translation>
+    <translation system="053_nytimes.69781_en.gg">She missed the 2008 Olympics because she failed to shortlist the final list.</translation>
+    <translation system="053_nytimes.69781_en.c6">She missed the 2008 Olympics because she failed to make the final list.</translation>
+  </seg>
+  <seg id="14" doc-id="053_nytimes.69781_en.sl">
+    <source>2012年，她和她的队友都不被看好。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">In 2012, both she and her teammates were regarded as underdogs.</translation>
+    <translation system="053_nytimes.69781_en.gg">2012, she and her teammates are not optimistic.</translation>
+    <translation system="053_nytimes.69781_en.c6">In 2012, she and her teammates were viewed unfavorably.</translation>
+  </seg>
+  <seg id="15" doc-id="053_nytimes.69781_en.sl">
+    <source>第二年，英国人克雷格·帕纳姆担任主教练，一切开始发生改变。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">During the second year, when Craig Panam from Britain became the main coach, everything started to change.</translation>
+    <translation system="053_nytimes.69781_en.gg">The next year, the British 克雷格·帕纳姆 as head coach, everything began to change.</translation>
+    <translation system="053_nytimes.69781_en.c6">The following year, the Englishman Craig Panham took over as head coach and everything started to change.</translation>
+  </seg>
+  <seg id="16" doc-id="053_nytimes.69781_en.sl">
+    <source>巴姆表示：“这是一次文化、心态和实质上的改变。”</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">Bam said, “This was a cultural, mindset and substantive change.”</translation>
+    <translation system="053_nytimes.69781_en.gg">"This is a cultural, psychological and substantive change," says Bam. ”</translation>
+    <translation system="053_nytimes.69781_en.c6">"It's a change of culture, mentality and substance," Mr Bam said.</translation>
+  </seg>
+  <seg id="17" doc-id="053_nytimes.69781_en.sl">
+    <source>我们当时在伦敦还未达到目前的水平。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">Our standards back at London have yet to reach our current level.</translation>
+    <translation system="053_nytimes.69781_en.gg">We had not yet reached the current level in London.</translation>
+    <translation system="053_nytimes.69781_en.c6">We weren't at our current level in London.</translation>
+  </seg>
+  <seg id="18" doc-id="053_nytimes.69781_en.sl">
+    <source>我们来了一次彻彻底底的翻身。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">We were able to achieve a complete reversal.</translation>
+    <translation system="053_nytimes.69781_en.gg">We came to a full end.</translation>
+    <translation system="053_nytimes.69781_en.c6">We had a complete turnaround.</translation>
+  </seg>
+  <seg id="19" doc-id="053_nytimes.69781_en.sl">
+    <source>周四晚上，巴姆在上半场以一记近距离反手射门先拔头筹。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">On Thursday night, Bam delivered a backhand shot at close range to score the first goal in the first half.</translation>
+    <translation system="053_nytimes.69781_en.gg">In the evening of Thursday, Bam scored first in a near-range backhand.</translation>
+    <translation system="053_nytimes.69781_en.c6">On Thursday night, Bam took the lead with a close-range backhand shot in the first half.</translation>
+  </seg>
+  <seg id="20" doc-id="053_nytimes.69781_en.sl">
+    <source>印度的在本届比赛中还未尝胜果，但这支队伍表现出了惊人的顽强斗志并且将1比0的比分保持到第三节快结束时，这时巴姆爆发了。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">India has yet to achieve victory in this Games, but the team has demonstrated amazing determination and kept the score at 1:0 until nearly the end of the third quarter. This was when Bam started the rampage.</translation>
+    <translation system="053_nytimes.69781_en.gg">India's game has not yet won, but the team showed a surprisingly strong fighting spirit and kept the 1:0 score to the end of the third quarter when BAM broke up.</translation>
+    <translation system="053_nytimes.69781_en.c6">India's were unbeaten in the tournament, but the team showed amazing tenacity and held on to a 1-0 run towards the end of the third quarter when Bam exploded.</translation>
+  </seg>
+  <seg id="21" doc-id="053_nytimes.69781_en.sl">
+    <source>她带球沿球场左侧长途奔袭，随后内切到中路，抽射入网，美国队2比0领先。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">She brought the ball along the left of the field for a long distance charge before cutting inwards to the center, delivering a shot that sent the ball into the goal, allowing the US team to gain a lead with 2:0.</translation>
+    <translation system="053_nytimes.69781_en.gg">She took the ball along the left side of the stadium long distance strikes, then cut to the middle road, volley net, the United States team 2:0 lead.</translation>
+    <translation system="053_nytimes.69781_en.c6">She took the ball on a long run down the left side of the court, then cut inside to the middle and volleyed into the net, giving the United States a 2-0 lead.</translation>
+  </seg>
+  <seg id="22" doc-id="053_nytimes.69781_en.sl">
+    <source>梅利萨·冈萨雷斯在第四节中期射入最后一球。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">Melissa Gonzalez scored the last goal in the middle of the fourth quarter.</translation>
+    <translation system="053_nytimes.69781_en.gg">梅利萨·冈萨雷斯 scored the last goal in the middle of the fourth quarter.</translation>
+    <translation system="053_nytimes.69781_en.c6">Melissa Gonzalez scored the final goal in the middle of the fourth quarter.</translation>
+  </seg>
+  <seg id="23" doc-id="053_nytimes.69781_en.sl">
+    <source>美国对门将杰基·布里吉斯在本届比赛上首次零封对手，在前三场胜利中，对手各打入一球。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">US goalkeeper Jaclyn Briggs shutout the opposition with the first clean sheet of the season. In the previous three wins, she let in one goal each.</translation>
+    <translation system="053_nytimes.69781_en.gg">In the first three victories, the United States scored a goal for the goalkeeper 杰基·布里吉斯 in 0 opponents in this competition.</translation>
+    <translation system="053_nytimes.69781_en.c6">The United States versus goalkeeper Jackie Briggs, who was unbeaten for the first time in the tournament, scored one goal in each of their first three victories.</translation>
+  </seg>
+  <seg id="24" doc-id="053_nytimes.69781_en.sl">
+    <source>这次她是超常发挥。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">This time, she put on an extraordinary performance.</translation>
+    <translation system="053_nytimes.69781_en.gg">This time she was an extraordinary play.</translation>
+    <translation system="053_nytimes.69781_en.c6">This time she's out of the ordinary.</translation>
+  </seg>
+  <seg id="25" doc-id="053_nytimes.69781_en.sl">
+    <source>巴姆也是。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">Bam too.</translation>
+    <translation system="053_nytimes.69781_en.gg">BAM, too.</translation>
+    <translation system="053_nytimes.69781_en.c6">Bam, too.</translation>
+  </seg>
+  <seg id="26" doc-id="053_nytimes.69781_en.sl">
+    <source>帕纳姆表示：“我们现在的状态很好”。但究竟有多好还要取决于周六比赛的结果。</source>
+    <reference>NA</reference>
+    <translation system="053_nytimes.69781_en.ht">Panum said, “We’re in good form right now”, but exactly how good would depend on the outcome of Saturday's match.</translation>
+    <translation system="053_nytimes.69781_en.gg">"We are in good shape," Panam says. But how good it is depends on the results of the Saturday game.</translation>
+    <translation system="053_nytimes.69781_en.c6">"We're in good shape," Mr Parnham said, but just how good will depend on the outcome of Saturday's game.</translation>
+  </seg>
+</set>

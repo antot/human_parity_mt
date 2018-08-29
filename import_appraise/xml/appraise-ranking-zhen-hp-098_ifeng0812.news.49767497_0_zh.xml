@@ -1,0 +1,16 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="098_ifeng0812.news.49767497_0_zh.sl">
+    <source>西藏尼玛县连发4.4、4.5级地震暂未造成人员伤亡</source>
+    <reference>NA</reference>
+    <translation system="098_ifeng0812.news.49767497_0_zh.ht">Consecutive earthquakes registering 4.4 and 4.5 on the Richter scale has occurred at the Tibetan County of Nima, no has been hurt or killed</translation>
+    <translation system="098_ifeng0812.news.49767497_0_zh.gg">No casualties caused by 4.4 and 4.5 earthquake in Nima County, Tibet</translation>
+    <translation system="098_ifeng0812.news.49767497_0_zh.c6">No casualties caused by successive earthquakes of magnitude 4.4 and 4.5 in Nima County, Tibet</translation>
+  </seg>
+  <seg id="2" doc-id="098_ifeng0812.news.49767497_0_zh.sl">
+    <source>据地方民政部门报告，目前暂未造成人员伤亡，具体灾情正在进一步统计核查中。</source>
+    <reference>NA</reference>
+    <translation system="098_ifeng0812.news.49767497_0_zh.ht">Local civil affairs departments reported that no casualty has been caused. The severity and damages caused by the disaster is currently being calculated and verified.</translation>
+    <translation system="098_ifeng0812.news.49767497_0_zh.gg">According to the local civil affairs Department reported that there is no casualties, the specific disaster is further statistical verification.</translation>
+    <translation system="098_ifeng0812.news.49767497_0_zh.c6">According to the local civil affairs department reported that there were no casualties, the specific disaster is being further statistical verification.</translation>
+  </seg>
+</set>

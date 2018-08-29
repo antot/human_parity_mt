@@ -1,0 +1,86 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="064_ifeng0812.news.49766281_0_zh.sl">
+    <source>核心提示：日本油企尤其对被称为“茶壶”的中国小型独立炼油厂崛起表示警惕。</source>
+    <reference>NA</reference>
+    <translation system="064_ifeng0812.news.49766281_0_zh.ht">Key reminder: Japan’s oil enterprises are wary of the rise of small independent oil refineries in China referred to as “teapots”.</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.gg">Core TIP: Japanese oil companies are particularly wary of the rise of China's small independent refineries, known as "teapots".</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.c6">Core tip: Japanese oil companies are particularly wary of the rise of China's small, independent refineries, known as teapots.</translation>
+  </seg>
+  <seg id="2" doc-id="064_ifeng0812.news.49766281_0_zh.sl">
+    <source>参考消息网8月12日报道日媒称，日本最大的石油企业JX能源认为，“中国的出口扩大是行情低迷的原因之一。</source>
+    <reference>NA</reference>
+    <translation system="064_ifeng0812.news.49766281_0_zh.ht">An August 12 report by cankaoxiaoxi.com revealed that Japan’s biggest oil enterprise JX Energy believed that, “Rising Chinese exports is one of the reasons for the sluggish market conditions.”</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.gg">"China's export expansion is one of the reasons for the downturn," said JX, Japan's largest oil company, according to the media, August 12.</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.c6">JX Energy, Japan's largest oil company, believes that "China's expanding exports are one of the reasons for the downturn," it said.</translation>
+  </seg>
+  <seg id="3" doc-id="064_ifeng0812.news.49766281_0_zh.sl">
+    <source>日本油企尤其对被称为“茶壶”的中国小型独立炼油厂崛起表示警惕。</source>
+    <reference>NA</reference>
+    <translation system="064_ifeng0812.news.49766281_0_zh.ht">Japanese oil companies are particularly wary of the rise of small independent oil refineries in China referred to as “teapots”.</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.gg">Japanese oil companies are particularly wary of the rise of China's small independent refineries, known as "teapots".</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.c6">Japanese oil companies in particular have expressed alarm over the rise of China's small, independent refineries, known as "teapots."</translation>
+  </seg>
+  <seg id="4" doc-id="064_ifeng0812.news.49766281_0_zh.sl">
+    <source>中国的石油产品品质因中国政府强化环保规定正在逐渐接近日本的油品。</source>
+    <reference>NA</reference>
+    <translation system="064_ifeng0812.news.49766281_0_zh.ht">As the Chinese government has stepped up environmental protection laws, the quality of petroleum products of China is now approaching those of Japan.</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.gg">The quality of China's petroleum products is getting closer to Japan's oil because of the Chinese government's strengthened environmental regulations.</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.c6">The quality of China's petroleum products is getting closer to that of Japan's because of the Chinese government's stricter environmental regulations.</translation>
+  </seg>
+  <seg id="5" doc-id="064_ifeng0812.news.49766281_0_zh.sl">
+    <source>在获得原油进口许可之前，“茶壶炼油厂”一般从俄罗斯等地进口硫磺含量较高的重油进行提炼。</source>
+    <reference>NA</reference>
+    <translation system="064_ifeng0812.news.49766281_0_zh.ht">Before gaining crude oil import permits, “teapot refineries” typically import crude oil from Russia and other places with higher sulfur content for refining.</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.gg">Before obtaining permission to import crude oil, "teapot refinery" generally imports from Russia and other places of high sulfur content of heavy oil refining.</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.c6">Before obtaining permission to import crude oil, "teapot refineries" generally import heavy oils with high sulphur content from places such as Russia for refining.</translation>
+  </seg>
+  <seg id="6" doc-id="064_ifeng0812.news.49766281_0_zh.sl">
+    <source>生产出来的石油产品硫磺含量较高，油品不佳，成为造成环境污染的原因之一。</source>
+    <reference>NA</reference>
+    <translation system="064_ifeng0812.news.49766281_0_zh.ht">The petroleum products produced have higher sulfur content, and are of poor quality. They are a contributing factor to environmental pollution.</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.gg">The production of petroleum products of high sulfur content, poor oil, become a cause of environmental pollution.</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.c6">The production of petroleum products with high sulfur content and poor oil quality has become one of the causes of environmental pollution.</translation>
+  </seg>
+  <seg id="7" doc-id="064_ifeng0812.news.49766281_0_zh.sl">
+    <source>在获得原油进口许可后，“茶壶炼油厂”能够进口硫磺含量较低的阿曼产原油和俄罗斯产原油，其石油产品的品质也出现提升。</source>
+    <reference>NA</reference>
+    <translation system="064_ifeng0812.news.49766281_0_zh.ht">Upon receiving crude oil import permits, “teapot refineries” are allowed to import crude oil with lower sulfur content from Oman and Russia. The quality of their petroleum products has also improved.</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.gg">The "Teapot refinery" has been able to import crude oil from Oman, which has a low sulphur content, and Russian crude oil, and the quality of its oil products has also improved, after obtaining import permits.</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.c6">After obtaining permission to import crude oil, the Teapot Refinery was able to import Omani and Russian crude oil with low sulphur content, and the quality of its petroleum products also improved.</translation>
+  </seg>
+  <seg id="8" doc-id="064_ifeng0812.news.49766281_0_zh.sl">
+    <source>东燃通用石油公司表示，“随着中国国内的石油产品品质标准不断提高，炼油设备的能力也出现提升。</source>
+    <reference>NA</reference>
+    <translation system="064_ifeng0812.news.49766281_0_zh.ht">TonenGeneral Group expressed that: “As quality standards for petroleum products from China continue to increase, improvements were also observed for the capacities of its oil refining facilities.</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.gg">"As China's domestic oil product quality standards continue to improve, the capacity of refining equipment has also improved," said Tepco.</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.c6">"As China's domestic standards for the quality of its oil products continue to improve, so does the capacity of its refining equipment," the company said.</translation>
+  </seg>
+  <seg id="9" doc-id="064_ifeng0812.news.49766281_0_zh.sl">
+    <source>结果，中国对外出口的石油产品品质逐渐达到与（世界最高品质的）日本相同的水平”。</source>
+    <reference>NA</reference>
+    <translation system="064_ifeng0812.news.49766281_0_zh.ht">As a result, the quality of petroleum products exported from China is gradually reaching parity with those from Japan.”</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.gg">As a result, the quality of China's exports of petroleum products has gradually reached the same level as Japan's (the world's highest quality).</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.c6">As a result, the quality of China's oil exports has gradually reached the same level as that of Japan, the world's highest quality.</translation>
+  </seg>
+  <seg id="10" doc-id="064_ifeng0812.news.49766281_0_zh.sl">
+    <source>JX能源表示，“2015年底之后，中国开始向澳大利亚出口高品质的轻油”，在亚洲市场上与日本产品形成竞争。</source>
+    <reference>NA</reference>
+    <translation system="064_ifeng0812.news.49766281_0_zh.ht">JX said that  since " China started exporting high-quality light oil to Australia from the end of 2015", the nation has become a competitor of Japan in the Asian market.</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.gg">"After the end of 2015, China began exporting high quality light oil to Australia," JX Energy said, creating competition with Japanese products in Asian markets.</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.c6">"After the end of 2015, China began exporting high-quality light oil to Australia," JX Energy said, competing with Japanese products in the Asian market.</translation>
+  </seg>
+  <seg id="11" doc-id="064_ifeng0812.news.49766281_0_zh.sl">
+    <source>尽管“日本高品油”正在面临危机，但日本油企采取的应对策略仅为“关注市场行情的同时向有利润可图的地区出口”。</source>
+    <reference>NA</reference>
+    <translation system="064_ifeng0812.news.49766281_0_zh.ht">Although “high quality oil from Japan” is facing a crisis, the response strategy adopted by Japanese oil companies is limited to “focusing on market situations and exporting to areas where a profit may be made”.</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.gg">Although "Japan's high oil" is facing a crisis, Japan's oil companies to respond to the strategy is "focus on the market while the profit can be exported to the region."</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.c6">While Japan's high oil is facing a crisis, Japanese oil companies are responding only by "focusing on the market while exporting to profitable areas".</translation>
+  </seg>
+  <seg id="12" doc-id="064_ifeng0812.news.49766281_0_zh.sl">
+    <source>由于中国出口的石油产品对亚洲市场行情的影响巨大，对茶壶炼油厂的关注度也越来越高。</source>
+    <reference>NA</reference>
+    <translation system="064_ifeng0812.news.49766281_0_zh.ht">As the petroleum products exported by China has an enormous impact on Asian market conditions, the focus on teapot refineries have also increased.</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.gg">As China's exports of oil products have a huge impact on Asian markets, they are increasingly concerned about teapot refineries.</translation>
+    <translation system="064_ifeng0812.news.49766281_0_zh.c6">There has also been growing interest in teapot refineries as Chinese exports of petroleum products have a huge impact on the Asian market.</translation>
+  </seg>
+</set>

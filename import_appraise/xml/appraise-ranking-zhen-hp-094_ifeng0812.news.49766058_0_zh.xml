@@ -1,0 +1,79 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="094_ifeng0812.news.49766058_0_zh.sl">
+    <source>根据重庆市气象局门户网对各区县高温天气的统计，除酉阳外，我市其余各地都能领取到不同程度的高温津贴。</source>
+    <reference>NA</reference>
+    <translation system="094_ifeng0812.news.49766058_0_zh.ht">Statistics on high temperature days of various districts provided on portal website of the Chongqing City Meteorological Administration said that with the exception of Youyang County, every area in the city could receive varying amounts of high temperature subsidies.</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.gg">According to the Chongqing Meteorological Bureau Portal Network on the high temperature of the statistics, in addition to Youyang, the rest of our city can receive different degrees of high temperature allowance.</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.c6">According to the Chongqing Meteorological Bureau portal to the high temperature of the counties statistics, in addition to Youyang, the rest of the city can receive different degrees of high temperature allowance.</translation>
+  </seg>
+  <seg id="2" doc-id="094_ifeng0812.news.49766058_0_zh.sl">
+    <source>目前全国至少已有28个省份明确了津贴发放标准，不过各省市发放的标准并不一样，而重庆则是按高温工作日津贴的方式领取高温津贴。</source>
+    <reference>NA</reference>
+    <translation system="094_ifeng0812.news.49766058_0_zh.ht">Currently, at least 28 provinces in the country have clarified their subsidy disbursement criteria, but the disbursement criteria differs among provinces. In Chongqing, high-temperature subsidy is received based on subsidy for high-temperature working days.</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.gg">At least 28 provinces in the country have clearly defined the criteria for granting allowances, although the standards are not the same, while Chongqing receives the high temperature allowance in the form of a high temperature working day allowance.</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.c6">At least 28 provinces across the country have now clarified the criteria for the payment of allowances, although the criteria are not the same in the provinces and municipalities, while Chongqing receives a high-temperature allowance in the form of a high-temperature working day allowance.</translation>
+  </seg>
+  <seg id="3" doc-id="094_ifeng0812.news.49766058_0_zh.sl">
+    <source>35℃以上37℃以下的，按每人每天不低于10元标准发放；37℃以上的，按每人每天不低于15元标准发放。</source>
+    <reference>NA</reference>
+    <translation system="094_ifeng0812.news.49766058_0_zh.ht">At temperatures equal or more than 35℃ and less than 37℃, each person shall be given a fee of not less than RMB10 per day. At temperatures higher than 37℃, each person shall be given a fee of not less than RMB15 per day.</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.gg">35 ℃ above 37 ℃, per person per day not less than 10 Yuan standard issued, 37 ℃ above, per person per day not less than 15 yuan standard issued.</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.c6">If the temperature is above 35 ° C and below 37 ° C, the standard is not less than 10 yuan per person per day, and if the temperature is above 37 ° C, the standard is not less than 15 yuan per person per day.</translation>
+  </seg>
+  <seg id="4" doc-id="094_ifeng0812.news.49766058_0_zh.sl">
+    <source>40℃以上高温工作人员每月最多可领20元/天的津贴（劳动者已经依法享受高温作业岗位津贴的除外）。</source>
+    <reference>NA</reference>
+    <translation system="094_ifeng0812.news.49766058_0_zh.ht">Workers working at above a temperature of 40℃ can receive a monthly subsidy of up to 20 RMB per day (this does not apply to a worker who is already provided with a high temperature operation subsidy according to law).</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.gg">40 ℃ above the high temperature staff can receive a monthly allowance of up to 20 yuan/day (except that the worker has already enjoyed the high temperature work allowance according to law).</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.c6">High temperature workers above 40 ℃ are entitled to a monthly allowance of up to 20 yuan / day (except for those workers who have already enjoyed the post allowance for high temperature operation in accordance with the law).</translation>
+  </seg>
+  <seg id="5" doc-id="094_ifeng0812.news.49766058_0_zh.sl">
+    <source>按照这一标准，上个月高温天气天数最多的开州能领到330元，天数最少的城口则是80元，而酉阳最高温由于没达到高温标准外，所以没有高温津贴。</source>
+    <reference>NA</reference>
+    <translation system="094_ifeng0812.news.49766058_0_zh.ht">According to this criteria, Kaizhou, which experienced the most number of high-temperature days last month would receive RMB330, while Chengkou which experienced the least number of days would received RMB80. As the highest temperature in Youyang did not exceed the high temperature benchmark, it did not receive any high-temperature subsidy.</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.gg">According to this standard, last month high temperature weather days the most open state can receive 330 yuan, the minimum number of days of Chengkou is 80 yuan, and Youyang the highest temperature due to not meet the high temperature standard, so there is no high temperature allowance.</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.c6">According to this standard, last month, the highest number of days of hot weather in Kaizhou can receive 330 yuan, the number of days the least Chengkou is 80 yuan, and Youyang the highest temperature due to not meet the high temperature standards, so there is no high temperature allowance.</translation>
+  </seg>
+  <seg id="6" doc-id="094_ifeng0812.news.49766058_0_zh.sl">
+    <source>以往不少单位会以清凉饮品冲抵高温津贴，市安监局表示这种行径不合乎现行办法。</source>
+    <reference>NA</reference>
+    <translation system="094_ifeng0812.news.49766058_0_zh.ht">In the past, many companies often use cooling and refreshing beverages to offset the high temperature subsidy. The city administration of work safety, however, expressed that this act is not compliant to the current laws.</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.gg">In the past, a number of flats will be charged with the high temperature allowance with cool drinks, the bureau said.</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.c6">In the past, many units would offset the high temperature allowance with refreshing drinks. The City Safety Supervision Bureau said that this practice was not in line with the current practice.</translation>
+  </seg>
+  <seg id="7" doc-id="094_ifeng0812.news.49766058_0_zh.sl">
+    <source>因高温天气停止工作、缩短工作时间的，用人单位不得扣除或降低劳动者工资。</source>
+    <reference>NA</reference>
+    <translation system="094_ifeng0812.news.49766058_0_zh.ht">Employers may not deduct or reduce the salary of laborers if work has to be suspended or work time reduced due to high temperatures.</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.gg">The employing unit shall not deduct or reduce the wages of the laborers because of the high temperature and the shortening of working time.</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.c6">The employing units shall not deduct or reduce the wages of the workers if they stop working or shorten their working hours due to the hot weather.</translation>
+  </seg>
+  <seg id="8" doc-id="094_ifeng0812.news.49766058_0_zh.sl">
+    <source>市人社局表示，员工遇到高温下作业却没收到高温津贴的，可通过企业所在的劳动争议调解机构争取合法权益，或拨打12333投诉。</source>
+    <reference>NA</reference>
+    <translation system="094_ifeng0812.news.49766058_0_zh.ht">The municipal human resources and social security bureau said that workers who worked under high temperatures without receiving high temperature allowance may fight for their legal rights by way of the labor dispute mediation mechanism, or call 12333 to file a complaint.</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.gg">City People's bureau said that staff encountered high temperature work but did not receive the high temperature allowance, can be through the enterprise's labor dispute mediation institutions to seek legal rights, or call 12333 complaints.</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.c6">The city's social service bureau said employees who have not received a high temperature allowance for working in high temperatures can fight for their legitimate rights and interests through the labor dispute mediation agency where the business is located, or call 12333 to lodge a complaint.</translation>
+  </seg>
+  <seg id="9" doc-id="094_ifeng0812.news.49766058_0_zh.sl">
+    <source>有用人单位拒不发放高温津贴的，劳动者可向用工所在地县级以上人力资源社会保障主管部门投诉。</source>
+    <reference>NA</reference>
+    <translation system="094_ifeng0812.news.49766058_0_zh.ht">In case employer refuse to pay high-temperature allowance, employee is entitled to complain to the local administrative authority of HR and social security at the county level.</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.gg">If the employer refuses to grant the high temperature allowance, the laborer may lodge a complaint with the competent department of Human Resources Social Security at the county level.</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.c6">If an employing unit refuses to pay a high-temperature allowance, the worker may file a complaint with the department in charge of human resources and social security at or above the county level in the place where the employee is employed.</translation>
+  </seg>
+  <seg id="10" doc-id="094_ifeng0812.news.49766058_0_zh.sl">
+    <source>同时由于高温津贴是工资的一部分，不是福利，要纳入工资总额、扣减个税。</source>
+    <reference>NA</reference>
+    <translation system="094_ifeng0812.news.49766058_0_zh.ht">Also, since the high temperature subsidy is considered part of the salary and not a benefit, it is included in total salary and subject to the personal income tax.</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.gg">At the same time, because the high temperature allowance is a part of wages, not benefits, to be included in payroll, deduction of tax.</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.c6">At the same time, since the high temperature allowance is part of the salary and not a benefit, it is included in the total salary and deducted from the tax.</translation>
+  </seg>
+  <seg id="11" doc-id="094_ifeng0812.news.49766058_0_zh.sl">
+    <source>因此高温津贴不在最低工资范围内，必须以现金形式发放，不能用饮料等实物代替。</source>
+    <reference>NA</reference>
+    <translation system="094_ifeng0812.news.49766058_0_zh.ht">High temperature subsidies are not included considered part of the minimum wage and must be issued in the form of cash. They cannot be replaced in the form of beverages or other tangible items.</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.gg">Therefore, the high temperature allowance is not in the minimum wage range, must be issued in cash form, can not use beverages and other physical substitutes.</translation>
+    <translation system="094_ifeng0812.news.49766058_0_zh.c6">The high temperature allowance is therefore not covered by the minimum wage and must be paid in cash and cannot be substituted in kind, such as beverages.</translation>
+  </seg>
+</set>

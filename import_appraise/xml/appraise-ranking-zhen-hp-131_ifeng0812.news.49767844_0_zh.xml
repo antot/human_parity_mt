@@ -1,0 +1,30 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="131_ifeng0812.news.49767844_0_zh.sl">
+    <source>此案件发生后，经多家媒体报道后，成为焦点案件，社会影响极坏。</source>
+    <reference>NA</reference>
+    <translation system="131_ifeng0812.news.49767844_0_zh.ht">The case resulted in harmful social impact after becoming the spotlight in the media publication.</translation>
+    <translation system="131_ifeng0812.news.49767844_0_zh.gg">After the case, after a number of media coverage, become the focus of the case, the social impact is very bad.</translation>
+    <translation system="131_ifeng0812.news.49767844_0_zh.c6">After this case, after a number of media reports, became the focus of the case, the social impact is extremely bad.</translation>
+  </seg>
+  <seg id="2" doc-id="131_ifeng0812.news.49767844_0_zh.sl">
+    <source>案件发生后，海口市公安局刑警支队领导高度重视，立即组织支队一大队精干警力主动出击展开侦查。</source>
+    <reference>NA</reference>
+    <translation system="131_ifeng0812.news.49767844_0_zh.ht">After the case occurred, leaders of the criminal police department of the  Haikou public security bureau attached great importance to the matter, and immediately organized a team of elite police force to initiate the investigation.</translation>
+    <translation system="131_ifeng0812.news.49767844_0_zh.gg">After the case, Haikou Public Security Bureau Police Detachment leadership attaches great importance to the immediate organization of a brigade of capable police initiative to launch an investigation.</translation>
+    <translation system="131_ifeng0812.news.49767844_0_zh.c6">After the case, Haikou Municipal Public Security Bureau, the leadership of the criminal police detachment attaches great importance to, immediately organized a detachment of elite police force to take the initiative to launch an investigation.</translation>
+  </seg>
+  <seg id="3" doc-id="131_ifeng0812.news.49767844_0_zh.sl">
+    <source>警方立即将该嫌疑人执行上网追逃，采取多种措施布控，并通过联系外地警方协查王某国的下落。</source>
+    <reference>NA</reference>
+    <translation system="131_ifeng0812.news.49767844_0_zh.ht">The police immediately initiated an online manhunt for the suspect, deployed multiple measures, and contacted police forces in other areas to find out the whereabouts of Wang X. Guo.</translation>
+    <translation system="131_ifeng0812.news.49767844_0_zh.gg">Police immediately put the suspect on the internet to run, take a variety of measures dispatched, and by contacting the foreign police investigation Wang a country's whereabouts.</translation>
+    <translation system="131_ifeng0812.news.49767844_0_zh.c6">Police immediately put the suspect on the Internet to pursue, to take a variety of measures deployed, and through contact with the police outside the country to help check the whereabouts of Wang.</translation>
+  </seg>
+  <seg id="4" doc-id="131_ifeng0812.news.49767844_0_zh.sl">
+    <source>由于该嫌疑人系盗窃惯犯，屡次被公安机关打击处理过，具有较强的反侦察能力，加上他长期吸毒，讯问中毒瘾时常发作，审讯工作非常困难。</source>
+    <reference>NA</reference>
+    <translation system="131_ifeng0812.news.49767844_0_zh.ht">As the suspect was a serial thief, and had been arrested and punished by the public security bureau, he had fairly strong anti-reconnaissance ability. Coupled with the fact that he was a drug addict, his addiction frequently occurred during questioning, making interrogation very difficult.</translation>
+    <translation system="131_ifeng0812.news.49767844_0_zh.gg">Because the suspect is a thief, repeatedly by the public security organs dealt with, has a strong ability to counter reconnaissance, coupled with his long-term drug addiction, interrogation poisoning often attack, interrogation work is very difficult.</translation>
+    <translation system="131_ifeng0812.news.49767844_0_zh.c6">Due to the fact that the suspect is a habitual thief and has been dealt with repeatedly by the public security organs, he has a strong ability of counter-detection, coupled with his long-term drug use, drug addiction often occurs during interrogation, and interrogation is very difficult.</translation>
+  </seg>
+</set>

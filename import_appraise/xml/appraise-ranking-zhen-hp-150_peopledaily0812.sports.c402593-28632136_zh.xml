@@ -1,0 +1,51 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="150_peopledaily0812.sports.c402593-28632136_zh.sl">
+    <source>备受关注的北京奥运会男单冠军、西班牙巨星纳达尔当日在男单比赛中直落两盘战胜对手晋级八强，男双比赛也晋级决赛。</source>
+    <reference>NA</reference>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.ht">Nadal, the renowned Spanish superstar who won the gold medal in men’s single in the Beijing Olympics, defeated his opponent in the men's single today with a two-match victory and entered the top-8, and reached the finals in the men's double.</translation>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.gg">The High-profile Beijing Olympic men's singles champion, the Spanish superstar Rafael Nadal in the men's singles competition in the same day, two defeated rivals to qualify for eight, 's competition also to qualify for the final.</translation>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.c6">The highly regarded Beijing Olympic men's singles champion and Spanish superstar Nadal beat his opponent in straight sets to advance to the final eight in the men's singles competition on the same day, and the men's doubles competition also advanced to the final.</translation>
+  </seg>
+  <seg id="2" doc-id="150_peopledaily0812.sports.c402593-28632136_zh.sl">
+    <source>作为金满贯得主的纳达尔，对奥运会情有独钟，伤未痊愈的他，此次三线出击，斩获颇丰。</source>
+    <reference>NA</reference>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.ht">Career Golden Slam winner Nadal has a preferential love for the Olympics. Still injured, he participated in three events, and reaped significant gains.</translation>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.gg">As a gold slam winner of Nadal, for the Olympic Games, the feelings of a single bell, the injury has not healed him, the three-lane attack, scored quite abundant.</translation>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.c6">Nadal, who is a gold slam winner with a penchant for the Olympics and has not recovered from his injuries, made the cut in a three-way strike.</translation>
+  </seg>
+  <seg id="3" doc-id="150_peopledaily0812.sports.c402593-28632136_zh.sl">
+    <source>他和队友洛佩兹将在男双决赛中与罗马尼亚选手特卡乌和梅格亚争夺金牌。</source>
+    <reference>NA</reference>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.ht">He and his teammate López will be facing the Romanian players Tecău and Mergea in the men's doubles.</translation>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.gg">He and teammate Lopez will compete for gold medals with Romanian players Tecau and Megha in the's finals.</translation>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.c6">He and teammate Lopez will compete for the gold medal in the men's doubles final against Romania's Tecau and Megea.</translation>
+  </seg>
+  <seg id="4" doc-id="150_peopledaily0812.sports.c402593-28632136_zh.sl">
+    <source>里约奥运会女单项目遭遇到多名种子选手退赛，经过几天激烈的争夺，女单四强１１日全部产生。</source>
+    <reference>NA</reference>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.ht">The women’s individual event at the Rio Olympics was affected by the withdrawal of many seeded players. After days of intense competition, the last four women for the individual event were determined on the 11th.</translation>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.gg">The Rio Olympics women's singles project has been encountered by many players, after several days of fierce competition, the woman's four strong 11th all produced.</translation>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.c6">The women's singles event at the Rio Olympics suffered a number of seeded withdrawals, with all four of the women's singles produced on Monday after several days of intense competition.</translation>
+  </seg>
+  <seg id="5" doc-id="150_peopledaily0812.sports.c402593-28632136_zh.sl">
+    <source>科维托娃将与普伊格争夺一张决赛的入场券，而另外一个决赛席位将在凯斯和科贝尔之间产生。</source>
+    <reference>NA</reference>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.ht">Kvitová and Puig will compete for a place in the finals, while Keys and Kerber will play each other for the other finalist spot.</translation>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.gg">Kovitova will compete with Puig for a final ticket, while another final seat will be created between Keith and Korbel.</translation>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.c6">Kvitova will compete with Puig for a ticket to the final, while another finals seat will be created between Keys and Corbell.</translation>
+  </seg>
+  <seg id="6" doc-id="150_peopledaily0812.sports.c402593-28632136_zh.sl">
+    <source>女双比赛的四强也全部产生，半决赛的对阵分别是：辛吉斯／巴辛斯基对赫拉德卡／赫拉瓦科娃；马卡洛娃／维斯尼娜对斯特里科娃／萨法洛娃。</source>
+    <reference>NA</reference>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.ht">The top-4 teams of the women’s doubles have emerged. The Semi-finals will be played by Hingis / Bacsinszky versus Hradecká / Hlaváčková and Makarova / Vesnina versus Strýcová / Šafářová.</translation>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.gg">The four competitions of the doubles are also all produced, the semi-final of the match is: Hingis/Basinski to Heradka/Hravakova; Makalova/Visnina to Strikova/Safarova.</translation>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.c6">The top four of the women's doubles competition were also all produced, with the semi-finals against: Hingis / Basinsky v Hradeka / Hravakova; Makarova / Vesnina v Strykova / Safarova.</translation>
+  </seg>
+  <seg id="7" doc-id="150_peopledaily0812.sports.c402593-28632136_zh.sl">
+    <source>这一天进行的混双比赛也决出了八强，不过头号种子马胡／加西亚组合的落马，以及纳豆组合的退赛，令混双比赛略有些失色。</source>
+    <reference>NA</reference>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.ht">The mixed doubles event held today also produced the last eight teams. However, top seeds Mahut/Garcia lost, and Nadal’s team withdrew. making the mixed doubles event somewhat lackluster.</translation>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.gg">The mixed doubles match was also the top eight, but the number one seed Longkou/Garcia combination of the Lok Ma, and the return of the Natto combination, the mixed doubles game slightly tarnished.</translation>
+    <translation system="150_peopledaily0812.sports.c402593-28632136_zh.c6">The mixed doubles match, which took place on that day, also decided the top eight, although the drop of the top-seeded Mahu / Garcia combination, and the withdrawal of the Natto combination, made the mixed doubles match a little bit discoloured.</translation>
+  </seg>
+</set>

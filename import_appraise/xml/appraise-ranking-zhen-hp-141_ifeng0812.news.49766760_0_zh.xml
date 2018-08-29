@@ -1,0 +1,44 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="141_ifeng0812.news.49766760_0_zh.sl">
+    <source>在展会期间购买农机的农户，继续实行累加补贴政策，农户购买农机最高可得到40%的补贴。</source>
+    <reference>NA</reference>
+    <translation system="141_ifeng0812.news.49766760_0_zh.ht">The policy of cumulative subsidies will continue to be implemented for farmers who purchased agricultural equipment during the expo. Farmers who purchased agricultural equipment may receive a maximum of 40% in subsidies.</translation>
+    <translation system="141_ifeng0812.news.49766760_0_zh.gg">During the exhibition to buy agricultural machinery farmers, continue to implement the cumulative subsidy policy, farmers buy agricultural machinery can be up to 40% of the subsidy.</translation>
+    <translation system="141_ifeng0812.news.49766760_0_zh.c6">Farmers who buy agricultural machinery during the exhibition continue to implement the cumulative subsidy policy, with farmers receiving up to 40 per cent of subsidies for the purchase of agricultural machinery.</translation>
+  </seg>
+  <seg id="2" doc-id="141_ifeng0812.news.49766760_0_zh.sl">
+    <source>本届展会面向全球招商招展，特别是加大了对“一带一路”沿线国家和目标市场国家的邀请力度。</source>
+    <reference>NA</reference>
+    <translation system="141_ifeng0812.news.49766760_0_zh.ht">This exhibit shall invite businesses and exhibitors from around the world, and specifically enhanced the attractiveness of the invitation to nations along the One Belt, One Road project as well as its target market countries.</translation>
+    <translation system="141_ifeng0812.news.49766760_0_zh.gg">The exhibition for the global investment promotion, especially the "all the way" along the country and target market countries to invite efforts.</translation>
+    <translation system="141_ifeng0812.news.49766760_0_zh.c6">The exhibition is aimed at attracting investment from all over the world. In particular, it has increased its invitation to countries along the "One Belt, One Road" and countries in the target market.</translation>
+  </seg>
+  <seg id="3" doc-id="141_ifeng0812.news.49766760_0_zh.sl">
+    <source>本届展会力争完成招商签约项目60个、引进资金220亿元，签订贸易合同160个以上，合同金额32亿元。</source>
+    <reference>NA</reference>
+    <translation system="141_ifeng0812.news.49766760_0_zh.ht">The exhibit for this year will strive to sign agreements for 60 projects, introduce 22.0 billion RMB of investments, and sign at least 160 trade contracts for a contractual sum of 3.2 billion RMB.</translation>
+    <translation system="141_ifeng0812.news.49766760_0_zh.gg">The exhibition aims to complete the signing of 60 investment projects, the introduction of capital of 22 billion yuan, signed a trade contract more than 160, the contract amount of 3.2 billion yuan.</translation>
+    <translation system="141_ifeng0812.news.49766760_0_zh.c6">The exhibition will strive to complete 60 investment projects, the introduction of capital of 22 billion yuan, signed more than 160 trade contracts, the contract amount of 3.2 billion yuan.</translation>
+  </seg>
+  <seg id="4" doc-id="141_ifeng0812.news.49766760_0_zh.sl">
+    <source>据悉，“湘博会”之所以连续7年落户娄底，缘于湖南省娄底市制造产业基础雄厚，产业发展历史久远。</source>
+    <reference>NA</reference>
+    <translation system="141_ifeng0812.news.49766760_0_zh.ht">From what we know, the reason the Hunan Expo has been held at the city of Loudi in Hunan for seven consecutive years was related to its strong manufacturing base, and its long history in industrial development.</translation>
+    <translation system="141_ifeng0812.news.49766760_0_zh.gg">It is reported that "Xiang Bo" The reason for 7 consecutive years settled in Loudi, the Loudi manufacturing industry in Hunan province, the foundation of a strong industrial development history.</translation>
+    <translation system="141_ifeng0812.news.49766760_0_zh.c6">It is reported that the "Xiang Fair" is located in Loudi for seven consecutive years, due to the manufacturing industry in Loudi City, Hunan Province, a solid foundation, a long history of industrial development.</translation>
+  </seg>
+  <seg id="5" doc-id="141_ifeng0812.news.49766760_0_zh.sl">
+    <source>作为“湘博会”的主办地，娄底已与全世界90多个国家建立了贸易往来关系。</source>
+    <reference>NA</reference>
+    <translation system="141_ifeng0812.news.49766760_0_zh.ht">As the main hosting venue for the Hunan Expo, Loudi has established trade relations with over 90 countries from around the world.</translation>
+    <translation system="141_ifeng0812.news.49766760_0_zh.gg">As the organizer of the "Xiang Bo meeting", Loudi has established trade relations with more than 90 countries around the world.</translation>
+    <translation system="141_ifeng0812.news.49766760_0_zh.c6">As the host of the "Xiang Fair", Loudi has established trade relations with more than 90 countries around the world.</translation>
+  </seg>
+  <seg id="6" doc-id="141_ifeng0812.news.49766760_0_zh.sl">
+    <source>“湘博会”成为当地培育特色产业发展、推动特色产业走出国门的重要平台。</source>
+    <reference>NA</reference>
+    <translation system="141_ifeng0812.news.49766760_0_zh.ht">The “Hunan Expo” has become an important platform for the Province in terms of nurturing the development of specialty industries, and propelling specialty industries to go abroad.</translation>
+    <translation system="141_ifeng0812.news.49766760_0_zh.gg">"Xiang Bo" has become an important platform for the local development of characteristic industries and the promotion of characteristic industries to go abroad.</translation>
+    <translation system="141_ifeng0812.news.49766760_0_zh.c6">"Xiang Fair" has become an important platform for the development of local characteristic industries and the promotion of the characteristic industries to go out of the country.</translation>
+  </seg>
+</set>

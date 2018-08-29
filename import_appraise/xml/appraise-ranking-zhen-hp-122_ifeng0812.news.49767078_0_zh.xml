@@ -1,0 +1,107 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="122_ifeng0812.news.49767078_0_zh.sl">
+    <source>升级改造后的京杭大运河支线航道老万福河、北大溜航道9月1日起收取通行费。</source>
+    <reference>NA</reference>
+    <translation system="122_ifeng0812.news.49767078_0_zh.ht">The upgraded and reconstructed tributary navigation channels of the Beijing-Hangzhou Grand Canal, namely Laowanfu River and Beidaliu navigation channels, have started to collect a toll on September 1.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.gg">After the upgrade and renovation of the Beijing-Hangzhou Grand Canal feeder channel Old Wanfu, the Peking University slip waterway September 1 to collect tolls.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.c6">After the upgrading of the Beijing-Hangzhou Grand Canal branch channel old Wanfu River, Beidaliao Channel from September 1 to collect tolls.</translation>
+  </seg>
+  <seg id="2" doc-id="122_ifeng0812.news.49767078_0_zh.sl">
+    <source>这两条支流航道采取社会融资方式进行改造建设,收费已获省政府相关部门批准。</source>
+    <reference>NA</reference>
+    <translation system="122_ifeng0812.news.49767078_0_zh.ht">The two branch navigation routes will be constructed by means of social financing. The funds have been approved by relevant departments of the provincial government.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.gg">These two tributary channel adopts the social financing way to carry on the reconstruction construction, the charge has been approved by the provincial government related department.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.c6">The two tributary waterways are reformed and constructed by means of social financing, and the fees have been approved by the relevant departments of the provincial government.</translation>
+  </seg>
+  <seg id="3" doc-id="122_ifeng0812.news.49767078_0_zh.sl">
+    <source>老万福河航道流经金乡、鱼台,经南阳湖进入京杭大运河主航道,全长32.5公里。</source>
+    <reference>NA</reference>
+    <translation system="122_ifeng0812.news.49767078_0_zh.ht">The navigation channel of Laowanfu River has a total length of 32.5 km, flowing through Jinxiang and Yutai before entering, via Nanyang Lake, the Grand Canal (Beijing-Hangzhou Grand Canal).</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.gg">Old Hail River channel through Jinxiang, Yutai, through the Nanyang Lake into the Beijing-Hangzhou Grand Canal Main, the length of 32.5 kilometers.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.c6">Old Wanfu River channel flows through Jinxiang, Yutai, through Nanyang Lake into the main channel of the Beijing-Hangzhou Grand Canal, the total length of 32.5 kilometers.</translation>
+  </seg>
+  <seg id="4" doc-id="122_ifeng0812.news.49767078_0_zh.sl">
+    <source>根据通航需要,老万福河航道采取养护改造的方式,对局部水深进行了浚深,局部急弯进行裁弯取直等,通航条件得以改善。</source>
+    <reference>NA</reference>
+    <translation system="122_ifeng0812.news.49767078_0_zh.ht">Based on navigational requirements, the Laowanfu River channel has adopted a method of maintenance and reconstruction, having partially dredged the riverbed to increase its depth, and partially straightening sharp bends in the river, among others. Conditions of the shipping channel have improved.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.gg">According to the need of navigation, the old Hail River waterway adopts the way of maintenance and transformation, and the local water depth is deep, the local sharp bend is straightened, and the navigation conditions are improved.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.c6">According to the need of navigation, the old Wanfu River channel adopted the way of maintenance and transformation, dredged the depth of local water, cut the sharp bend, and so on, and the navigation conditions were improved.</translation>
+  </seg>
+  <seg id="5" doc-id="122_ifeng0812.news.49767078_0_zh.sl">
+    <source>该航道流经金乡县、任城区,经南阳湖进入京杭大运河主航道,全长19公里。</source>
+    <reference>NA</reference>
+    <translation system="122_ifeng0812.news.49767078_0_zh.ht">This navigation channel has a total length of 19 km, flowing through Jinxiang County, Rencheng District, and entering, via Nanyang Lake, the Grand Canal.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.gg">The channel flows through the Jinxiang County, Rencheng District, through the Nanyang Lake into the Beijing-Hangzhou Grand Canal Main, 19 kilometers in length.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.c6">The channel flows through Jinxiang County, Rencheng District, through the Nanyang Lake into the main channel of the Beijing-Hangzhou Grand Canal, a total length of 19 kilometers.</translation>
+  </seg>
+  <seg id="6" doc-id="122_ifeng0812.news.49767078_0_zh.sl">
+    <source>两条航道的改造工程于2011年2月开工建设,2015年1月完成交工验收,投资建设和运营主体为济宁市安平运河物流服务中心。</source>
+    <reference>NA</reference>
+    <translation system="122_ifeng0812.news.49767078_0_zh.ht">Constructions to renovate the two navigational channels began in February 2011, and were completed in January 2015 for inspections. The Jining City Anping Canal Logistic Service Center is the primary investor and operator of the channels.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.gg">The renovation project of the two fairways was started in February 2011, completed the completion of completion in January 2015, investment construction and operation main body for Jining Anping Canal Logistics Service Center.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.c6">The reconstruction of the two waterways began in February 2011 and was completed in January 2015, with the investment, construction and operation of Jining Anping Canal Logistics Service Center.</translation>
+  </seg>
+  <seg id="7" doc-id="122_ifeng0812.news.49767078_0_zh.sl">
+    <source>按照“贷款建设、收费还贷”的原则,济宁市安平运河物流服务中心依据山东省物价局批复的收费标准征收航道通行费。</source>
+    <reference>NA</reference>
+    <translation system="122_ifeng0812.news.49767078_0_zh.ht">According to the " Build by loan, Charge to repay" principle, Anping Canal Logistic Service Center will charge the passage toll according to the rated approved by Shandong Price Bureau.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.gg">According to the principle of "loan construction, paying repayment", Jining anping Canal Logistics Service center collects waterway tolls according to the charge standard approved by Shandong Provincial Price Bureau.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.c6">In accordance with the principle of "loan construction, fee repayment", Jining Anping Canal Logistics Service Center collects waterway tolls according to the toll standards approved by the Shandong Provincial Price Bureau.</translation>
+  </seg>
+  <seg id="8" doc-id="122_ifeng0812.news.49767078_0_zh.sl">
+    <source>其中,基础通行费按1.75元/载重吨计收,里程通行费按0.05元/公里载重吨计收。</source>
+    <reference>NA</reference>
+    <translation system="122_ifeng0812.news.49767078_0_zh.ht">Of which, a basic transportation fee is charged at 1.75 RMB/ton carried. Mileage transportation fee is charged at 0.05 RMB/km for each ton carried.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.gg">Among them, the basic toll according to 1.75 yuan/deadweight tonnage, mileage tolls per 0.05 yuan/km DWT charge.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.c6">Among them, the basic toll is charged at 1.75 yuan / deadweight tons, and the mileage toll is charged at 0.05 yuan / kilometer load-bearing tons.</translation>
+  </seg>
+  <seg id="9" doc-id="122_ifeng0812.news.49767078_0_zh.sl">
+    <source>通行费征收时间自2016年6月15日起至2019年6月14日止。</source>
+    <reference>NA</reference>
+    <translation system="122_ifeng0812.news.49767078_0_zh.ht">Toll collection hours will begin on June 15, 2016 and end on June 14, 2019.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.gg">Tolls are levied from June 15, 2016 to June 14, 2019.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.c6">Tolls will be collected from 15 June 2016 until 14 June 2019.</translation>
+  </seg>
+  <seg id="10" doc-id="122_ifeng0812.news.49767078_0_zh.sl">
+    <source>记者从济宁市港航局了解到,目前济宁境内共有4条收费航道,分别为洙水河航道、白马河航道、北大溜航道、老万福河航道。</source>
+    <reference>NA</reference>
+    <translation system="122_ifeng0812.news.49767078_0_zh.ht">From the Jining Maritime and Port Bureau, the reporter learned that there are 4 paid navigation channels within Jining, namely Zhushui River, Baima River, Beidaliu, and Laowanfu River navigation channels.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.gg">The reporter learned from the Jining PMB that there are currently 4 toll lanes in the territory of Jining, namely, Shinghui Waterway, Baima River Channel, Peking Road, old Hail River waterway.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.c6">The reporter learned from the port and navigation bureau of jining that there are currently four toll channels in jining, namely, the soshui river channel, the baima river channel, the beidaliu channel, the old wanfu river channel.</translation>
+  </seg>
+  <seg id="11" doc-id="122_ifeng0812.news.49767078_0_zh.sl">
+    <source>4条航道为京杭大运河的支流航道,均采取社会融资的方式进行升级改造。</source>
+    <reference>NA</reference>
+    <translation system="122_ifeng0812.news.49767078_0_zh.ht">The four shipping lanes are tributary channels of the Beijing-Hangzhou Grand Canal, and were upgraded and reconstructed by way of public financing.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.gg">The 4 waterway is the tributary channel of the Grand Canal of Beijing-Hangzhou, and all of them adopt the way of social financing to upgrade.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.c6">The four waterways are tributaries of the Beijing-Hangzhou Grand Canal, all of which have been upgraded by means of social financing.</translation>
+  </seg>
+  <seg id="12" doc-id="122_ifeng0812.news.49767078_0_zh.sl">
+    <source>洙水河航道升级改造工程是第一个采用“政府+市场”的模式,用于山东省内河港航基础设施建设的项目,政府占主体投资,社会资金补充资金缺口。</source>
+    <reference>NA</reference>
+    <translation system="122_ifeng0812.news.49767078_0_zh.ht">The project for upgrading and reconstructing the Zhushui River navigation channel is a first time attempt to use a “government + market” model. The project is an infrastructure undertaking for river ports in Shandong Province, with the government being the main investor while social investments make up for the gap in funding required.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.gg">Shinghui waterway upgrading and renovation project is the first to adopt the "Government + Market" model, used in Shandong province inland waterway infrastructure construction projects, the government accounted for the main investment, social funds to replenish the funding gap.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.c6">Zhu Shuihe waterway upgrading and reconstruction project is the first to adopt the "government + market" model for the inland river port in Shandong Province, infrastructure construction projects, the government accounted for the main investment, social funds to supplement the funding gap.</translation>
+  </seg>
+  <seg id="13" doc-id="122_ifeng0812.news.49767078_0_zh.sl">
+    <source>白马河、老万福河、北大溜河等支线航道采取的是纯市场化运作的方式。</source>
+    <reference>NA</reference>
+    <translation system="122_ifeng0812.news.49767078_0_zh.ht">Baima River, Laowanfu River, Beidaliu River and other tributary navigational channels have adopted a pure market-based operating approach.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.gg">The White Horse River, the old Wanfu, the North River and other feeder channel take the pure market operation way.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.c6">Baima River, the old Wanfu River, North Daliaohe and other feeder channels to take a purely market-oriented mode of operation.</translation>
+  </seg>
+  <seg id="14" doc-id="122_ifeng0812.news.49767078_0_zh.sl">
+    <source>国家财政拨付的资金不能满足工程建设的需要,制约着航道升级的进度。</source>
+    <reference>NA</reference>
+    <translation system="122_ifeng0812.news.49767078_0_zh.ht">The funds provided by the national budget could not satisfy construction costs, limiting the progress for navigation route upgrades.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.gg">The funds allocated by the State can not meet the needs of construction and restrict the progress of the waterway upgrade.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.c6">The funds allocated by the state finance can not meet the needs of the construction project and restrict the progress of the upgrading of the waterway.</translation>
+  </seg>
+  <seg id="15" doc-id="122_ifeng0812.news.49767078_0_zh.sl">
+    <source>社会资金用于公共基础设施的建设符合国家政策的要求,也成为破解资金瓶颈的途径。</source>
+    <reference>NA</reference>
+    <translation system="122_ifeng0812.news.49767078_0_zh.ht">Social capital used for constructing public infrastructure is compliant to national policy requirements, and has become a means to resolve the capital bottleneck.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.gg">Social funds for public infrastructure construction in line with the requirements of national policies, but also become the way to crack capital bottlenecks.</translation>
+    <translation system="122_ifeng0812.news.49767078_0_zh.c6">Social funds for the construction of public infrastructure in line with the requirements of national policy, but also become the way to crack the bottleneck of funds.</translation>
+  </seg>
+</set>

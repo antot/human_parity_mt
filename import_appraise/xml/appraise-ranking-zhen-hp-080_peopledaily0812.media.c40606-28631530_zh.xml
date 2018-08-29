@@ -1,0 +1,30 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="080_peopledaily0812.media.c40606-28631530_zh.sl">
+    <source>该片预计于明年初在中央电视台和乐视首播，还将首次推出VR全景纪实版。</source>
+    <reference>NA</reference>
+    <translation system="080_peopledaily0812.media.c40606-28631530_zh.ht">This film is expected to be broadcast on CCTV and LeTV at the beginning of next year, and a VR panoramic documentary edition will be launched for the first time.</translation>
+    <translation system="080_peopledaily0812.media.c40606-28631530_zh.gg">The film is expected to be launched early next year on CCTV and Le video premiere, will also be the first VR panoramic documentary version.</translation>
+    <translation system="080_peopledaily0812.media.c40606-28631530_zh.c6">The film, which is expected to debut on China Central Television and LeTV early next year, will also feature a VR panoramic documentary version for the first time.</translation>
+  </seg>
+  <seg id="2" doc-id="080_peopledaily0812.media.c40606-28631530_zh.sl">
+    <source>纪录片《极地》是一部聚焦地球第三极青藏高原的大型作品，以全新视角讲述藏地传统与现代交融以及西藏与世界互动的故事。</source>
+    <reference>NA</reference>
+    <translation system="080_peopledaily0812.media.c40606-28631530_zh.ht">The documentary, The Extreme Road, is a major production that focuses on the Third Pole - the Tibetan Plateau. It gives an account of the blending of Tibetan traditions with modernity as well as Tibet’s interaction with the world from a totally new perspective.</translation>
+    <translation system="080_peopledaily0812.media.c40606-28631530_zh.gg">The documentary "Polar" is a large-scale work focusing on the third polar plateau of the Earth, with a new perspective on Tibetan tradition and modern blending as well as the story of Tibet's interaction with the world.</translation>
+    <translation system="080_peopledaily0812.media.c40606-28631530_zh.c6">The documentary "Polar" is a large-scale work focusing on the Qinghai-Tibet Plateau, the third pole of the Earth, and tells the story of the fusion of Tibetan tradition and modernity as well as the interaction between Tibet and the world from a new perspective.</translation>
+  </seg>
+  <seg id="3" doc-id="080_peopledaily0812.media.c40606-28631530_zh.sl">
+    <source>VR作品的最大优势是令观众具有独一无二的观影“沉浸”感，而这也对拍摄过程提出了更高要求。</source>
+    <reference>NA</reference>
+    <translation system="080_peopledaily0812.media.c40606-28631530_zh.ht">The biggest advantage of VR product is that it provides a unique sense of “immersion”. However, this also imposed higher requirements for the video recording process.</translation>
+    <translation system="080_peopledaily0812.media.c40606-28631530_zh.gg">The greatest advantage of VR works is to make the audience have a unique sense of "immersion", which also puts forward higher requirements for the filming process.</translation>
+    <translation system="080_peopledaily0812.media.c40606-28631530_zh.c6">The biggest advantage of VR's work is that it gives the audience a unique sense of "immersion" in the film, which also places a higher demand on the filming process.</translation>
+  </seg>
+  <seg id="4" doc-id="080_peopledaily0812.media.c40606-28631530_zh.sl">
+    <source>《极地》全景VR特别版的摄制团队表示，他们要确保每一个方位的画面都无可挑剔，让观众有身临其境之感。</source>
+    <reference>NA</reference>
+    <translation system="080_peopledaily0812.media.c40606-28631530_zh.ht">The filming crew for the panoramic VR special edition of Extreme Territory expressed that they will do what they can to ensure that every scene is depicted without defect, allowing the audience to feel that they’re right there in the scenery.</translation>
+    <translation system="080_peopledaily0812.media.c40606-28631530_zh.gg">The filming team of the Polar Panorama VR Special edition said they wanted to make sure that the screen of each location was impeccable and that the audience had an immersive feeling.</translation>
+    <translation system="080_peopledaily0812.media.c40606-28631530_zh.c6">The production team for the Polar's panoramic VR special edition said they wanted to make sure every aspect of the picture was impeccable, giving viewers a sense of immersion.</translation>
+  </seg>
+</set>

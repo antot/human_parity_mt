@@ -1,0 +1,23 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="134_guardian.127990_en.sl">
+    <source>视频报告显示：小头睡鲨是寿命最长的脊椎动物</source>
+    <reference>NA</reference>
+    <translation system="134_guardian.127990_en.ht">Video report: The small-headed sleeper shark is the longest-living vertebrate.</translation>
+    <translation system="134_guardian.127990_en.gg">The video report shows that the sleeping shark is the longest-lived vertebrate.</translation>
+    <translation system="134_guardian.127990_en.c6">Small-headed sleeping shark is the longest-living vertebrate, video report shows</translation>
+  </seg>
+  <seg id="2" doc-id="134_guardian.127990_en.sl">
+    <source>科学家表示，小头睡鲨 (Greenland shark) 是地球上寿命最长的脊椎动物。</source>
+    <reference>NA</reference>
+    <translation system="134_guardian.127990_en.ht">Scientists indicate that the Greenland shark is a vertebrate with the longest lifespan on Earth.</translation>
+    <translation system="134_guardian.127990_en.gg">The Greenland shark is the longest-lived vertebrate on earth, scientists say.</translation>
+    <translation system="134_guardian.127990_en.c6">Scientists say the Greenland shark is the longest-living vertebrate on Earth.</translation>
+  </seg>
+  <seg id="3" doc-id="134_guardian.127990_en.sl">
+    <source>一直研究鲨鱼的 Julius Nielsen 说，据资料记载，有一头雌性小头睡鲨的年龄预计介于272岁至512岁之间，体长达五米。</source>
+    <reference>NA</reference>
+    <translation system="134_guardian.127990_en.ht">Julius Nielsen, who has always been studying sharks, said that according to recorded data, there is a female small-headed sleeper shark with an age of 272 to 512 years and a body length of up to 5 meters.</translation>
+    <translation system="134_guardian.127990_en.gg">Julius Nielsen, who has been studying sharks, says the age of a female head sleeper is estimated to be between 272 and 512 years, up to five metres.</translation>
+    <translation system="134_guardian.127990_en.c6">Julius Nielsen, who has been studying sharks, said it has been documented that a female calf shark is estimated to be between 272 and 512 years old and up to five metres long.</translation>
+  </seg>
+</set>

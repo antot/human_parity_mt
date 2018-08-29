@@ -1,0 +1,107 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="136_upi.103575_en.sl">
+    <source>帕特里克·罗伊辞去雪崩队主帅一职</source>
+    <reference>NA</reference>
+    <translation system="136_upi.103575_en.ht">Patrick Roy resigned from his position as the captain of the Colorado Avalanche.</translation>
+    <translation system="136_upi.103575_en.gg">帕特里克·罗伊 resigned as Avalanche manager</translation>
+    <translation system="136_upi.103575_en.c6">Patrick Roy resigns as Avalanche manager</translation>
+  </seg>
+  <seg id="2" doc-id="136_upi.103575_en.sl">
+    <source>帕特里克·罗伊于周四辞去科罗拉多雪崩冰球队主教练兼副总裁一职，他表示自己在球队决策层面没有发言权。</source>
+    <reference>NA</reference>
+    <translation system="136_upi.103575_en.ht">Patrick Roy resigned from his position as head coach and vice-president of the Colorado Avalanche, and expressed that he had no voice in decision making for the team.</translation>
+    <translation system="136_upi.103575_en.gg">帕特里克·罗伊 resigned as manager and vice president of the Colorado Avalanche ice hockey team in Thursday, saying he had no say in the team's decision-making level.</translation>
+    <translation system="136_upi.103575_en.c6">Patrick Roe, who stepped down as head coach and vice president of the Colorado Avalanche ice hockey team on Thursday, said he had no say in the team's decision-making.</translation>
+  </seg>
+  <seg id="3" doc-id="136_upi.103575_en.sl">
+    <source>科罗拉多执行副总裁总经理乔·萨奇斯确认了这一消息并且表示俱乐部将立刻开始寻找新的主教练。</source>
+    <reference>NA</reference>
+    <translation system="136_upi.103575_en.ht">Colorado’s Executive Vice President &amp; General Manager Joe Sakic confirmed the news, and said that the club will immediately start looking for a new coach.</translation>
+    <translation system="136_upi.103575_en.gg">乔·萨奇斯, executive vice president of Colorado, confirmed the news and said the club would immediately start looking for a new manager.</translation>
+    <translation system="136_upi.103575_en.c6">Joe Sacks, Colorado's executive vice president and general manager, confirmed the news and said the club would immediately start looking for a new head coach.</translation>
+  </seg>
+  <seg id="4" doc-id="136_upi.103575_en.sl">
+    <source>五十岁的罗伊在声明中表示：“在过去三年中，我怀着活力、激情与决心履行科罗拉多雪崩队主教练兼副总裁的职责。”</source>
+    <reference>NA</reference>
+    <translation system="136_upi.103575_en.ht">50-year old Roy expressed in a statement: “For the last 3 years, I have been actively, passionately, and doggedly live up to my duties as the head coach and vice president of the Colorado Avalanche.”</translation>
+    <translation system="136_upi.103575_en.gg">"Over the past three years, I have been active, passionate and determined to fulfill the responsibilities of the Colorado Avalanche coach and vice president," Roy, 50, said in a statement. ”</translation>
+    <translation system="136_upi.103575_en.c6">"Over the past three years, I have fulfilled my responsibilities as head coach and vice president of the Colorado Avalanche with energy, passion and determination," the 50-year-old said in a statement.</translation>
+  </seg>
+  <seg id="5" doc-id="136_upi.103575_en.sl">
+    <source>我在整个夏季认真思考了该如何改进这支球队，使其具备更上一层楼的实力。</source>
+    <reference>NA</reference>
+    <translation system="136_upi.103575_en.ht">I have been thinking seriously all summer how to improve this team so that they can become stronger.</translation>
+    <translation system="136_upi.103575_en.gg">I've been thinking about how to improve this team throughout the summer and make it more powerful.</translation>
+    <translation system="136_upi.103575_en.c6">I spent the summer thinking hard about how I could improve this team and give it the strength to take it to the next level.</translation>
+  </seg>
+  <seg id="6" doc-id="136_upi.103575_en.sl">
+    <source>为此，这位主教练和副总裁的目标必需与俱乐部的目标相一致。</source>
+    <reference>NA</reference>
+    <translation system="136_upi.103575_en.ht">In this regard, the objective of the head coach and the Vice President must be consistent with that of the club.</translation>
+    <translation system="136_upi.103575_en.gg">To this end, the goal of the manager and vice president must be consistent with the goals of the club.</translation>
+    <translation system="136_upi.103575_en.c6">To that end, the manager's and vice president's objectives must be aligned with those of the club.</translation>
+  </seg>
+  <seg id="7" doc-id="136_upi.103575_en.sl">
+    <source>他还必需在影响球队表现的决策中拥有发言权。</source>
+    <reference>NA</reference>
+    <translation system="136_upi.103575_en.ht">He must be given a voice when making decisions that impact team performance.</translation>
+    <translation system="136_upi.103575_en.gg">He must also have a say in the decisions that affect the team's performance.</translation>
+    <translation system="136_upi.103575_en.c6">He also has to have a say in decisions that affect the team's performance.</translation>
+  </seg>
+  <seg id="8" doc-id="136_upi.103575_en.sl">
+    <source>但目前，这些条件还未满足。</source>
+    <reference>NA</reference>
+    <translation system="136_upi.103575_en.ht">However, these conditions have yet to be met.</translation>
+    <translation system="136_upi.103575_en.gg">But these conditions are not yet met.</translation>
+    <translation system="136_upi.103575_en.c6">But for now, these conditions have not been met.</translation>
+  </seg>
+  <seg id="9" doc-id="136_upi.103575_en.sl">
+    <source>萨奇斯于2013年5月23日聘请罗伊，他对罗伊为球队做出的贡献表示感谢。</source>
+    <reference>NA</reference>
+    <translation system="136_upi.103575_en.ht">Sakic hired Roy on May 23, 2013, and thanked Roy for the contribution he made to the team.</translation>
+    <translation system="136_upi.103575_en.gg">Sachs, who hired Roy on May 23, 2013, thanked Roy for his contribution to the team.</translation>
+    <translation system="136_upi.103575_en.c6">Sacks, who hired Roy on May 23, 2013, thanked Roe for his contribution to the team.</translation>
+  </seg>
+  <seg id="10" doc-id="136_upi.103575_en.sl">
+    <source>萨奇斯表示：“帕特里克在今天告诉了我他的决定。”</source>
+    <reference>NA</reference>
+    <translation system="136_upi.103575_en.ht">Sarquiss said, “Patrick informed me of his decision today.”</translation>
+    <translation system="136_upi.103575_en.gg">Sachs said: "Patrick told me his decision today." ”</translation>
+    <translation system="136_upi.103575_en.c6">"Patrick told me about his decision today," Mr Sachs said.</translation>
+  </seg>
+  <seg id="11" doc-id="136_upi.103575_en.sl">
+    <source>我们对他为俱乐部所作出的贡献表示感谢，并且希望他在未来一帆风顺。</source>
+    <reference>NA</reference>
+    <translation system="136_upi.103575_en.ht">I thank them for his contributions for the club and wish him success in the future.</translation>
+    <translation system="136_upi.103575_en.gg">We thanked him for the contribution he made to the club and hoped that he would be smooth sailing in the future.</translation>
+    <translation system="136_upi.103575_en.c6">We thank him for his contribution to the club and wish him well in the future.</translation>
+  </seg>
+  <seg id="12" doc-id="136_upi.103575_en.sl">
+    <source>罗伊在2013-14年执教雪崩队的首个赛季中被提名为杰克·亚当斯奖联盟最佳教练。</source>
+    <reference>NA</reference>
+    <translation system="136_upi.103575_en.ht">Roy was nominated as the League’s best coach in the Jack Adams Award in the first season after becoming the avalanche coach in 2013-2014.</translation>
+    <translation system="136_upi.103575_en.gg">Roy was nominated as the best coach of the 杰克·亚当斯 Award league in his first season with the 2013-14-year-old avalanche team.</translation>
+    <translation system="136_upi.103575_en.c6">Roy was nominated for the Jack Adams Award for the league's best coach in his first season coaching the Avalanche in 2013-14.</translation>
+  </seg>
+  <seg id="13" doc-id="136_upi.103575_en.sl">
+    <source>他帮助俱乐部获得了112分，位居中部分区第一。但科罗拉多队在季后赛第一轮就被明尼苏达队所淘汰，在最近两年均与季后赛失之交臂。</source>
+    <reference>NA</reference>
+    <translation system="136_upi.103575_en.ht">He helped the club score 112 points, allowing them to secure the top rank in the central region. However, the Colorado team was defeated and ousted by the Minnesotans in the first round of the post-season games, and continued to miss post-season games in the two most recent years.</translation>
+    <translation system="136_upi.103575_en.gg">He helped the club gain 112 points, ranking first in the Central Division. But the Colorado team was knocked out by Minnesota in the first round of the playoffs and missed the playoffs in the last two average.</translation>
+    <translation system="136_upi.103575_en.c6">He helped the club score 112 points and finish first in the central division, but Colorado was eliminated by Minnesota in the first round of the playoffs and missed the playoffs in the last two years.</translation>
+  </seg>
+  <seg id="14" doc-id="136_upi.103575_en.sl">
+    <source>2015-16赛季，雪崩队的成绩为39胜39平4负，最终以5分之差失去了西部大联盟赛区的第二张外卡资格。</source>
+    <reference>NA</reference>
+    <translation system="136_upi.103575_en.ht">During the 2015-2016 season, the performance of the Avalanche include 39 victories, 39 draws, and 4 defeats. The team lost the second wild card qualification short of 5 points for the Western Hockey League.</translation>
+    <translation system="136_upi.103575_en.gg">2015-16 season, the Avalanche team's result is 39 wins 39 flat 4 negative, finally has lost the Western Big League division second card qualifications in the 5 points difference.</translation>
+    <translation system="136_upi.103575_en.c6">The Avalanche finished with 39 wins, 39 draws and four losses in the 2015-16 season, and eventually lost their second wild-card spot in the Western Conference by five points.</translation>
+  </seg>
+  <seg id="15" doc-id="136_upi.103575_en.sl">
+    <source>作为名人堂守门员，罗伊共赢得过四座斯坦利杯，在为蒙特利尔加拿大人队和雪崩队效力时各获得两座。</source>
+    <reference>NA</reference>
+    <translation system="136_upi.103575_en.ht">As the goalkeeper of the hall of fame, Roy has won 4 Stanley Cups, winning two of them while playing for the Montreal Canadiens and another two while playing for Avalanche.</translation>
+    <translation system="136_upi.103575_en.gg">As goalkeeper of the Hall of Fame, Roy has won four Stanley Cups, each with two seats for the Montreal Canadian team and the Avalanche team.</translation>
+    <translation system="136_upi.103575_en.c6">As a Hall of Fame goalie, Roe has won four Stanley Cups, two each while playing for the Montreal Canadiens and the Avalanche.</translation>
+  </seg>
+</set>

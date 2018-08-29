@@ -1,0 +1,37 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="102_ifeng0812.news.49764636_0_zh.sl">
+    <source>上海市松江区交管部门近日使用电子警察整治驾驶员开车玩手机，一个星期查获30多起。</source>
+    <reference>NA</reference>
+    <translation system="102_ifeng0812.news.49764636_0_zh.ht">Departments of traffic control at Songjiang District of Shanghai City recently made use of electronic police to address the issue of using the cellphone while driving. 30 violators were identified within a week.</translation>
+    <translation system="102_ifeng0812.news.49764636_0_zh.gg">Shanghai Songjiang Handing Management department recently used electronic police to repair drivers to play mobile phones, one weeks seized more than 30.</translation>
+    <translation system="102_ifeng0812.news.49764636_0_zh.c6">Traffic authorities in Shanghai's Songjiang district have seized more than 30 cases a week using electronic police to crack down on drivers playing with their mobile phones while driving.</translation>
+  </seg>
+  <seg id="2" doc-id="102_ifeng0812.news.49764636_0_zh.sl">
+    <source>随着智能手机的普及，手机越来越好玩，刷微信、发微博乃至玩游戏、逛淘宝都成常态，很多人似乎须臾离不开手机，连开车的时候都停不下来。</source>
+    <reference>NA</reference>
+    <translation system="102_ifeng0812.news.49764636_0_zh.ht">As smart phones become more prevalent, mobile phones have become more fun. Swiping weixin, sending weibos, and even playing games and shopping on Taobao have become the norm. Many appear unable to leave their mobile phones alone for even an instant, even when  driving.</translation>
+    <translation system="102_ifeng0812.news.49764636_0_zh.gg">With the popularity of smartphones, mobile phones more and more fun, brush micro-letter, Hair micro-bo even play games, stroll Taobao is a normal, many people seem to be inseparable from the mobile phone, even when the car can not stop.</translation>
+    <translation system="102_ifeng0812.news.49764636_0_zh.c6">With the popularity of smartphones, mobile phones are becoming more and more fun, swiping WeChat, tweeting and even playing games and visiting Taobao have become the norm, and many people seem to be inseparable from their mobile phones, even when driving can not stop.</translation>
+  </seg>
+  <seg id="3" doc-id="102_ifeng0812.news.49764636_0_zh.sl">
+    <source>《道路交通安全法》明令禁止开车玩手机，并将它定义为“妨碍安全驾驶行为”。</source>
+    <reference>NA</reference>
+    <translation system="102_ifeng0812.news.49764636_0_zh.ht">The Road Traffic Safety Law expressly prohibits using one's mobile phone while driving, and has defined it as “obstructing safe driving”.</translation>
+    <translation system="102_ifeng0812.news.49764636_0_zh.gg">The Road Traffic Safety Act prohibits driving a mobile phone and defines it as "a hindrance to safe driving behavior".</translation>
+    <translation system="102_ifeng0812.news.49764636_0_zh.c6">The Road Traffic Safety Act explicitly prohibits playing with a mobile phone while driving, and defines it as "an act that interferes with safe driving."</translation>
+  </seg>
+  <seg id="4" doc-id="102_ifeng0812.news.49764636_0_zh.sl">
+    <source>遗憾的是，因违法者众、取证难等原因，这种现象并没有受到应有惩处，法律规定几乎成了摆设。</source>
+    <reference>NA</reference>
+    <translation system="102_ifeng0812.news.49764636_0_zh.ht">Shamefully, due to the number of violators and difficulties in gathering evidence, this phenomenon has not been properly punished. The law, it seems, is only for show.</translation>
+    <translation system="102_ifeng0812.news.49764636_0_zh.gg">Unfortunately, because of the illegal people, forensics and other reasons, this phenomenon has not been due to punishment, the legal provisions almost become a decoration.</translation>
+    <translation system="102_ifeng0812.news.49764636_0_zh.c6">Unfortunately, due to the large number of offenders, difficulties in obtaining evidence and other reasons, this phenomenon has not been punished as it should be, and the legal provisions have become almost a sham.</translation>
+  </seg>
+  <seg id="5" doc-id="102_ifeng0812.news.49764636_0_zh.sl">
+    <source>如果交管部门都能下定决心向开车玩手机行为“宣战”，将这一措施常态化，这种违法行为就一定能受到遏制。</source>
+    <reference>NA</reference>
+    <translation system="102_ifeng0812.news.49764636_0_zh.ht">If traffic control departments are determined to “declare war” against drivers using mobile phones and establish legal actions as standard practice, such violations can be controlled accordingly.</translation>
+    <translation system="102_ifeng0812.news.49764636_0_zh.gg">If the authorities can make up their minds to "declare war" on the behavior of mobile phones, the violation of this measure will be curbed.</translation>
+    <translation system="102_ifeng0812.news.49764636_0_zh.c6">If the authorities can all resolve to "declare war" on driving and playing with mobile phones and normalise the measure, the offence will surely be curbed.</translation>
+  </seg>
+</set>

@@ -1,0 +1,16 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="114_ifeng0812.news.49764894_0_zh.sl">
+    <source>据了解，海外会展成为推动浙江省“一带一路”建设的重要平台。</source>
+    <reference>NA</reference>
+    <translation system="114_ifeng0812.news.49764894_0_zh.ht">According to information, these overseas exhibitions have become an important platform for the One Belt, One Road project in Zhejiang Province.</translation>
+    <translation system="114_ifeng0812.news.49764894_0_zh.gg">It is understood that overseas exhibition has become an important platform to promote the construction of Zhejiang province.</translation>
+    <translation system="114_ifeng0812.news.49764894_0_zh.c6">It is understood that the overseas exhibition has become an important platform for promoting the construction of "One Belt, One Road" in Zhejiang Province.</translation>
+  </seg>
+  <seg id="2" doc-id="114_ifeng0812.news.49764894_0_zh.sl">
+    <source>这些海外展会的成功举办为继续开拓“一带一路”沿线新兴市场，打造海外会展综合平台积累了宝贵经验和良好基础。</source>
+    <reference>NA</reference>
+    <translation system="114_ifeng0812.news.49764894_0_zh.ht">With the successful overseas exhibitions, we gained valuable experiences and sound foundation to further expand the emerging markets in the " One Belt and One Road" strategy and build a comprehensive platform for overseas exhibitions.</translation>
+    <translation system="114_ifeng0812.news.49764894_0_zh.gg">The successful holding of these overseas exhibitions has accumulated valuable experience and good foundation for the development of the new markets along the "all the way" and the overseas exhibition platform.</translation>
+    <translation system="114_ifeng0812.news.49764894_0_zh.c6">The successful holding of these overseas exhibitions has accumulated valuable experience and a good foundation for continuing to explore the emerging markets along the Belt and Road and building a comprehensive platform for overseas exhibitions and conferences.</translation>
+  </seg>
+</set>
