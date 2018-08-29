@@ -1,0 +1,30 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="168_ifeng0812.news.49764457_0_zh.sl">
+    <source>奥组委委托制作国旗的第三方公司（非中国公司）在巴西圣保罗州，距离圣保罗市约75公里。</source>
+    <reference>NA</reference>
+    <translation system="168_ifeng0812.news.49764457_0_zh.ht">The third party company (non-Chinese company) commissioned by the International Olympic Committee to manufacture the flags is located in the State of São Paulo 75 kilometers away from the City of São Paulo.</translation>
+    <translation system="168_ifeng0812.news.49764457_0_zh.gg">The third-party company entrusted with the production of the national flag (non-Chinese company) is about 75 km from Los Palos in Sao Paulo, Brazil.</translation>
+    <translation system="168_ifeng0812.news.49764457_0_zh.c6">The third party company (non-Chinese) commissioned by the organising committee to make the flag is in the Brazilian state of São Paulo, about 75km from the city of São Paulo.</translation>
+  </seg>
+  <seg id="2" doc-id="168_ifeng0812.news.49764457_0_zh.sl">
+    <source>为督促厂家尽快完工，中国驻圣保罗总领馆组织专人赶赴厂家，深入做工作。</source>
+    <reference>NA</reference>
+    <translation system="168_ifeng0812.news.49764457_0_zh.ht">To urge manufacturers to complete their work as soon as possible, the Chinese Embassy in Sao Paulo arranged for experts to go to the manufacturers  to perform detailed work.</translation>
+    <translation system="168_ifeng0812.news.49764457_0_zh.gg">In order to urge manufacturers to complete as soon as possible, the Chinese Consulate-General in Sao Paulo to the factory, in-depth work.</translation>
+    <translation system="168_ifeng0812.news.49764457_0_zh.c6">In order to urge the manufacturers to complete the work as soon as possible, the Chinese Consulate General in Sao Paulo organized special staff to rush to the manufacturers and do in-depth work.</translation>
+  </seg>
+  <seg id="3" doc-id="168_ifeng0812.news.49764457_0_zh.sl">
+    <source>经过30个小时加班加点，该厂家终于完成中国国旗制作并装车赴运，将原本需要4－5个工作日的任务提前完成。</source>
+    <reference>NA</reference>
+    <translation system="168_ifeng0812.news.49764457_0_zh.ht">After 30 hours of overtime, the manufacturer finally finished making the Chinese flags and loaded them for shipment, completing a task that was to have taken four to five working days ahead of time.</translation>
+    <translation system="168_ifeng0812.news.49764457_0_zh.gg">After 30 hours of overtime, the factory finally completed the Chinese national flag production and loading to transport, the original 4-5-day task will be completed in advance.</translation>
+    <translation system="168_ifeng0812.news.49764457_0_zh.c6">After 30 hours of overtime, the manufacturer finally completed the production of the Chinese national flag and loaded the car for shipment, completing the task ahead of schedule, which would have taken four to five working days.</translation>
+  </seg>
+  <seg id="4" doc-id="168_ifeng0812.news.49764457_0_zh.sl">
+    <source>据悉，国旗预计于11日运抵里约，奥组委收到国旗后会送到各个奥运场馆，整个过程将在中国驻巴西使领馆的监督之下完成。</source>
+    <reference>NA</reference>
+    <translation system="168_ifeng0812.news.49764457_0_zh.ht">It was reported that the flag is expected to arrive in Rio on the 11th. The Olympic Committee, upon receiving the flag, will deliver it to all the Olympic stadiums. The Chinese Embassy in Brazil will oversee the entire process until its completion.</translation>
+    <translation system="168_ifeng0812.news.49764457_0_zh.gg">It is reported that the national flag is expected to arrive in Rio on 11th, and the Olympic Games will be sent to all venues after the national flag, the whole process will be under the supervision of the Chinese Embassy in Brazil to complete.</translation>
+    <translation system="168_ifeng0812.news.49764457_0_zh.c6">It is reported that the flag is expected to arrive in Rio on the 11th, the Olympic Organizing Committee received the flag will be sent to the various Olympic venues, the whole process will be completed under the supervision of the Chinese Embassy and Consulate in Brazil.</translation>
+  </seg>
+</set>

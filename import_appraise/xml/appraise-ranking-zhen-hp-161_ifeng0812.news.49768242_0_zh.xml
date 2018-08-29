@@ -1,0 +1,44 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="161_ifeng0812.news.49768242_0_zh.sl">
+    <source>本期大讲坛由山东大学政治与公共管理学院常务副院长曹现强教授主持。</source>
+    <reference>NA</reference>
+    <translation system="161_ifeng0812.news.49768242_0_zh.ht">Professor Cao Xianqiang, Vice Dean of the School of Political Science and Public Administration at Shandong University, will preside over the Forum.</translation>
+    <translation system="161_ifeng0812.news.49768242_0_zh.gg">The forum was presided over by Professor Cao, executive vice dean of the School of Politics and Public administration, Shandong University.</translation>
+    <translation system="161_ifeng0812.news.49768242_0_zh.c6">The forum was presided over by Professor Cao Xianqiang, Executive Vice President of the School of Politics and Public Administration of Shandong University.</translation>
+  </seg>
+  <seg id="2" doc-id="161_ifeng0812.news.49768242_0_zh.sl">
+    <source>世界经济全球化、一体化对执政能力带来哪些挑战?</source>
+    <reference>NA</reference>
+    <translation system="161_ifeng0812.news.49768242_0_zh.ht">What challenges will globalization and integration of the world economy pose to governance capabilities?</translation>
+    <translation system="161_ifeng0812.news.49768242_0_zh.gg">What are the challenges of global economic globalization and integration for governing capacity?</translation>
+    <translation system="161_ifeng0812.news.49768242_0_zh.c6">What challenges does the globalization and integration of the world economy bring to the ability to govern?</translation>
+  </seg>
+  <seg id="3" doc-id="161_ifeng0812.news.49768242_0_zh.sl">
+    <source>国家治理如何适应变化的世界?</source>
+    <reference>NA</reference>
+    <translation system="161_ifeng0812.news.49768242_0_zh.ht">How should national governance adapt to the changing world?</translation>
+    <translation system="161_ifeng0812.news.49768242_0_zh.gg">How does national governance adapt to a changing world?</translation>
+    <translation system="161_ifeng0812.news.49768242_0_zh.c6">How does national governance adapt to a changing world?</translation>
+  </seg>
+  <seg id="4" doc-id="161_ifeng0812.news.49768242_0_zh.sl">
+    <source>届时,范德尚将对上述问题进行全方位的剖析。</source>
+    <reference>NA</reference>
+    <translation system="161_ifeng0812.news.49768242_0_zh.ht">At this time, Fan Deshang will provide an extensive analysis of the aforementioned issues.</translation>
+    <translation system="161_ifeng0812.news.49768242_0_zh.gg">At that time, Vandechan will carry on the omni-directional analysis to afore-mentioned question.</translation>
+    <translation system="161_ifeng0812.news.49768242_0_zh.c6">At that time, van der Sar will be a comprehensive analysis of these issues.</translation>
+  </seg>
+  <seg id="5" doc-id="161_ifeng0812.news.49768242_0_zh.sl">
+    <source>范德尚系北京大学法学博士,北京大学全球治理研究中心副主任兼秘书长,曾任美国康奈尔大学驻北京办公室主任。</source>
+    <reference>NA</reference>
+    <translation system="161_ifeng0812.news.49768242_0_zh.ht">Fan Deshang is a Juris Doctor of Peking University, vice director and general secretary of the Peking University Global Governance Research Center, and director of the Cornell University Office in Beijing.</translation>
+    <translation system="161_ifeng0812.news.49768242_0_zh.gg">Van der is still a professor of law at Peking University, deputy Director and Secretary-General of the Center for Global Governance Research at Peking University, and former director of the Beijing office of Cornell University.</translation>
+    <translation system="161_ifeng0812.news.49768242_0_zh.c6">He is the Associate Director and Secretary General of the Center for Global Governance Studies of Peking University and former Director of the Beijing Office of Cornell University.</translation>
+  </seg>
+  <seg id="6" doc-id="161_ifeng0812.news.49768242_0_zh.sl">
+    <source>目前研究内容主要集中在全球政治、经济、科技、文化宗教等领域的深刻变化,以及这些变化对国家治理、领导力、全球治理带来的机遇和挑战。</source>
+    <reference>NA</reference>
+    <translation system="161_ifeng0812.news.49768242_0_zh.ht">Current research contents primarily focus on substantial changes to global politics, economy, technology, cultural religions, and the like, and how these changes provide opportunities and challenges for national administration, leadership, and global governance.</translation>
+    <translation system="161_ifeng0812.news.49768242_0_zh.gg">The current research focuses on the profound changes in the global politics, economics, science and technology, cultural and religious fields, and the opportunities and challenges that these changes pose to national governance, leadership, and global governance.</translation>
+    <translation system="161_ifeng0812.news.49768242_0_zh.c6">The current research focuses on the profound changes in global politics, economy, science and technology, culture and religion, and the opportunities and challenges that these changes bring to national governance, leadership and global governance.</translation>
+  </seg>
+</set>

@@ -1,0 +1,16 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="164_ifeng0812.news.49765523_0_zh.sl">
+    <source>黄山市现存非物质文化遗产项目1325个，种类和数量均居全省第一。</source>
+    <reference>NA</reference>
+    <translation system="164_ifeng0812.news.49765523_0_zh.ht">There are 1,325 intangible cultural and heritage assets in Huangshan City, giving the city the largest number and categories of such assets in the entire province.</translation>
+    <translation system="164_ifeng0812.news.49765523_0_zh.gg">Huangshan the existing Intangible cultural Heritage Project 1325, species and quantity are ranked first in the province.</translation>
+    <translation system="164_ifeng0812.news.49765523_0_zh.c6">There are 1325 existing intangible cultural heritage projects in Huangshan City, ranking first in the province in both kind and quantity.</translation>
+  </seg>
+  <seg id="2" doc-id="164_ifeng0812.news.49765523_0_zh.sl">
+    <source>由于徽文化非遗传承主要依赖口传面授，许多非遗濒临失传，运用数字化技术保存和保护势在必行。</source>
+    <reference>NA</reference>
+    <translation system="164_ifeng0812.news.49765523_0_zh.ht">As the transmission of the intangible cultural heritage of the Hui culture relies primarily on oral and face-to-face tradition, much intangible cultural heritage is on the brink of extinction. Using digital technology to store and protect it is imperative.</translation>
+    <translation system="164_ifeng0812.news.49765523_0_zh.gg">Because the inheritance of Hui culture is mainly dependent on oral face-to-face, many of them are dying, so it is imperative to use digital technology to save and protect.</translation>
+    <translation system="164_ifeng0812.news.49765523_0_zh.c6">As the non-hereditary inheritance of emblem culture mainly depends on oral transmission, many of them are on the verge of being lost, so it is imperative to use digital technology to preserve and protect them.</translation>
+  </seg>
+</set>

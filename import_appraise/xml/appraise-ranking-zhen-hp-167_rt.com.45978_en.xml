@@ -1,0 +1,58 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="167_rt.com.45978_en.sl">
+    <source>警方使用催泪瓦斯和橡胶子弹驱逐抗议的巴西学生</source>
+    <reference>NA</reference>
+    <translation system="167_rt.com.45978_en.ht">The police used tear gas and rubber bullets to disperse the protesting Brazilian students.</translation>
+    <translation system="167_rt.com.45978_en.gg">Police use tear gas and rubber bullets to expel protesting Brazilian students</translation>
+    <translation system="167_rt.com.45978_en.c6">Police use tear gas and rubber bullets to evict Brazilian students protesting</translation>
+  </seg>
+  <seg id="2" doc-id="167_rt.com.45978_en.sl">
+    <source>周四，在巴西圣保罗，学生在抗议政府公共教育体系改革的过程中与警方发生了冲突。</source>
+    <reference>NA</reference>
+    <translation system="167_rt.com.45978_en.ht">On Thursday, at São Paulo Brazil, students clashed with the police while protesting against the government over public educational system reform.</translation>
+    <translation system="167_rt.com.45978_en.gg">In São Paulo, Brazil, in Thursday, students clashed with police over the process of protesting the reform of the Government's public education system.</translation>
+    <translation system="167_rt.com.45978_en.c6">On Thursday, in Sao Paulo, Brazil, students clashed with police during a protest against reforms to the government's public education system.</translation>
+  </seg>
+  <seg id="3" doc-id="167_rt.com.45978_en.sl">
+    <source>警方使用催泪瓦斯和橡胶子弹驱逐抗议者。</source>
+    <reference>NA</reference>
+    <translation system="167_rt.com.45978_en.ht">The police used tear gas and rubber bullets to disperse the protesters.</translation>
+    <translation system="167_rt.com.45978_en.gg">Police used tear gas and rubber bullets to expel protesters.</translation>
+    <translation system="167_rt.com.45978_en.c6">Police used tear gas and rubber bullets to evict protesters.</translation>
+  </seg>
+  <seg id="4" doc-id="167_rt.com.45978_en.sl">
+    <source>此次事件的起因是执法部门官员试图驱散学生，因此警方使用了橡胶子弹和催泪瓦斯。</source>
+    <reference>NA</reference>
+    <translation system="167_rt.com.45978_en.ht">This incident was triggered by law enforcement officers attempting to disperse the students. Therefore, the police used rubber bullets and tear gas.</translation>
+    <translation system="167_rt.com.45978_en.gg">The cause of the incident was the attempt by law enforcement officials to disperse the students, so the police used rubber bullets and tear gas.</translation>
+    <translation system="167_rt.com.45978_en.c6">The incident began when law enforcement officials tried to disperse the students, so police used rubber bullets and tear gas.</translation>
+  </seg>
+  <seg id="5" doc-id="167_rt.com.45978_en.sl">
+    <source>几百名学生参加了此次游行，表达了他们对这些方案的不满。</source>
+    <reference>NA</reference>
+    <translation system="167_rt.com.45978_en.ht">Hundreds of students took part in the protest to express their dissatisfaction with these plans.</translation>
+    <translation system="167_rt.com.45978_en.gg">Hundreds of of students took part in the parade, expressing their dissatisfaction with the plans.</translation>
+    <translation system="167_rt.com.45978_en.c6">Several hundred students took part in the march to express their dissatisfaction with the programs.</translation>
+  </seg>
+  <seg id="6" doc-id="167_rt.com.45978_en.sl">
+    <source>为了节省资金，圣保罗州州长奥克明计划关闭100所公立学校，30万名学生将转校。</source>
+    <reference>NA</reference>
+    <translation system="167_rt.com.45978_en.ht">To save funds, Governor Alckmin of the State of São Paulo made plans to shut down 100 public schools. A total of 300,000 students will be transferred elsewhere.</translation>
+    <translation system="167_rt.com.45978_en.gg">To save money, Estado De Sao Paulo Governor Ockming plans to close 100 public schools and 300,000 students will be transferred to school.</translation>
+    <translation system="167_rt.com.45978_en.c6">In an effort to save money, the governor of São Paulo state, Okmin, plans to close 100 public schools and 300,000 students will switch schools.</translation>
+  </seg>
+  <seg id="7" doc-id="167_rt.com.45978_en.sl">
+    <source>一些参加抗议的学生通过墙上的涂鸦表达了对临时总统米歇尔·特梅尔的不满。</source>
+    <reference>NA</reference>
+    <translation system="167_rt.com.45978_en.ht">Some students who took part in the protest expressed their dissatisfaction with interim president Michel Temer by drawing graffiti on the wall.</translation>
+    <translation system="167_rt.com.45978_en.gg">Some protesting students expressed their dissatisfaction with the temporary President 米歇尔·特梅尔 through graffiti on the wall.</translation>
+    <translation system="167_rt.com.45978_en.c6">Some of the students who took part in the protest expressed their displeasure with interim President Michel Temer through graffiti on the wall.</translation>
+  </seg>
+  <seg id="8" doc-id="167_rt.com.45978_en.sl">
+    <source>就在最近的一次抗议发生前几天，抗议者集体走上街头，支持被国家参议院弹劾的总统迪尔玛·罗塞夫。</source>
+    <reference>NA</reference>
+    <translation system="167_rt.com.45978_en.ht">Just a few days before the latest protest, the protesters took the to street in force to support President Dilma Rousseff who had been impeached by the Senate of the country.</translation>
+    <translation system="167_rt.com.45978_en.gg">Just a few days before the recent protests, protesters collectively took to the streets to support President Dilma, who was impeached by the state Senate.</translation>
+    <translation system="167_rt.com.45978_en.c6">The latest protest comes just days after protesters took to the streets in support of President Dilma Rousseff, who has been impeached by the state Senate.</translation>
+  </seg>
+</set>

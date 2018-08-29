@@ -1,0 +1,37 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="159_reuters.165947_en.sl">
+    <source>美国支持的部队宣布他们已从伊斯兰国手中夺回曼比季</source>
+    <reference>NA</reference>
+    <translation system="159_reuters.165947_en.ht">US-backed troops announced that they have recaptured Manbij from ISIS</translation>
+    <translation system="159_reuters.165947_en.gg">U.S.-backed troops have announced they have recaptured Mambitti from the Islamic State.</translation>
+    <translation system="159_reuters.165947_en.c6">U.S.-backed forces announce they have recaptured Manbij from ISIS</translation>
+  </seg>
+  <seg id="2" doc-id="159_reuters.165947_en.sl">
+    <source>部队发言人于周五表示，城内残留的伊斯兰国士兵已全部离开，美国支持的部队已完全控制土耳其边境附近的北部城市曼比季。</source>
+    <reference>NA</reference>
+    <translation system="159_reuters.165947_en.ht">A military spokesperson expressed on Friday that the remaining Islamic State fighters have completely withdrawn. US-backed forces have gained complete control over the northern city of Manbij near the Turkish border.</translation>
+    <translation system="159_reuters.165947_en.gg">A spokesman for the force said in Friday that the remaining Islamist soldiers in the city had all left, and the United States-backed forces had fully controlled the northern city of Manchester, near the Turkish border.</translation>
+    <translation system="159_reuters.165947_en.c6">All remaining ISIS soldiers in the city have left and U.S.-backed forces have taken full control of the northern city of Manbij, near the Turkish border, a force spokesman said on Friday.</translation>
+  </seg>
+  <seg id="3" doc-id="159_reuters.165947_en.sl">
+    <source>在躲进城内的激进分子离开后，叙利亚民主力量 (SDF) 现在正在对全城进行扫荡。</source>
+    <reference>NA</reference>
+    <translation system="159_reuters.165947_en.ht">Now that radicals hiding in the city have left, the Syrian Democratic Forces (SDF) are conducting a crackdown of the entire city.</translation>
+    <translation system="159_reuters.165947_en.gg">The Syrian Democratic Forces (SDF) are now sweeping through the city after the militants who have been hiding in town have left.</translation>
+    <translation system="159_reuters.165947_en.c6">The Syrian Democratic Forces (SDF) are now sweeping the city after the departure of militants holed up inside the city.</translation>
+  </seg>
+  <seg id="4" doc-id="159_reuters.165947_en.sl">
+    <source>叙利亚民主力量同盟曼比季军事委员会的莎兰·达尔维什告诉路透社，他们已解救了2,000多名被激进分子劫持的平民。</source>
+    <reference>NA</reference>
+    <translation system="159_reuters.165947_en.ht">Sharfan Darwish of the Manbij Military Council of the Syrian Democratic Forces told Reuters that they have rescued over 2,000 civilians who were abducted by extremists.</translation>
+    <translation system="159_reuters.165947_en.gg">莎兰·达尔维什 of the Syrian Democratic Forces, the Manchester military commission, told Reuters that they had rescued more than 2,000 civilians abducted by militants.</translation>
+    <translation system="159_reuters.165947_en.c6">Sharan Darwish of the Manbij Military Council, an ally of the Syrian Democratic Forces, told Reuters that they had rescued more than 2,000 civilians who had been abducted by militants.</translation>
+  </seg>
+  <seg id="5" doc-id="159_reuters.165947_en.sl">
+    <source>他告诉路透社：“曼比季现在全在我们的控制之下，但我们仍在进行扫荡。”</source>
+    <reference>NA</reference>
+    <translation system="159_reuters.165947_en.ht">He told Reuters: “The entirety of Manbij is currently under our control, but we’re still implementing sweeps.”</translation>
+    <translation system="159_reuters.165947_en.gg">He told Reuters: "The Mann season is all under our control, but we are still sweeping it." ”</translation>
+    <translation system="159_reuters.165947_en.c6">"Manbij is all under our control now, but we're still in the middle of a sweep," he told Reuters.</translation>
+  </seg>
+</set>

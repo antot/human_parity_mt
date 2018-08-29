@@ -1,0 +1,16 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="156_ifeng0812.news.49764453_0_zh.sl">
+    <source>11日，在连云港港码头，由国电集团生产的42片风电叶片装船准备出口南非。</source>
+    <reference>NA</reference>
+    <translation system="156_ifeng0812.news.49764453_0_zh.ht">In November, 42 pieces of wind turbine blade manufactured by China Guodian Corporation were loaded at Lianyungang port for export to South Africa.</translation>
+    <translation system="156_ifeng0812.news.49764453_0_zh.gg">11th, at Lianyungang Port Pier, the 42-piece wind turbine blades produced by Guodian group were shipped for export to South Africa.</translation>
+    <translation system="156_ifeng0812.news.49764453_0_zh.c6">On November 11, 42 wind turbine blades produced by Guodian Group were shipped to South Africa for export at Lianyungang Port Terminal.</translation>
+  </seg>
+  <seg id="2" doc-id="156_ifeng0812.news.49764453_0_zh.sl">
+    <source>自去年以来，国电集团共计有163套风电项目陆续从连云港港出口南非。</source>
+    <reference>NA</reference>
+    <translation system="156_ifeng0812.news.49764453_0_zh.ht">Since last year, Guodian Corporation has exported a total of 163 wind power projects to South Africa from the Port of Lianyungang.</translation>
+    <translation system="156_ifeng0812.news.49764453_0_zh.gg">Since last year, the Guodian group has 163 sets of wind power projects exported to South Africa in succession from Lianyungang port.</translation>
+    <translation system="156_ifeng0812.news.49764453_0_zh.c6">Since last year, a total of 163 wind power projects have been exported from Lianyungang Port to South Africa.</translation>
+  </seg>
+</set>

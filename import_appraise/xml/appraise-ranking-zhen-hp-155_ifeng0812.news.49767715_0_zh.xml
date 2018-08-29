@@ -1,0 +1,16 @@
+<set id="zhen_hp" source-language="zh" target-language="en">
+  <seg id="1" doc-id="155_ifeng0812.news.49767715_0_zh.sl">
+    <source>据证监会官方微博消息，证监会今日表示，目前，两地证券监管部门以及深交所和港交所之间，正在密切合作。</source>
+    <reference>NA</reference>
+    <translation system="155_ifeng0812.news.49767715_0_zh.ht">China Securities Regulatory Commission (CSRC) indicated on its official weibo today that the two securities regulators are currently working closely together with the Shenzhen Stock Exchange and the Shanghai Stock Exchange.</translation>
+    <translation system="155_ifeng0812.news.49767715_0_zh.gg">According to the SFC's official microblog news, the SFC said today that it is working closely with the securities regulatory authorities and the Shenzhen and HKEx.</translation>
+    <translation system="155_ifeng0812.news.49767715_0_zh.c6">The SFC said today that there is close cooperation between the securities regulators of the two places, as well as between the Shenzhen Stock Exchange and the Hong Kong Stock Exchange, according to the SFC's official Weibo account.</translation>
+  </seg>
+  <seg id="2" doc-id="155_ifeng0812.news.49767715_0_zh.sl">
+    <source>同时，证监会成立了“深港通”专项工作小组，积极推进“深港通”的各项准备工作，待相关监管规则与技术装备就绪后，今年将择机开通。</source>
+    <reference>NA</reference>
+    <translation system="155_ifeng0812.news.49767715_0_zh.ht">Meanwhile, the CSRC formed a “Shenzhen-Hong Kong Stock Connect” special task force to actively advance the various preparatory work related to the “Shenzhen-Hong Kong Stock Connect”. When the relevant regulatory provisions and technical equipment are ready, it will commence operations at an opportune moment this year.</translation>
+    <translation system="155_ifeng0812.news.49767715_0_zh.gg">At the same time, the SFC set up a "Hong Kong-Shenzhen Tong" Special Working Group, and actively promote the "Hong Kong-Shenzhen Tong" all the preparatory work, pending the relevant regulatory rules and equipment ready, this year will be timing open.</translation>
+    <translation system="155_ifeng0812.news.49767715_0_zh.c6">At the same time, the CSRC has set up a special working group on the Shenzhen-Hong Kong Stock Connect to actively promote the preparations for the Shenzhen-Hong Kong Stock Connect, which will be launched this year when the relevant regulatory rules and technical equipment are in place.</translation>
+  </seg>
+</set>
